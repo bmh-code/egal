@@ -7,23 +7,24 @@ Skizze: `skizze.png` / `skizze.svg` (gleicher Ordner). Alle Maße in mm, wenn ni
 | | Wert |
 |---|---|
 | Gestell außen (B × T × H) | 1240 × 590 × 720 |
-| Tischplatte | 1300 × 650 × 18 (Variante A) oder 28 (Variante B) |
-| Gesamthöhe | 738 (A) / 748 (B) |
+| Tischplatte | 1300 × 650 × 18 (Variante A) oder 27 (Variante B) |
+| Gesamthöhe | 738 (A) / 747 (B) |
 | Überstand Tischplatte | 30 vorn, 30 je Seite, hinten 22 über der Rückwand |
-| Kniefreiraum | ca. 604 breit (mit rechten Schubladen), ca. 882 (ohne) |
+| Kniefreiraum | ca. 606 breit (mit rechten Schubladen), ca. 883 (ohne) |
 
 ## 2. Zuschnittliste Gestell
 
 | Teil | Anz. | Maß | Dicke | Material |
 |---|---|---|---|---|
 | Seitenplatte | 2 | 720 × 590 | 40 | Leimholz Kiefer |
-| Verbindungsplatte | 1 | 1160 × 590 | 28 | Leimholz Kiefer |
-| Trennplatte links | 1 | 692 × 590 | 28 | Leimholz Kiefer |
-| Trennplatte rechts (optional) | 1 | 692 × 590 | 28 | Leimholz Kiefer |
-| Tischplatte | 1 | 1300 × 650 | 18 oder 28 | Leimholz Kiefer |
+| Verbindungsplatte | 1 | 1160 × 590 | 27 | Leimholz Kiefer |
+| Trennplatte links | 1 | 693 × 590 | 27 | Leimholz Kiefer |
+| Trennplatte rechts (optional) | 1 | 693 × 590 | 27 | Leimholz Kiefer |
+| Tischplatte | 1 | 1300 × 650 | 18 oder 27 | Leimholz Kiefer |
 | Rückwand | 1 | 1240 × 720 | 8 | Sperrholz |
 
 Trennplatte links: 290 mm von der linken Außenkante (Öffnung genau 250 mm).
+Höhe der Trennplatten = 720 mm minus **tatsächliche** Dicke der Verbindungsplatte (bei exakt 27 mm: 693 mm). Vor dem Zuschnitt der Trennplatten die Dicke mit der Schieblehre messen.
 Rechte Trennplatte (falls gebaut): 290 mm von der rechten Außenkante.
 
 ## 3. Schubladen (pro Schublade, 4 links, optional 4 rechts)
@@ -37,19 +38,19 @@ Annahme: Kugelauszüge 500 mm mit ca. 12,7 mm Platz je Seite (Datenblatt des gek
 | Rückstück | 1 | 188 × 130 | 18 | Leimholz Kiefer |
 | Boden | 1 | 224 × 500 | 6 | Sperrholz |
 
-Höhenaufteilung: 40 Fuß + 4 × (160 Front + 3 Fuge) = 692 mm = freie Höhe unter der Verbindungsplatte.
-Die Unterkante der ersten Front liegt bei 40 mm über dem Boden, jede weitere 163 mm höher. Die letzte Fuge (3 mm) liegt oben zur Verbindungsplatte.
+Höhenaufteilung: 40 Fuß + 4 × (160 Front + 3 Fuge) = 692 mm. Die freie Höhe unter der Verbindungsplatte ist 693 mm (720 − 27).
+Die Unterkante der ersten Front liegt bei 40 mm über dem Boden, jede weitere 163 mm höher. Oben bleiben 4 mm Luft zur Verbindungsplatte.
 
 ## 4. Dübelplan
 
 | Verbindung | Dübel | Anzahl |
 |---|---|---|
 | Seitenplatte ↔ Verbindungsplatte | 8 × 40 mm | 5 je Seite |
-| Trennplatte ↔ Verbindungsplatte (Unterseite) | 8 × 40 mm | 5 je Trennplatte |
+| Trennplatte ↔ Verbindungsplatte (Unterseite) | 8 × 30 mm | 5 je Trennplatte |
 | Schubladenecken | 6 × 30 mm | 2 je Ecke (8 je Schublade) |
 
 Abstände der 5 Dübel von der Vorderkante: 50 / 172,5 / 295 / 417,5 / 540 mm.
-Bohrtiefe je Teil ca. 21 mm. Probeaufbau ohne Leim, dann Leimen in Etappen (erst Seiten + Verbindungsplatte, dann Trennplatte), Spanngurte. Diagonalen messen.
+Bohrtiefe bei den 40-mm-Dübeln je Teil ca. 21 mm, bei den 30-mm-Dübeln der Trennplatten je Teil 16 mm (die Verbindungsplatte ist nur 27 mm dick, sonst bleibt zu wenig Holz übrig). Probeaufbau ohne Leim, dann Leimen in Etappen (erst Seiten + Verbindungsplatte, dann Trennplatte), Spanngurte. Diagonalen messen.
 
 ## 5. Oberfläche: Lasur (alles Holz, 2–3 Anstriche)
 
@@ -84,7 +85,8 @@ Bei 10–14 m² je Liter und Anstrich sind das etwa 2,5–3 l (links) bzw. 3–4
 
 ## 6. Offene Punkte
 
-- Tischplatte 18 oder 28 mm (Preis entscheidet).
+- Tischplatte 18 oder 27 mm (Preis entscheidet).
+- Bauhaus führt die Platte nur in 27 mm statt 28 mm: Alle Maße sind darauf angepasst. Ob 27 mm Kiefer oder Fichte, hängt vom Sortiment ab.
 - Rechte Schubladen ja/nein.
 - Griffe/Knöpfe für die Schubladenfronten.
 - Verfügbare Plattenformate bei Bauhaus (Breite für die Tischplatte 650 mm, Sperrholz mindestens 1240 mm breit).
