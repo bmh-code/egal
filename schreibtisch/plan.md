@@ -43,14 +43,20 @@ Die Unterkante der ersten Front liegt bei 40 mm über dem Boden, jede weitere 16
 
 ## 4. Dübelplan
 
-| Verbindung | Dübel | Anzahl |
-|---|---|---|
-| Seitenplatte ↔ Verbindungsplatte | 8 × 40 mm | 5 je Seite |
-| Trennplatte ↔ Verbindungsplatte (Unterseite) | 8 × 30 mm | 5 je Trennplatte |
-| Schubladenecken | 6 × 30 mm | 2 je Ecke (8 je Schublade) |
+Vorhandenes Set (Meisterdübler): Dübel 6 × 30 (26 Stk.), 8 × 40 (22 Stk.), 10 × 40 (16 Stk.), Bohrer 6/8/10 mm, Tiefenstopps, Markierspitzen, 20-ml-Leim.
 
-Abstände der 5 Dübel von der Vorderkante: 50 / 172,5 / 295 / 417,5 / 540 mm.
-Bohrtiefe bei den 40-mm-Dübeln je Teil ca. 21 mm, bei den 30-mm-Dübeln der Trennplatten je Teil 16 mm (die Verbindungsplatte ist nur 27 mm dick, sonst bleibt zu wenig Holz übrig). Probeaufbau ohne Leim, dann Leimen in Etappen (erst Seiten + Verbindungsplatte, dann Trennplatte), Spanngurte. Diagonalen messen.
+| Verbindung | Dübel | Anzahl | Bohrtiefe |
+|---|---|---|---|
+| Seitenplatte ↔ Verbindungsplatte | 8 × 40 | 5 je Seite (10) | 21 mm in beide Teile |
+| Trennplatte ↔ Verbindungsplatte (Unterseite) | 8 × 30 (nachkaufen) | 5 je Trennplatte | 16 mm in beide Teile |
+| Alternative dazu | 8 × 40 (aus dem Set) | 5 je Trennplatte | 15 mm in der Verbindungsplatte, 27 mm in der Trennplatte (Hirnholz) |
+| Schubladenecken | 6 × 30 | 8 je Schublade (32 bei 4, 64 bei 8) | 12 mm in der Fläche, 19 mm in der Stirnseite |
+
+Im Set fehlen: 6 × 30 mm (es fehlen 6 bei 4 Schubladen, 38 bei 8) und ggf. 8 × 30 mm. Dazu eine Flasche Holzleim D3 (500 g) nachkaufen.
+
+Abstände der 5 Dübel von der Vorderkante (Seitenplatten/Trennplatten): 50 / 172,5 / 295 / 417,5 / 540 mm.
+
+Bohrtiefe in der Fläche von 18-mm-Brettern höchstens 12 mm (sonst bleibt zu wenig Holz). In der 27-mm-Verbindungsplatte von der Unterseite höchstens 16 mm. Probeaufbau ohne Leim, dann Leimen in Etappen (erst Seiten + Verbindungsplatte, dann Trennplatte), Spanngurte. Diagonalen messen. Dübellehre vorher an Resten mit den echten Plattendicken (18, 27, 40 mm) testen.
 
 ## 5. Oberfläche: Lasur (alles Holz, 2–3 Anstriche)
 
