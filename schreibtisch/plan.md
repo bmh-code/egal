@@ -43,6 +43,8 @@ Die Unterkante der ersten Front liegt bei 40 mm über dem Boden, jede weitere 16
 
 ## 4. Dübelplan
 
+Bild mit allen Positionen: `duebelplan.png` / `duebelplan.svg`.
+
 Vorhandenes Set (Meisterdübler): Dübel 6 × 30 (26 Stk.), 8 × 40 (22 Stk.), 10 × 40 (16 Stk.), Bohrer 6/8/10 mm, Tiefenstopps, Markierspitzen, 20-ml-Leim.
 
 | Verbindung | Dübel | Anzahl | Bohrtiefe |
