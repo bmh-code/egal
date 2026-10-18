@@ -91,6 +91,24 @@ Beide Seiten der Tischplatte gleich behandeln, damit sie sich nicht verzieht. Be
 
 Bei 10–14 m² je Liter und Anstrich sind das etwa 2,5–3 l (links) bzw. 3–4 l (beide Seiten). Deckvermögen laut Dose prüfen. Stirnholz saugt mehr. Dazu Klarlack ca. 0,375–0,75 l.
 
+## 5a. Einkaufs- und Zuschnittliste Bauhaus (Entwurf, Variante A: Tischplatte 18 mm, linke Schubladen)
+
+Annahme: Die 27- und 40-mm-Platten gibt es in denselben Formaten wie die 18-mm-Platten (Längen 800/1200/2000 mm, Breiten 200/250/300/400 mm). Zuschnitt beim Bauhaus kostenlos. Schnittfuge ca. 3–4 mm einplanen.
+
+Breiten werden durch **eine** Leimfuge zusammengesetzt. Die Fuge soll nicht auf einer Dübelposition liegen: bei Platten mit 590 mm Tiefe sitzt sie 190 mm von der Vorderkante (schmales Brett vorne), Dübel bei 172,5 mm bleiben dann ca. 17 mm von der Fuge entfernt.
+
+| Dicke | Kaufen | Zuschnitt | Ergibt |
+|---|---|---|---|
+| 40 mm | 2 × 800×400, 2 × 800×200 | alle auf 720 mm kürzen; die beiden 200er-Teile auf 190 mm Breite besäumen | 2 Seitenplatten (je 720×400 + 720×190, verleimt = 590) |
+| 27 mm | 1 × 2000×400, 1 × 2000×200 | beide Bretter bei 1160 mm und bei 693 mm quer schneiden; die beiden 200er-Teile auf 190 mm besäumen | Verbindungsplatte (1160×400 + 1160×190) und linke Trennplatte (693×400 + 693×190) |
+| 27 mm (nur mit rechten Schubladen) | 1 × 800×400, 1 × 800×200 | auf 693 mm kürzen; 200er-Teil auf 190 mm besäumen | rechte Trennplatte |
+| 18 mm Tischplatte | 1 × 2000×400, 1 × 2000×250 | je auf 1300 mm kürzen | Tischplatte 1300×650 (400 + 250 = 650, ohne Besäumen) |
+| 18 mm Schubladen | 1 × 2000×300, 2 × 2000×200 | 300er: auf 130 + 160 mm Breite teilen; 130er-Streifen: 3 Seiten (500) + 2 Rückstücke (188); 160er-Streifen: 4 Fronten (247). Erstes 200er: auf 130 breit, 3 Seiten + 2 Rückstücke. Zweites 200er: auf 130 breit, 2 Seiten | 8 Seiten, 4 Rückstücke, 4 Fronten |
+
+Bei 28-mm-Platten statt 27 mm: Trennplatten 692 mm lang. Tatsächliche Dicke vor dem Zuschnitt messen.
+Alle Teile vor dem Verleimen am besten auf Maß schneiden lassen, anschließend Dübel bohren und Brettfugen verleimen.
+Reste (z. B. 700×400, 700×250 von der Tischplatte) aufheben: nützlich für Dübeltests.
+
 ## 6. Offene Punkte
 
 - Tischplatte 18 oder 27 mm (Preis entscheidet).
