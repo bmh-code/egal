@@ -1,20 +1,20 @@
 # Schreibtisch – Bauplan (Stand: Fachböden, rechts Schublade + Tür)
 
-Bilder im selben Ordner: `skizze.png` (Ansichten), `duebelplan.png` (Dübel), `render_vorn_rechts.png` und `render_vorn_links.png` (3D-Entwurf). Alle Maße in mm, wenn nicht anders angegeben.
+Bilder im selben Ordner: `skizze.png` (Ansichten), `duebelplan.png` (Dübel), `render_vorn_rechts.png` und `render_vorn_links.png` (3D-Entwurf), `vergleich_trennplatten_27_40.png`. Alle Maße in mm, wenn nicht anders angegeben.
 
 ## 1. Aufbau
 
-- Gestell: zwei Seitenplatten (40 mm), dazwischen oben die Verbindungsplatte (27 mm), darauf die Tischplatte (18 mm, 1300 × 650).
+- Gestell: zwei Seitenplatten (40 mm), dazwischen oben die Verbindungsplatte (27 mm), darauf die Tischplatte (27 mm, 1300 × 650).
 - Links ein Schubladenblock mit **4 Schubladen**, getrennt durch **3 Fachböden (18 mm)**. Unten kein Brett, nur eine **Zierleiste** vor dem Fuß.
-- Rechts oben **1 Schublade**, darunter ein **Fachboden** und eine **große Tür** (Scharniere rechts, Griff links).
+- Rechts oben **1 Schublade**, darunter ein **Fachboden** und eine **große Tür** (Scharniere rechts, Griff links, Magnetschnäpper). Unten ein **Bodenbrett** hinter der Zierleiste, symmetrisch zu links: Zierleiste auf beiden Seiten gleich, die Tür beginnt wie die linken Fronten bei 41 mm.
 - Zwischen den Blöcken zwei senkrechte Trennplatten (27 mm), dazwischen der Kniefreiraum.
 - Rückwand 8 mm Sperrholz außen auf dem Gestell.
 
 | | Wert |
 |---|---|
 | Gestell außen (B × T × H) | 1240 × 590 × 720 |
-| Tischplatte | 1300 × 650 × 18 |
-| Gesamthöhe | 738 |
+| Tischplatte | 1300 × 650 × 27 |
+| Gesamthöhe | 747 |
 | Überstand Tischplatte | 30 vorn, 30 je Seite, hinten 22 über der Rückwand |
 | Öffnung je Block (Breite) | 250 |
 | Kniefreiraum | ca. 606 |
@@ -33,7 +33,7 @@ Bilder im selben Ordner: `skizze.png` (Ansichten), `duebelplan.png` (Dübel), `r
 | 543 – 693 | Fach 4 |
 | 693 – 720 | Verbindungsplatte |
 
-Rechts: Fach 4 = Schublade (wie links), 525–543 Fachboden, 39–525 Türfach (Tür 482 hoch, von 41 bis 523).
+Rechts: Fach 4 = Schublade (wie links), 525–543 Fachboden, 39–525 Türfach (Tür 482 hoch, von 41 bis 523), Bodenbrett 21–39 hinter der Zierleiste.
 
 ## 3. Zuschnittliste
 
@@ -43,9 +43,10 @@ Rechts: Fach 4 = Schublade (wie links), 525–543 Fachboden, 39–525 Türfach (
 | Verbindungsplatte | 1 | 1160 × 590 | 27 | Leimholz Kiefer |
 | Trennplatte senkrecht | 2 | 693 × 590 | 27 | Leimholz Kiefer |
 | Fachboden | 4 | 590 × ca. 249 (Brettbreite 250, nach Messen anpassen) | 18 | Leimholz Kiefer |
+| Bodenbrett rechts | 1 | 566 × ca. 249 (hinter der Zierleiste) | 18 | Leimholz Kiefer |
 | Tür | 1 | 482 × 247 | 18 | Leimholz Kiefer |
 | Zierleiste | 2 | 250 × 37 | 18 | Leimholz Kiefer (Reste) |
-| Tischplatte | 1 | 1300 × 650 | 18 | Leimholz Kiefer |
+| Tischplatte | 1 | 1300 × 650 | 27 | Leimholz Kiefer |
 | Rückwand | 1 | 1240 × 720 | 8 | Sperrholz |
 
 Linke Trennplatte: 290 mm von der linken Außenkante bis zu ihrer linken Fläche (Öffnung genau 250 mm), die Platte reicht bis 317 mm. Rechte Trennplatte spiegelbildlich.
@@ -71,13 +72,13 @@ Bild: `duebelplan.png`. Vorhandenes Set: Dübel 6 × 30 (26 Stk.), 8 × 40 (22 S
 |---|---|---|---|
 | Seitenplatte ↔ Verbindungsplatte | 8 × 40 | 2 × 5 = 10 | 21 mm in beide Teile |
 | Senkrechte Trennplatte ↔ Verbindungsplatte (Unterseite) | 8 × 40 | 2 × 5 = 10 | 15 mm in der Verbindungsplatte, 27 mm in der Trennplatte (Hirnholz) |
-| Fachboden ↔ Seitenplatte / Trennplatte | 6 × 30 | 4 Bretter × 6 = 24 | Seitenplatte 17 / Brett 15; Trennplatte 12 / Brett 19 |
+| Fachboden/Bodenbrett ↔ Seitenplatte / Trennplatte | 6 × 30 | 5 Bretter × 6 = 30 | Seitenplatte 17 / Brett 15; Trennplatte 12 / Brett 19 |
 | Zierleiste ↔ Seitenplatte / Trennplatte | 6 × 30 | 2 × 2 = 4 | wie Fachboden |
 | Schubladenecken | 6 × 30 | 5 × 8 = 40 | 12 mm in der Fläche, 19 mm in der Stirnseite |
 
 Abstände der 5 Dübel von der Vorderkante: 50 / 172,5 / 295 / 417,5 / 540 mm. Fachböden: 3 Dübel je Kante bei 50 / 295 / 540 mm.
 
-Bedarf 6 × 30 mm: 68 (mit Bodenbrett im Türfach 74). Im Set sind 26, es fehlen **42**. 8 × 40 reichen (20 von 22). Dazu eine Flasche Holzleim D3 (500 g).
+Bedarf 6 × 30 mm: 74. Im Set sind 26, es fehlen **48**. 8 × 40 reichen (20 von 22). Dazu eine Flasche Holzleim D3 (500 g).
 Bohrtiefe in der Fläche von 18-mm-Brettern höchstens 12 mm, in der 27-mm-Verbindungsplatte von unten höchstens 15 mm. Probeaufbau ohne Leim, dann in Etappen leimen, Spanngurte. Diagonalen messen. Dübellehre vorher an Resten in 18, 27 und 40 mm testen.
 
 ## 6. Oberfläche: Lasur Nussbaum (alles Holz, 2–3 Anstriche)
@@ -95,39 +96,42 @@ Annahme: 27- und 40-mm-Bretter gibt es in denselben Formaten wie 18 mm (Längen 
 | Dicke | Kaufen | Zuschnitt | Ergibt |
 |---|---|---|---|
 | 40 mm | 2 × 800×400, 2 × 800×200 | alle auf 720 kürzen; 200er-Teile auf 190 Breite besäumen | 2 Seitenplatten |
-| 27 mm | 1 × 2000×400, 1 × 2000×200, 1 × 800×400, 1 × 800×200 | 2000er je bei 1160 und 693 quer schneiden; 800er auf 693 kürzen; alle 200er-Teile auf 190 besäumen | Verbindungsplatte, 2 Trennplatten |
-| 18 mm Tischplatte | 1 × 2000×400, 1 × 2000×250 | je auf 1300 kürzen | Tischplatte 1300 × 650 (400 + 250) |
-| 18 mm Fachböden | 4 × 800×250 | je auf 590 kürzen | 4 Fachbretter |
-| 18 mm Tür und Zierleisten | 1 × 800×250 | auf 482 kürzen und auf 247 besäumen; aus dem Rest (318 × 250) 2 Streifen 37 breit, je 250 lang | Tür, 2 Zierleisten |
-| 18 mm Schubladen | 2 × 2000×300, 1 × 2000×200 | 300er A: Streifen 130 + 146 (146: 5 Fronten à 247); 130er-Streifen je 3 Seiten + 2 Rückstücke; 300er B: 2 Streifen 130 (3 Seiten + 2 Rückstücke, 3 Seiten + 1 Rückstück); 200er: 1 Streifen 130 (1 Seite) | 10 Seiten, 5 Rückstücke, 5 Fronten |
+| 27 mm Tischplatte | 1 × 2000×400, 1 × 2000×250 | je auf 1300 kürzen | Tischplatte 1300 × 650 (400 + 250) |
+| 27 mm Trennplatte 1 | (Reste der Tischplatte: 700×400 und 700×250) | auf 693 kürzen (nur 3–4 mm Spiel!); 250er-Rest auf 190 besäumen | linke Trennplatte |
+| 27 mm | 1 × 1200×400, 1 × 1200×200 | auf 1160 kürzen; 200er auf 190 besäumen | Verbindungsplatte |
+| 27 mm | 1 × 800×400, 1 × 800×200 | auf 693 kürzen; 200er auf 190 besäumen | rechte Trennplatte |
+| 18 mm Bretter | 5 × 800×250 | 4 × auf 590, 1 × auf 566 kürzen | 4 Fachböden, Bodenbrett |
+| 18 mm Tür und Zierleisten | 1 × 800×250 | auf 482 kürzen, auf 247 besäumen; Rest 318 × 250: 2 Streifen 37 breit, je 250 lang | Tür, 2 Zierleisten |
+| 18 mm Schubladen | 2 × 2000×300, 1 × 2000×200 | 300er A: Streifen 130 + 146 (146: 5 Fronten à 247); 130er-Streifen je 3 Seiten + 2 Rückstücke; 300er B: 2 Streifen 130; 200er: 1 Streifen 130 | 10 Seiten, 5 Rückstücke, 5 Fronten |
 
+Sicherere Variante für Trennplatte 1: eigene Bretter 800×400 + 800×200 in 27 mm (ca. 40 € mehr).
 Reste aufheben (Dübeltests). Anzahl der Schnitte beim Bauhaus vorher klären (ca. 60 Schnitte).
 
 ## 8. Kostenstand (Entwurf)
 
-Preise von dir: Dübelset 30 €, Messinggriffe 7 € das Stück, 18 mm Kiefer 2000×200 = 10 €, 27 mm Kiefer 84 €/m², Lasur 28,40 €/l, 4 Stück für 32 € (Auszüge oder Scharniere, bitte klären).
+Preise von dir: Dübelset 30 €, Messinggriffe 7 € das Stück, 4 Paar Kugelauszüge 32 €, 18 mm Kiefer 2000×200 = 10 €, 27 mm Kiefer 84 €/m², Lasur 28,40 €/l.
 
 | Posten | Kosten | Quelle |
 |---|---|---|
 | Dübelset mit Schablone | 30 € | Beleg |
+| Kugelauszüge 4 Paar | 32 € | Beleg |
 | Messinggriffe (5 Schubladen + 1 Tür = 6 × 7 €) | 42 € | Beleg |
-| 4 Stück für 32 € (Auszüge oder Scharniere) | 32 € | Beleg |
-| Restliche Auszüge/Scharniere (Gesamtbedarf 5 Paar Auszüge + Scharniere) | ca. 32–48 € | Schätzung |
-| 18-mm-Bretter (3,9 m²) | ca. 98 € | nur 2000×200 belegt, Rest nach Fläche (25 €/m²) |
-| 27-mm-Holz (1,68 m² × 84 €/m²) | ca. 141 € | Beleg |
+| 1 weiteres Paar Auszüge | ca. 8 € | Schätzung (gleicher Preis) |
+| 3 Scharniere + Magnetschnäpper | 10–25 € | Schätzung |
+| 27-mm-Holz inkl. Tischplatte (2,5 m² × 84 €/m²) | ca. 210 € | Beleg |
+| 18-mm-Bretter (2,8 m²) | ca. 70 € | nur 2000×200 belegt, Rest nach Fläche (25 €/m²) |
 | Lasur Nussbaum (2,0–2,8 l) | 57–80 € | Beleg + Annahme Deckvermögen |
 | Sperrholz 8 mm (Rückwand) und 6 mm (Böden) | 28–55 € | Schätzung |
 | Klarlack | 10–25 € | Schätzung |
 | Zubehör (Spanngurte, Leim, 6×30-Dübel, Schleifpapier, Z-Verbinder, Pinsel) | 45–73 € | Schätzung |
-| **Zwischensumme ohne 40-mm-Holz** | **ca. 515–625 €** | |
+| **Zwischensumme ohne 40-mm-Holz** | **ca. 540–650 €** | |
 | 40-mm-Holz (0,96 m², Preis fehlt; bei 120 €/m² ca. 115 €) | offen | Annahme |
 
-Sparpotenzial: senkrechte Trennplatten in 18 mm statt 27 mm würden ca. 57 € sparen (wurde bewusst verworfen).
+Option innere Trennplatten 40 statt 27 mm: ca. 75 € mehr (bei 120 €/m² für 40 mm, Annahme), Kniefreiraum 580 statt 606 mm. Vergleichsbild: `vergleich_trennplatten_27_40.png`.
 
 ## 9. Offene Punkte
 
-- Sind die 4 Stück für 32 € Kugelauszüge oder Scharniere?
-- Bodenbrett im Türfach rechts (18 mm auf 39 mm Höhe) ja/nein?
+- Innere Trennplatten 27 oder 40 mm?
 - Preis 40-mm-Holz, Sperrholz, Klarlack.
 - Griff- und Scharniermodell (Aufschlag- oder Topfscharniere?).
 - Plattenformate und Anzahl kostenloser Schnitte beim Bauhaus.

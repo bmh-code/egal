@@ -9,7 +9,7 @@
 <circle cx="48.0" cy="152.0" r="6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
 <text x="64.0" y="157.0" font-size="13" text-anchor="start" fill="#2b2b2b" font-weight="normal">Ø 6 × 30 mm  Fachböden, Zierleisten, Schubladenecken</text>
 <text x="40.0" y="235.0" font-size="18" text-anchor="start" fill="#2b2b2b" font-weight="bold">1  Seitenplatte (linke), Innenfläche</text>
-<text x="40.0" y="253.0" font-size="12" text-anchor="start" fill="#555" font-weight="normal" font-style="italic">Rechte Seitenplatte: spiegelverkehrt, gleiche Maße. Vorderkante links.</text>
+<text x="40.0" y="253.0" font-size="12" text-anchor="start" fill="#555" font-weight="normal" font-style="italic">Rechte Seitenplatte spiegelverkehrt, zusätzlich 3 Dübel für das Bodenbrett (Höhe 21–39, Mitte 30).</text>
 <rect x="90.0" y="360.0" width="324.5" height="396.0" fill="#ecd2a7" stroke="#2b2b2b" stroke-width="1.4"/>
 <rect x="90.0" y="360.0" width="324.5" height="14.9" fill="#e0bb84" fill-opacity="0.7" stroke="#8a8a8a" stroke-width="1" stroke-dasharray="5,3"/>
 <text x="252.2" y="388.9" font-size="11" text-anchor="middle" fill="#777" font-weight="normal" font-style="italic">Verbindungsplatte (27 dick)</text>
@@ -168,7 +168,7 @@
 <text x="1286.0" y="728.4" font-size="12" text-anchor="start" fill="#2471a3" font-weight="normal">27 mm tief, mittig (13,5)</text>
 <text x="800.0" y="790.9" font-size="11.5" text-anchor="start" fill="#555555" font-weight="normal" font-style="italic">In der Verbindungsplatte nur 15 mm tief bohren, hier 27 mm: Tiefenstopp umstellen.</text>
 <text x="800.0" y="805.9" font-size="11.5" text-anchor="start" fill="#555555" font-weight="normal" font-style="italic">Alternative: Ø 8 × 30 mit je 16 mm (dann 20 Stück nachkaufen, 8 × 40 reichen für Seiten + Trennplatten).</text>
-<text x="790.0" y="835.0" font-size="18" text-anchor="start" fill="#2b2b2b" font-weight="bold">4  Fachboden 250 × 590 × 18  (Draufsicht)  – 4 Stück: links 3, rechts 1</text>
+<text x="790.0" y="835.0" font-size="18" text-anchor="start" fill="#2b2b2b" font-weight="bold">4  Fachboden 250 × 590 × 18  (Draufsicht)  – 5 Stück: links 3, rechts 2 (inkl. Bodenbrett 566 tief)</text>
 <rect x="800.0" y="880.0" width="472.0" height="160.0" fill="#d9b27c" stroke="#2b2b2b" stroke-width="1.4"/>
 <rect x="837.0" y="880.0" width="6" height="16.3" fill="#1e8449" stroke="#fff" stroke-width="0.8"/>
 <rect x="837.0" y="1021.8" width="6" height="18.2" fill="#1e8449" stroke="#fff" stroke-width="0.8"/>
@@ -255,15 +255,15 @@
 <text x="1230.0" y="1230.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">20</text>
 <text x="1320.0" y="1230.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">22  ✓</text>
 <text x="800.0" y="1260.0" font-size="12.5" text-anchor="start" fill="#1e8449" font-weight="bold">Ø 6 × 30</text>
-<text x="900.0" y="1260.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">Fachböden 24, Zierleisten 4, Schubladen 40</text>
-<text x="1230.0" y="1260.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">68</text>
-<text x="1320.0" y="1260.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">26  fehlen 42</text>
+<text x="900.0" y="1260.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">Bretter 30, Zierleisten 4, Schubladen 40</text>
+<text x="1230.0" y="1260.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">74</text>
+<text x="1320.0" y="1260.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">26  fehlen 48</text>
 <text x="800.0" y="1290.0" font-size="12.5" text-anchor="start" fill="#8a8a8a" font-weight="bold">Ø 10 × 40</text>
 <text x="900.0" y="1290.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">nicht eingeplant</text>
 <text x="1230.0" y="1290.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">0</text>
 <text x="1320.0" y="1290.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">16 (Reserve)</text>
-<text x="800.0" y="1326.0" font-size="11.5" text-anchor="start" fill="#555555" font-weight="normal" font-style="italic">Bedarf: 4 Fachböden × 6, 2 Zierleisten × 2, 5 Schubladen × 8 (ohne Bodenbrett im Türfach).</text>
-<text x="800.0" y="1344.0" font-size="11.5" text-anchor="start" fill="#555555" font-weight="normal" font-style="italic">Mit zusätzlichem Bodenbrett im Türfach: + 6 Dübel Ø 6 × 30.</text>
+<text x="800.0" y="1326.0" font-size="11.5" text-anchor="start" fill="#555555" font-weight="normal" font-style="italic">Bedarf: 5 Bretter (4 Fachböden + Bodenbrett rechts) × 6, 2 Zierleisten × 2, 5 Schubladen × 8.</text>
+<text x="800.0" y="1344.0" font-size="11.5" text-anchor="start" fill="#555555" font-weight="normal" font-style="italic">Bodenbrett rechts: 566 tief, sitzt hinter der Zierleiste, Oberkante auf 39 mm.</text>
 <text x="800.0" y="1376.0" font-size="13" text-anchor="start" fill="#2b2b2b" font-weight="bold">Beim Bohren immer:</text>
 <text x="800.0" y="1398.0" font-size="12" text-anchor="start" fill="#2b2b2b" font-weight="normal">• Tiefenstopp einstellen, an einem Reststück prüfen.</text>
 <text x="800.0" y="1418.0" font-size="12" text-anchor="start" fill="#2b2b2b" font-weight="normal">• Probeaufbau ohne Leim, dann mit Leim zusammenstecken.</text>
