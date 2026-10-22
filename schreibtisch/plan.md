@@ -109,6 +109,24 @@ Bei 28-mm-Platten statt 27 mm: Trennplatten 692 mm lang. Tatsächliche Dicke vor
 Alle Teile vor dem Verleimen am besten auf Maß schneiden lassen, anschließend Dübel bohren und Brettfugen verleimen.
 Reste (z. B. 700×400, 700×250 von der Tischplatte) aufheben: nützlich für Dübeltests.
 
+## 5b. Kostenstand (Variante A: Tischplatte 18 mm, 4 Schubladen links)
+
+Preise von dir: Auszüge 4 Paar 32 €, Dübelset 30 €, Messinggriffe 7 € das Stück, 18 mm Kiefer 2000×200 = 10 €, 27 mm Kiefer 84 €/m², Lasur Nussbaum 28,40 €/l.
+
+| Posten | Kosten | Quelle |
+|---|---|---|
+| Kugelauszüge (4 Paar) | 32 € | Beleg |
+| Dübelset mit Schablone | 30 € | Beleg |
+| Messinggriffe (4 × 7 €) | 28 € | Beleg |
+| 18-mm-Bretter inkl. Tischplatte (ca. 2,7 m²) | ca. 67 € | nur 2000×200 belegt, Rest nach Fläche (25 €/m²) geschätzt |
+| 27-mm-Holz (1,2 m² gekauft × 84 €/m²) | ca. 101 € | Beleg (mit rechter Trennplatte 1,68 m² = ca. 141 €) |
+| Lasur (Sichtflächen 3×, sonst 1×; 1,6–2,2 l) | 44–62 € | Beleg + Annahme Deckvermögen |
+| Sperrholz, Klarlack, Zubehör | 81–151 € | Schätzung |
+| **Zwischensumme ohne 40-mm-Holz** | **ca. 383–471 €** | |
+| 40-mm-Holz (0,96 m², Preis fehlt; bei 120 €/m² ca. 115 €) | offen | Annahme |
+
+Sparoption: Trennplatten in 18 mm statt 27 mm (ca. 30 € weniger, Trennplatten dann 702 mm hoch, Dübel 6 mm, Schubladenfuß anpassen). Tischplatte in 27 mm (Variante B) wäre ca. 50 € teurer und wird nicht empfohlen.
+
 ## 6. Offene Punkte
 
 - Tischplatte 18 oder 27 mm (Preis entscheidet).
