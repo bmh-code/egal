@@ -15,7 +15,7 @@ Construction, exactly as described:
 - Between the pedestals an open knee space with a closed back panel (modesty panel) in the same walnut stain. Two inner vertical panels separate the pedestals from the knee space.
 - Clean, simple lines, no carvings, no moldings, no keyboard tray.
 
-Scene: placed against a plain warm white wall on a light wooden floor, soft natural daylight from a window on the left, gentle soft shadows. Camera: three-quarter front view from the front right, eye height about 120 cm, 35 mm lens, sharp focus on the desk, realistic proportions, high detail on wood grain. The desk is empty except for nothing, no clutter.
+Scene: placed against a plain warm white wall on a light wooden floor, soft natural daylight from a window on the left, gentle soft shadows. Camera: three-quarter front view from the front right, eye height about 120 cm, 35 mm lens, sharp focus on the desk, realistic proportions, high detail on wood grain. The desk is empty, no clutter.
 
 ## Varianten-Satz (einen davon anhängen)
 
