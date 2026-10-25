@@ -64,22 +64,31 @@ Annahme: Kugelauszüge 500 mm mit ca. 12,7 mm Platz je Seite (Datenblatt prüfen
 | Rückstück | 1 | 188 × 130 | 18 | Leimholz Kiefer |
 | Boden | 1 | 224 × 500 | 6 | Sperrholz |
 
-## 4a. Verzierung auf der Rückwand (Innenseite im Beinraum)
+## 4a. Verzierung (aufgeklebte Bretter, Fenster bleiben frei)
 
-Zwei „Fenster“ im Kassetten-Stil, wie fünf aufgeklebte Platten (Detail 6 in `skizze.png`):
+Detail 6 in `skizze.png`. Alles 18 mm Leimholz Kiefer, vorher lasieren, Klebeflächen abkleben.
 
-| Teil | Anz. | Maß | Material |
-|---|---|---|---|
-| Grundplatte | 1 | 566 × 560 × 6 | Sperrholz (wie Schubladenböden) |
-| Rahmenleisten lang | 4 | 480 × 40 × 18 | Leimholz Kiefer |
-| Rahmenleisten kurz | 4 | 163 × 40 × 18 | Leimholz Kiefer |
-| Füllung | 2 | 153 × 390 × 6 | Sperrholz |
+**Beinraum** (auf der Innenseite der Rückwand, zwischen den inneren Platten, je 1 mm Luft): 5 Bretter, 2 Fenster bleiben frei.
 
-- Grundplatte mittig im Beinraum, 20 mm Abstand zu den inneren Platten, Unterkante 90 mm über dem Boden.
-- Rahmen je 243 × 480 (Leisten stumpf verleimt), 30 mm vom Rand der Grundplatte, 20 mm Abstand zwischen den Rahmen, 40 mm Rand oben/unten.
-- Füllungen in den Rahmenöffnungen mit 5 mm Luft rundum, sie liegen 12 mm tiefer als der Rahmen.
-- Befestigung: Leim + Schrauben 3 × 25 von hinten durch die Rückwand (unsichtbar). Vorher lasieren, Klebeflächen abkleben, vor dem Anbringen der Rückwand montieren.
-- Leisten aus 1 Brett 2000 × 200 × 18: 4 Streifen à 40 mm längs schneiden lassen, dann auf 480 und 163 kürzen.
+| Teil | Anz. | Maß |
+|---|---|---|
+| Seitenleiste | 2 | 690 × 70 |
+| Mittelleiste | 1 | 445 × 60 |
+| Querstück oben | 1 | 464 × 100 |
+| Querstück unten | 1 | 464 × 145 |
+
+Fenster je 202 × 445 (man sieht dort die Rückwand, 18 mm tiefer). Gesamtfläche 604 × 690, Unterkante 1 mm über dem Boden. Leim + Schrauben 3 × 30 von hinten durch die Rückwand (unsichtbar). Der Beinraum wird dadurch 18 mm weniger tief.
+
+**Tür** (auf der Türfront): 4 Bretter, 1 Fenster in der Mitte bleibt frei.
+
+| Teil | Anz. | Maß |
+|---|---|---|
+| Seitenleiste | 2 | 476 × 45 |
+| Querstück | 2 | 151 × 45 |
+
+Ringsum 3 mm kleiner als die Tür (241 × 476), damit beim Öffnen nichts anstößt. Fenster 151 × 386. Leim + kurze Schrauben von der Türinnenseite. Die Tür wird dadurch 36 mm dick und steht 18 mm vor den Schubladenfronten vor; der Griff sitzt auf der linken Leiste.
+
+Zuschnitt (Bauhaus): 1 × 2000×200 (Seitenleisten 690 × 70 und Mittelleiste 445 × 60), 1 × 800×250 (Querstücke 464 × 100 und 464 × 145), 1 × 800×200 (Tür: 2 × 476 × 45, 2 × 151 × 45).
 
 ## 5. Dübelplan
 
@@ -134,12 +143,12 @@ Preise von dir: Dübelset 30 €, Messinggriffe 7 € das Stück, 4 Paar Kugelau
 | 3 Scharniere + Magnetschnäpper | 10–25 € | Schätzung |
 | 27-mm-Holz: Verbindungsplatte + 2 Trennplatten (1,68 m² × 84 €/m²) | ca. 141 € | Beleg |
 | Tischplatte 1330 × 680 × 27 mit Profil (Lieferant) | Preis fehlt | |
-| 18-mm-Bretter (2,8 m²) + 1 × 2000×200 für die Kassettenrahmen | ca. 80 € | nur 2000×200 belegt, Rest nach Fläche (25 €/m²) |
+| 18-mm-Bretter (2,8 m²) + Bretter für die Verzierung (2000×200, 800×250, 800×200) | ca. 89 € | nur 2000×200 belegt, Rest nach Fläche (25 €/m²) |
 | Lasur Nussbaum (2,0–2,8 l) | 57–80 € | Beleg + Annahme Deckvermögen |
 | Sperrholz 8 mm (Rückwand) und 6 mm (Böden) | 28–55 € | Schätzung |
 | Klarlack | 10–25 € | Schätzung |
 | Zubehör (Spanngurte, Leim, 6×30-Dübel, Schleifpapier, Z-Verbinder, Pinsel) | 45–73 € | Schätzung |
-| **Zwischensumme ohne Tischplatte und 40-mm-Holz** | **ca. 490–600 €** | |
+| **Zwischensumme ohne Tischplatte und 40-mm-Holz** | **ca. 495–605 €** | |
 | 40-mm-Holz (0,96 m², Preis fehlt; bei 120 €/m² ca. 115 €) | offen | Annahme |
 
 Option innere Trennplatten 40 statt 27 mm: ca. 75 € mehr (bei 120 €/m² für 40 mm, Annahme), Kniefreiraum 580 statt 606 mm. Vergleichsbild: `vergleich_trennplatten_27_40.png`.
@@ -149,7 +158,7 @@ Option innere Trennplatten 40 statt 27 mm: ca. 75 € mehr (bei 120 €/m² für
 - Innere Platten (Verbindungsplatte, senkrechte Trennplatten): 27 mm – entschieden.
 - Tischplatte: Lieferant und Preis (27 oder 28 mm; bei 28 mm wird die Höhe 748).
 - Zierleiste: Form noch offen (sitzt zwischen den Platten, höchstens 39 mm hoch).
-- Verzierung: Lage und Maße bestätigen.
+- Verzierung: Maße bestätigen (Beinraum 5 Bretter, Tür 4 Bretter).
 - Preis 40-mm-Holz, Sperrholz, Klarlack.
 - Griff- und Scharniermodell (Aufschlag- oder Topfscharniere?).
 - Plattenformate und Anzahl kostenloser Schnitte beim Bauhaus.
