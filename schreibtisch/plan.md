@@ -77,7 +77,7 @@ Detail 6 in `skizze.png`. Alles 18 mm Leimholz Kiefer, vorher lasieren, Klebefl�
 | Querstück oben | 1 | 464 × 100 |
 | Querstück unten | 1 | 464 × 145 |
 
-Fenster je 202 × 445 (man sieht dort die Rückwand, 18 mm tiefer). Gesamtfläche 604 × 690, Unterkante 1 mm über dem Boden. Leim + Schrauben 3 × 30 von hinten durch die Rückwand (unsichtbar). Der Beinraum wird dadurch 18 mm weniger tief.
+Fenster je 202 × 445 (man sieht dort die Rückwand, 18 mm tiefer). Gesamtfläche 604 × 690, Unterkante 1 mm über dem Boden. Leim + Schrauben 3 × 20 von hinten durch die Rückwand (unsichtbar). Der Beinraum wird dadurch 18 mm weniger tief.
 
 **Tür** (auf der Türfront): 4 Bretter, 1 Fenster in der Mitte bleibt frei.
 
@@ -86,7 +86,7 @@ Fenster je 202 × 445 (man sieht dort die Rückwand, 18 mm tiefer). Gesamtfläch
 | Seitenleiste | 2 | 482 × 45 |
 | Querstück | 2 | 157 × 45 |
 
-Genau so groß wie die Tür (247 × 482), Fenster 157 × 392. Die **Tür selbst sitzt 18 mm zurückgesetzt** in der Öffnung, sodass die aufgeklebten Bretter **bündig** mit Seitenplatten und Schubladenfronten enden; nur das Fenster liegt 18 mm tiefer. Tür + Verzierung zusammen 36 mm dick, das Türfach wird innen 18 mm weniger tief. Scharniere für innenliegende Türen wählen und vor dem Festschrauben prüfen, dass die Tür frei aufschwenkt. Leim + kurze Schrauben von der Türinnenseite; Griff auf der linken Leiste, Magnetschnäpper als Anschlag.
+Genau so groß wie die Tür (247 × 482), Fenster 157 × 392. Die **Tür selbst sitzt 18 mm zurückgesetzt** in der Öffnung, sodass die aufgeklebten Bretter **bündig** mit Seitenplatten und Schubladenfronten enden; nur das Fenster liegt 18 mm tiefer. Tür + Verzierung zusammen 36 mm dick, das Türfach wird innen 18 mm weniger tief. Scharniere für innenliegende Türen wählen und vor dem Festschrauben prüfen, dass die Tür frei aufschwenkt. Leim + Schrauben 3,5 × 30 von der Türinnenseite (vorbohren, versenken); Griff auf der linken Leiste, Magnetschnäpper als Anschlag.
 
 Zuschnitt (Bauhaus): 1 × 2000×200 (Seitenleisten 690 × 70 und Mittelleiste 445 × 60), 1 × 800×250 (Querstücke 464 × 100 und 464 × 145), 1 × 800×200 (Tür: 2 × 482 × 45, 2 × 157 × 45).
 
