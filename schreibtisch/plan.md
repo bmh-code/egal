@@ -16,8 +16,8 @@ Bilder im selben Ordner: `skizze.png` (Ansichten), `duebelplan.png` (Dübel), `r
 | Tischplatte | 1330 × 680 × 27 (römisches Profil, geliefert) |
 | Gesamthöhe | 747 |
 | Überstand Tischplatte | 45 vorn, 45 je Seite, hinten 37 über der Rückwand |
-| Öffnung je Block (Breite) | 250 |
-| Kniefreiraum | ca. 606 |
+| Öffnung je Block (Breite) | 270 |
+| Kniefreiraum | ca. 566 |
 
 ## 2. Höhenaufteilung (mm vom Boden, Innenhöhe 693 = 720 − 27)
 
@@ -42,14 +42,14 @@ Rechts: Fach 4 = Schublade (wie links), 525–543 Fachboden, 39–525 Türfach (
 | Seitenplatte | 2 | 720 × 590 | 40 | Leimholz Kiefer |
 | Verbindungsplatte | 1 | 1160 × 590 | 27 | Leimholz Kiefer |
 | Trennplatte senkrecht | 2 | 693 × 590 | 27 | Leimholz Kiefer |
-| Fachboden | 4 | 590 × ca. 249 (Brettbreite 250, nach Messen anpassen) | 18 | Leimholz Kiefer |
-| Bodenbrett rechts | 1 | 566 × ca. 249 (hinter der Zierleiste) | 18 | Leimholz Kiefer |
-| Tür | 1 | 482 × 247 | 18 | Leimholz Kiefer |
-| Zierleiste | 2 | 250 × 37 | 18 | Leimholz Kiefer (Reste) |
+| Fachboden | 4 | 590 × ca. 269 (aus 300 breitem Brett besäumen, nach Messen anpassen) | 18 | Leimholz Kiefer |
+| Bodenbrett rechts | 1 | 566 × ca. 269 (hinter der Zierleiste) | 18 | Leimholz Kiefer |
+| Tür | 1 | 482 × 267 | 18 | Leimholz Kiefer |
+| Zierleiste | 2 | 270 × 37 | 18 | Leimholz Kiefer (Reste) |
 | Tischplatte | 1 | 1330 × 680 (geliefert, mit römischem Profil) | 27 | Leimholz Kiefer |
 | Rückwand | 1 | 1240 × 720 | 8 | Sperrholz |
 
-Linke Trennplatte: 290 mm von der linken Außenkante bis zu ihrer linken Fläche (Öffnung genau 250 mm), die Platte reicht bis 317 mm. Rechte Trennplatte spiegelbildlich.
+Linke Trennplatte: 310 mm von der linken Außenkante bis zu ihrer linken Fläche (Öffnung genau 270 mm), die Platte reicht bis 337 mm. Rechte Trennplatte spiegelbildlich.
 Höhe der Trennplatten = 720 mm minus **tatsächliche** Dicke der Verbindungsplatte (bei exakt 27 mm: 693 mm). Vor dem Zuschnitt die Dicke mit der Schieblehre messen.
 Fachbretter: Breite = tatsächliche Öffnungsbreite minus ca. 1 mm.
 
@@ -59,10 +59,10 @@ Annahme: Kugelauszüge 500 mm mit ca. 12,7 mm Platz je Seite (Datenblatt prüfen
 
 | Teil | Anz. je Schublade | Maß | Dicke | Material |
 |---|---|---|---|---|
-| Front | 1 | 247 × 146 | 18 | Leimholz Kiefer |
+| Front | 1 | 267 × 146 | 18 | Leimholz Kiefer |
 | Seiten | 2 | 500 × 130 | 18 | Leimholz Kiefer |
-| Rückstück | 1 | 188 × 130 | 18 | Leimholz Kiefer |
-| Boden | 1 | 224 × 500 | 6 | Sperrholz |
+| Rückstück | 1 | 208 × 130 | 18 | Leimholz Kiefer |
+| Boden | 1 | 244 × 500 | 6 | Sperrholz |
 
 ## 4a. Verzierung (aufgeklebte Bretter, Fenster bleiben frei)
 
@@ -74,21 +74,21 @@ Detail 6 in `skizze.png`. Tür: Bauhaus-Leiste **10 × 47 mm** (210 × 1 × 4,7 
 |---|---|---|
 | Seitenleiste | 2 | 690 × 70 |
 | Mittelleiste | 1 | 445 × 60 |
-| Querstück oben | 1 | 464 × 100 |
-| Querstück unten | 1 | 464 × 145 |
+| Querstück oben | 1 | 424 × 100 |
+| Querstück unten | 1 | 424 × 145 |
 
-Fenster je 202 × 445 (man sieht dort die Rückwand, um die Sperrholzdicke tiefer). Gesamtfläche 604 × 690, Unterkante 1 mm über dem Boden. Rückwand flach hinlegen, Sperrholz aufleimen und mit Gewichten beschweren. Schrauben von hinten nur, wenn ihre Länge höchstens Rückwand (8) + Sperrholzdicke − 3 mm ist (bei 12 mm: 3 × 16). Kanten in den Fenstern sauber schleifen.
+Fenster je 182 × 445 (man sieht dort die Rückwand, um die Sperrholzdicke tiefer). Gesamtfläche 564 × 690, Unterkante 1 mm über dem Boden. Rückwand flach hinlegen, Sperrholz aufleimen und mit Gewichten beschweren. Schrauben von hinten nur, wenn ihre Länge höchstens Rückwand (8) + Sperrholzdicke − 3 mm ist (bei 12 mm: 3 × 16). Kanten in den Fenstern sauber schleifen.
 
 **Tür** (auf der Türfront): 4 Bretter, 1 Fenster in der Mitte bleibt frei.
 
 | Teil | Anz. | Maß |
 |---|---|---|
 | Seitenleiste | 2 | 482 × 47 × 10 |
-| Querstück | 2 | 153 × 47 × 10 |
+| Querstück | 2 | 173 × 47 × 10 |
 
-Genau so groß wie die Tür (247 × 482), Fenster 153 × 388. Die Leisten sind **10 mm** dick: eine Bauhaus-Leiste 210 × 1 × 4,7 cm reicht (2 × 482 + 2 × 153 mm = 1,27 m). Holzart prüfen (Kiefer, damit die Lasur gleich wirkt). Die **Tür selbst sitzt 10 mm zurückgesetzt**, sodass die Leisten **bündig** mit Seitenplatten und Schubladenfronten enden; das Fenster liegt 10 mm tiefer. Tür + Leisten zusammen 28 mm dick. Scharniere für innenliegende Türen wählen und vor dem Festschrauben prüfen, dass die Tür frei aufschwenkt. Nur Leim + Zwingen oder Gewichte (keine Schrauben von hinten, die Leisten sind zu dünn); Griff auf der linken Leiste, Magnetschnäpper als Anschlag.
+Genau so groß wie die Tür (267 × 482), Fenster 173 × 388. Die Leisten sind **10 mm** dick: eine Bauhaus-Leiste 210 × 1 × 4,7 cm reicht (2 × 482 + 2 × 173 mm = 1,31 m). Holzart prüfen (Kiefer, damit die Lasur gleich wirkt). Die **Tür selbst sitzt 10 mm zurückgesetzt**, sodass die Leisten **bündig** mit Seitenplatten und Schubladenfronten enden; das Fenster liegt 10 mm tiefer. Tür + Leisten zusammen 28 mm dick. Scharniere für innenliegende Türen wählen und vor dem Festschrauben prüfen, dass die Tür frei aufschwenkt. Nur Leim + Zwingen oder Gewichte (keine Schrauben von hinten, die Leisten sind zu dünn); Griff auf der linken Leiste, Magnetschnäpper als Anschlag.
 
-Zuschnitt: Beinraum-Teile aus einer Sperrholzplatte schneiden lassen (2 × 690 × 70, 1 × 445 × 60, 464 × 100, 464 × 145). Tür: 1 Leiste 210 × 1 × 4,7 cm, zuschneiden auf 2 × 482 und 2 × 153 mm.
+Zuschnitt: Beinraum-Teile aus einer Sperrholzplatte schneiden lassen (2 × 690 × 70, 1 × 445 × 60, 424 × 100, 424 × 145). Tür: 1 Leiste 210 × 1 × 4,7 cm, zuschneiden auf 2 × 482 und 2 × 173 mm.
 
 ## 5. Dübelplan
 
@@ -124,9 +124,9 @@ Annahme: 27- und 40-mm-Bretter gibt es in denselben Formaten wie 18 mm (Längen 
 | 40 mm | 2 × 800×400, 2 × 800×200 | alle auf 720 kürzen; 200er-Teile auf 190 Breite besäumen | 2 Seitenplatten |
 | 27 mm | 1 × 2000×400, 1 × 2000×200 | je bei 1160 und 693 quer schneiden; 200er-Teile auf 190 besäumen | Verbindungsplatte, linke Trennplatte |
 | 27 mm | 1 × 800×400, 1 × 800×200 | auf 693 kürzen; 200er auf 190 besäumen | rechte Trennplatte |
-| 18 mm Bretter | 5 × 800×250 | 4 × auf 590, 1 × auf 566 kürzen | 4 Fachböden, Bodenbrett |
-| 18 mm Tür und Zierleisten | 1 × 800×250 | auf 482 kürzen, auf 247 besäumen; Rest 318 × 250: 2 Streifen 37 breit, je 250 lang | Tür, 2 Zierleisten |
-| 18 mm Schubladen | 2 × 2000×300, 1 × 2000×200 | 300er A: Streifen 130 + 146 (146: 5 Fronten à 247); 130er-Streifen je 3 Seiten + 2 Rückstücke; 300er B: 2 Streifen 130; 200er: 1 Streifen 130 | 10 Seiten, 5 Rückstücke, 5 Fronten |
+| 18 mm Bretter | 5 × 800×300 | 4 × auf 590, 1 × auf 566 kürzen; alle auf 269 besäumen | 4 Fachböden, Bodenbrett |
+| 18 mm Tür und Zierleisten | 1 × 800×300 | auf 482 kürzen, auf 267 besäumen; Rest 318 × 300: 2 Streifen 37 breit, je 270 lang | Tür, 2 Zierleisten |
+| 18 mm Schubladen | 2 × 2000×300, 1 × 2000×200 | 300er A: Streifen 130 + 146 (146: 5 Fronten à 267); 130er-Streifen je 3 Seiten + 2 Rückstücke; 300er B: 2 Streifen 130; 200er: 1 Streifen 130 | 10 Seiten, 5 Rückstücke, 5 Fronten |
 
 Reste aufheben (Dübeltests). Anzahl der Schnitte beim Bauhaus vorher klären (ca. 60 Schnitte).
 
@@ -143,16 +143,16 @@ Preise von dir: Dübelset 30 €, Messinggriffe 7 € das Stück, 4 Paar Kugelau
 | 3 Scharniere + Magnetschnäpper | 10–25 € | Schätzung |
 | 27-mm-Holz: Verbindungsplatte + 2 Trennplatten (1,68 m² × 84 €/m²) | ca. 141 € | Beleg |
 | Tischplatte 1330 × 680 × 27 mit Profil (Lieferant) | Preis fehlt | |
-| 18-mm-Bretter (2,8 m²) | ca. 70 € | nur 2000×200 belegt, Rest nach Fläche (25 €/m²) |
+| 18-mm-Bretter (3,1 m²) | ca. 77 € | nur 2000×200 belegt, Rest nach Fläche (25 €/m²) |
 | Verzierung: Sperrholz Beinraum + 1 Leiste 210 × 1 × 4,7 cm (Tür) | ca. 10–25 € | Schätzung |
 | Lasur Nussbaum (2,0–2,8 l) | 57–80 € | Beleg + Annahme Deckvermögen |
 | Sperrholz 8 mm (Rückwand) und 6 mm (Böden) | 28–55 € | Schätzung |
 | Klarlack | 10–25 € | Schätzung |
 | Zubehör (Spanngurte, Leim, 6×30-Dübel, Schleifpapier, Z-Verbinder, Pinsel) | 45–73 € | Schätzung |
-| **Zwischensumme ohne Tischplatte und 40-mm-Holz** | **ca. 495–605 €** | |
+| **Zwischensumme ohne Tischplatte und 40-mm-Holz** | **ca. 490–615 €** | |
 | 40-mm-Holz (0,96 m², Preis fehlt; bei 120 €/m² ca. 115 €) | offen | Annahme |
 
-Option innere Trennplatten 40 statt 27 mm: ca. 75 € mehr (bei 120 €/m² für 40 mm, Annahme), Kniefreiraum 580 statt 606 mm. Vergleichsbild: `vergleich_trennplatten_27_40.png`.
+Option innere Trennplatten 40 statt 27 mm: ca. 75 € mehr (bei 120 €/m² für 40 mm, Annahme), Kniefreiraum 540 statt 566 mm (bei Öffnungen von 270 mm). Vergleichsbild: `vergleich_trennplatten_27_40.png`.
 
 ## 9. Offene Punkte
 

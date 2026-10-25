@@ -93,30 +93,30 @@
 <rect x="1269.6" y="359.4" width="17.6" height="6" fill="#c0392b" stroke="#fff" stroke-width="0.8"/>
 <rect x="800.0" y="308.0" width="17.6" height="6" fill="#c0392b" stroke="#fff" stroke-width="0.8"/>
 <rect x="1269.6" y="308.0" width="17.6" height="6" fill="#c0392b" stroke="#fff" stroke-width="0.8"/>
-<rect x="905.0" y="290.0" width="11.3" height="247.8" fill="none" stroke="#2471a3" stroke-width="1" stroke-dasharray="4,3"/>
-<rect x="1170.9" y="290.0" width="11.3" height="247.8" fill="none" stroke="#2471a3" stroke-width="1" stroke-dasharray="4,3"/>
-<circle cx="910.7" cy="516.8" r="6" fill="#2471a3" stroke="#fff" stroke-width="1.2"/>
-<circle cx="1176.5" cy="516.8" r="6" fill="#2471a3" stroke="#fff" stroke-width="1.2"/>
-<circle cx="910.7" cy="465.4" r="6" fill="#2471a3" stroke="#fff" stroke-width="1.2"/>
-<circle cx="1176.5" cy="465.4" r="6" fill="#2471a3" stroke="#fff" stroke-width="1.2"/>
-<circle cx="910.7" cy="413.9" r="6" fill="#2471a3" stroke="#fff" stroke-width="1.2"/>
-<circle cx="1176.5" cy="413.9" r="6" fill="#2471a3" stroke="#fff" stroke-width="1.2"/>
-<circle cx="910.7" cy="362.4" r="6" fill="#2471a3" stroke="#fff" stroke-width="1.2"/>
-<circle cx="1176.5" cy="362.4" r="6" fill="#2471a3" stroke="#fff" stroke-width="1.2"/>
-<circle cx="910.7" cy="311.0" r="6" fill="#2471a3" stroke="#fff" stroke-width="1.2"/>
-<circle cx="1176.5" cy="311.0" r="6" fill="#2471a3" stroke="#fff" stroke-width="1.2"/>
+<rect x="913.4" y="290.0" width="11.3" height="247.8" fill="none" stroke="#2471a3" stroke-width="1" stroke-dasharray="4,3"/>
+<rect x="1162.5" y="290.0" width="11.3" height="247.8" fill="none" stroke="#2471a3" stroke-width="1" stroke-dasharray="4,3"/>
+<circle cx="919.1" cy="516.8" r="6" fill="#2471a3" stroke="#fff" stroke-width="1.2"/>
+<circle cx="1168.1" cy="516.8" r="6" fill="#2471a3" stroke="#fff" stroke-width="1.2"/>
+<circle cx="919.1" cy="465.4" r="6" fill="#2471a3" stroke="#fff" stroke-width="1.2"/>
+<circle cx="1168.1" cy="465.4" r="6" fill="#2471a3" stroke="#fff" stroke-width="1.2"/>
+<circle cx="919.1" cy="413.9" r="6" fill="#2471a3" stroke="#fff" stroke-width="1.2"/>
+<circle cx="1168.1" cy="413.9" r="6" fill="#2471a3" stroke="#fff" stroke-width="1.2"/>
+<circle cx="919.1" cy="362.4" r="6" fill="#2471a3" stroke="#fff" stroke-width="1.2"/>
+<circle cx="1168.1" cy="362.4" r="6" fill="#2471a3" stroke="#fff" stroke-width="1.2"/>
+<circle cx="919.1" cy="311.0" r="6" fill="#2471a3" stroke="#fff" stroke-width="1.2"/>
+<circle cx="1168.1" cy="311.0" r="6" fill="#2471a3" stroke="#fff" stroke-width="1.2"/>
 <line x1="800.0" y1="577.8" x2="1287.2" y2="577.8" stroke="#555555" stroke-width="1"/>
 <line x1="800.0" y1="573.8" x2="800.0" y2="581.8" stroke="#555555" stroke-width="1"/>
 <line x1="1287.2" y1="573.8" x2="1287.2" y2="581.8" stroke="#555555" stroke-width="1"/>
 <text x="1043.6" y="573.8" font-size="11" text-anchor="middle" fill="#555555" font-weight="normal">1160</text>
-<line x1="800.0" y1="599.8" x2="910.7" y2="599.8" stroke="#555555" stroke-width="1"/>
+<line x1="800.0" y1="599.8" x2="919.1" y2="599.8" stroke="#555555" stroke-width="1"/>
 <line x1="800.0" y1="595.8" x2="800.0" y2="603.8" stroke="#555555" stroke-width="1"/>
-<line x1="910.7" y1="595.8" x2="910.7" y2="603.8" stroke="#555555" stroke-width="1"/>
-<text x="855.3" y="595.8" font-size="10" text-anchor="middle" fill="#555555" font-weight="normal">263,5 bis Mitte Trennplatte links</text>
-<line x1="1176.5" y1="599.8" x2="1287.2" y2="599.8" stroke="#555555" stroke-width="1"/>
-<line x1="1176.5" y1="595.8" x2="1176.5" y2="603.8" stroke="#555555" stroke-width="1"/>
+<line x1="919.1" y1="595.8" x2="919.1" y2="603.8" stroke="#555555" stroke-width="1"/>
+<text x="859.5" y="595.8" font-size="10" text-anchor="middle" fill="#555555" font-weight="normal">283,5 bis Mitte Trennplatte links</text>
+<line x1="1168.1" y1="599.8" x2="1287.2" y2="599.8" stroke="#555555" stroke-width="1"/>
+<line x1="1168.1" y1="595.8" x2="1168.1" y2="603.8" stroke="#555555" stroke-width="1"/>
 <line x1="1287.2" y1="595.8" x2="1287.2" y2="603.8" stroke="#555555" stroke-width="1"/>
-<text x="1231.9" y="595.8" font-size="10" text-anchor="middle" fill="#555555" font-weight="normal">263,5 bis Mitte Trennplatte rechts</text>
+<text x="1227.7" y="595.8" font-size="10" text-anchor="middle" fill="#555555" font-weight="normal">283,5 bis Mitte Trennplatte rechts</text>
 <line x1="784.0" y1="290.0" x2="784.0" y2="537.8" stroke="#555555" stroke-width="1"/>
 <line x1="780.0" y1="290.0" x2="788.0" y2="290.0" stroke="#555555" stroke-width="1"/>
 <line x1="780.0" y1="537.8" x2="788.0" y2="537.8" stroke="#555555" stroke-width="1"/>
@@ -168,7 +168,7 @@
 <text x="1286.0" y="728.4" font-size="12" text-anchor="start" fill="#2471a3" font-weight="normal">27 mm tief, mittig (13,5)</text>
 <text x="800.0" y="790.9" font-size="11.5" text-anchor="start" fill="#555555" font-weight="normal" font-style="italic">In der Verbindungsplatte nur 15 mm tief bohren, hier 27 mm: Tiefenstopp umstellen.</text>
 <text x="800.0" y="805.9" font-size="11.5" text-anchor="start" fill="#555555" font-weight="normal" font-style="italic">Alternative: Ø 8 × 30 mit je 16 mm (dann 20 Stück nachkaufen, 8 × 40 reichen für Seiten + Trennplatten).</text>
-<text x="790.0" y="835.0" font-size="18" text-anchor="start" fill="#2b2b2b" font-weight="bold">4  Fachboden 250 × 590 × 18  (Draufsicht)  – 5 Stück: links 3, rechts 2 (inkl. Bodenbrett 566 tief)</text>
+<text x="790.0" y="835.0" font-size="18" text-anchor="start" fill="#2b2b2b" font-weight="bold">4  Fachboden 269 × 590 × 18  (Draufsicht)  – 5 Stück: links 3, rechts 2 (inkl. Bodenbrett 566 tief)</text>
 <rect x="800.0" y="880.0" width="472.0" height="160.0" fill="#d9b27c" stroke="#2b2b2b" stroke-width="1.4"/>
 <rect x="837.0" y="880.0" width="6" height="16.3" fill="#1e8449" stroke="#fff" stroke-width="0.8"/>
 <rect x="837.0" y="1021.8" width="6" height="18.2" fill="#1e8449" stroke="#fff" stroke-width="0.8"/>
@@ -185,7 +185,7 @@
 <line x1="786.0" y1="880.0" x2="786.0" y2="1040.0" stroke="#555555" stroke-width="1"/>
 <line x1="782.0" y1="880.0" x2="790.0" y2="880.0" stroke="#555555" stroke-width="1"/>
 <line x1="782.0" y1="1040.0" x2="790.0" y2="1040.0" stroke="#555555" stroke-width="1"/>
-<text x="780.0" y="960.0" font-size="11" text-anchor="middle" fill="#555555" font-weight="normal" transform="rotate(-90 780.0 960.0)">250</text>
+<text x="780.0" y="960.0" font-size="11" text-anchor="middle" fill="#555555" font-weight="normal" transform="rotate(-90 780.0 960.0)">269</text>
 <text x="1286.0" y="900.0" font-size="12" text-anchor="start" fill="#1e8449" font-weight="bold">je Kante 3 Dübel Ø 6 × 30, 6 je Brett.</text>
 <text x="1286.0" y="916.0" font-size="12" text-anchor="start" fill="#1e8449" font-weight="normal">Zur Seitenplatte (40): Brett 15 mm,</text>
 <text x="1286.0" y="930.0" font-size="12" text-anchor="start" fill="#1e8449" font-weight="normal">Seitenplatte 17 mm tief.</text>
@@ -193,24 +193,24 @@
 <text x="1286.0" y="964.0" font-size="12" text-anchor="start" fill="#1e8449" font-weight="normal">Trennplatte nur 12 mm tief.</text>
 <text x="40.0" y="1105.0" font-size="18" text-anchor="start" fill="#2b2b2b" font-weight="bold">5  Eine Schublade: 8 Dübel Ø 6 × 30  (5 Schubladen = 40)</text>
 <text x="40.0" y="1123.0" font-size="12" text-anchor="start" fill="#555" font-weight="normal" font-style="italic">Bohrtiefe: in der Fläche 12 mm, in der Stirnseite 19 mm.</text>
-<text x="90.0" y="1164.0" font-size="13" text-anchor="start" fill="#2b2b2b" font-weight="bold">Front, Rückseite 247 × 146 (18 dick)</text>
-<rect x="90.0" y="1190.0" width="247.0" height="146.0" fill="#ecd2a7" stroke="#2b2b2b" stroke-width="1.4"/>
+<text x="90.0" y="1164.0" font-size="13" text-anchor="start" fill="#2b2b2b" font-weight="bold">Front, Rückseite 267 × 146 (18 dick)</text>
+<rect x="90.0" y="1190.0" width="267.0" height="146.0" fill="#ecd2a7" stroke="#2b2b2b" stroke-width="1.4"/>
 <rect x="101.5" y="1200.0" width="18.0" height="130.0" fill="none" stroke="#8a8a8a" stroke-width="1" stroke-dasharray="4,3"/>
-<rect x="307.5" y="1200.0" width="18.0" height="130.0" fill="none" stroke="#8a8a8a" stroke-width="1" stroke-dasharray="4,3"/>
+<rect x="327.5" y="1200.0" width="18.0" height="130.0" fill="none" stroke="#8a8a8a" stroke-width="1" stroke-dasharray="4,3"/>
 <circle cx="110.5" cy="1300.0" r="5.5" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
 <circle cx="110.5" cy="1230.0" r="5.5" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
-<circle cx="316.5" cy="1300.0" r="5.5" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
-<circle cx="316.5" cy="1230.0" r="5.5" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
-<line x1="90.0" y1="1358.0" x2="337.0" y2="1358.0" stroke="#555555" stroke-width="1"/>
+<circle cx="336.5" cy="1300.0" r="5.5" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
+<circle cx="336.5" cy="1230.0" r="5.5" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
+<line x1="90.0" y1="1358.0" x2="357.0" y2="1358.0" stroke="#555555" stroke-width="1"/>
 <line x1="90.0" y1="1354.0" x2="90.0" y2="1362.0" stroke="#555555" stroke-width="1"/>
-<line x1="337.0" y1="1354.0" x2="337.0" y2="1362.0" stroke="#555555" stroke-width="1"/>
-<text x="213.5" y="1354.0" font-size="11" text-anchor="middle" fill="#555555" font-weight="normal">247</text>
+<line x1="357.0" y1="1354.0" x2="357.0" y2="1362.0" stroke="#555555" stroke-width="1"/>
+<text x="223.5" y="1354.0" font-size="11" text-anchor="middle" fill="#555555" font-weight="normal">267</text>
 <line x1="76.0" y1="1190.0" x2="76.0" y2="1336.0" stroke="#555555" stroke-width="1"/>
 <line x1="72.0" y1="1190.0" x2="80.0" y2="1190.0" stroke="#555555" stroke-width="1"/>
 <line x1="72.0" y1="1336.0" x2="80.0" y2="1336.0" stroke="#555555" stroke-width="1"/>
 <text x="70.0" y="1263.0" font-size="11" text-anchor="middle" fill="#555555" font-weight="normal" transform="rotate(-90 70.0 1263.0)">146</text>
-<text x="213.5" y="1382.0" font-size="12" text-anchor="middle" fill="#1e8449" font-weight="bold">4 Dübel in der Fläche (12 mm tief)</text>
-<text x="213.5" y="1397.0" font-size="11" text-anchor="middle" fill="#555555" font-weight="normal">Seiten sitzen 11,5 mm vom Frontrand, 6 mm über der Unterkante</text>
+<text x="223.5" y="1382.0" font-size="12" text-anchor="middle" fill="#1e8449" font-weight="bold">4 Dübel in der Fläche (12 mm tief)</text>
+<text x="223.5" y="1397.0" font-size="11" text-anchor="middle" fill="#555555" font-weight="normal">Seiten sitzen 11,5 mm vom Frontrand, 6 mm über der Unterkante</text>
 <text x="400.0" y="1164.0" font-size="13" text-anchor="start" fill="#2b2b2b" font-weight="bold">Schubladenseite (2×), Innenseite 500 × 130 (18 dick)</text>
 <rect x="400.0" y="1200.0" width="360.0" height="93.6" fill="#ecd2a7" stroke="#2b2b2b" stroke-width="1.4"/>
 <text x="580.0" y="1251.8" font-size="11" text-anchor="middle" fill="#777" font-weight="normal" font-style="italic">Vorderende links (an die Front)</text>
@@ -233,17 +233,17 @@
 <text x="400.0" y="1339.6" font-size="12" text-anchor="start" fill="#1e8449" font-weight="bold">2 Dübel an der Stirnseite vorn (19 mm tief)</text>
 <text x="400.0" y="1355.6" font-size="12" text-anchor="start" fill="#1e8449" font-weight="bold">+ 2 Dübel in der Fläche hinten (12 mm tief)</text>
 <text x="400.0" y="1371.6" font-size="11" text-anchor="start" fill="#555555" font-weight="normal">Höhe: 30 mm und 100 mm von der Unterkante</text>
-<text x="400.0" y="1414.0" font-size="13" text-anchor="start" fill="#2b2b2b" font-weight="bold">Rückstück 188 × 130 (18 dick)</text>
-<rect x="400.0" y="1440.0" width="188.0" height="130.0" fill="#ecd2a7" stroke="#2b2b2b" stroke-width="1.4"/>
+<text x="400.0" y="1414.0" font-size="13" text-anchor="start" fill="#2b2b2b" font-weight="bold">Rückstück 208 × 130 (18 dick)</text>
+<rect x="400.0" y="1440.0" width="208.0" height="130.0" fill="#ecd2a7" stroke="#2b2b2b" stroke-width="1.4"/>
 <rect x="400.0" y="1536.5" width="22.8" height="7" fill="#1e8449" stroke="#fff" stroke-width="0.8"/>
-<rect x="565.2" y="1536.5" width="22.8" height="7" fill="#1e8449" stroke="#fff" stroke-width="0.8"/>
+<rect x="585.2" y="1536.5" width="22.8" height="7" fill="#1e8449" stroke="#fff" stroke-width="0.8"/>
 <rect x="400.0" y="1466.5" width="22.8" height="7" fill="#1e8449" stroke="#fff" stroke-width="0.8"/>
-<rect x="565.2" y="1466.5" width="22.8" height="7" fill="#1e8449" stroke="#fff" stroke-width="0.8"/>
-<line x1="400.0" y1="1592.0" x2="588.0" y2="1592.0" stroke="#555555" stroke-width="1"/>
+<rect x="585.2" y="1466.5" width="22.8" height="7" fill="#1e8449" stroke="#fff" stroke-width="0.8"/>
+<line x1="400.0" y1="1592.0" x2="608.0" y2="1592.0" stroke="#555555" stroke-width="1"/>
 <line x1="400.0" y1="1588.0" x2="400.0" y2="1596.0" stroke="#555555" stroke-width="1"/>
-<line x1="588.0" y1="1588.0" x2="588.0" y2="1596.0" stroke="#555555" stroke-width="1"/>
-<text x="494.0" y="1588.0" font-size="11" text-anchor="middle" fill="#555555" font-weight="normal">188</text>
-<text x="494.0" y="1616.0" font-size="12" text-anchor="middle" fill="#1e8449" font-weight="bold">2 + 2 Dübel in den Stirnseiten (19 mm tief)</text>
+<line x1="608.0" y1="1588.0" x2="608.0" y2="1596.0" stroke="#555555" stroke-width="1"/>
+<text x="504.0" y="1588.0" font-size="11" text-anchor="middle" fill="#555555" font-weight="normal">208</text>
+<text x="504.0" y="1616.0" font-size="12" text-anchor="middle" fill="#1e8449" font-weight="bold">2 + 2 Dübel in den Stirnseiten (19 mm tief)</text>
 <text x="800.0" y="1164.0" font-size="18" text-anchor="start" fill="#2b2b2b" font-weight="bold">6  Dübelliste und Vergleich mit dem Set</text>
 <rect x="794.0" y="1182.0" width="690.0" height="26.0" fill="#eee" stroke="none" stroke-width="1.2"/>
 <text x="800.0" y="1200.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="bold">Dübel</text>
