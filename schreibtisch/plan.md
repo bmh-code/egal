@@ -4,7 +4,7 @@ Bilder im selben Ordner: `skizze.png` (Ansichten), `duebelplan.png` (Dübel), `r
 
 ## 1. Aufbau
 
-- Gestell: zwei Seitenplatten (40 mm), dazwischen oben die Verbindungsplatte (27 mm), darauf die Tischplatte (27 mm, 1330 × 680, mit umlaufendem römischem Profil, wird fertig geliefert).
+- Gestell: zwei Seitenplatten (40 mm), dazwischen oben die Verbindungsplatte (27 mm), darauf die Tischplatte (28 mm, 1330 × 680, mit umlaufendem römischem Profil, wird fertig geliefert).
 - Links ein Schubladenblock mit **4 Schubladen**, getrennt durch **3 Fachböden (18 mm)**. Unten kein Brett; der 39 mm hohe Fuß bekommt später eine **Zierleiste** (kommt nachträglich, nicht im Einkauf).
 - Rechts oben **1 Schublade**, darunter ein **Fachboden** und eine **große Tür** (Scharniere rechts, Griff links, Magnetschnäpper). Unten ein **Bodenbrett** (Höhe 21–39), symmetrisch zu links; die Tür beginnt wie die linken Fronten bei 41 mm. Vor dem Bodenbrett bleiben 24 mm Platz für die spätere Zierleiste.
 - Zwischen den Blöcken zwei senkrechte Trennplatten (27 mm), dazwischen der Kniefreiraum.
@@ -13,8 +13,8 @@ Bilder im selben Ordner: `skizze.png` (Ansichten), `duebelplan.png` (Dübel), `r
 | | Wert |
 |---|---|
 | Gestell außen (B × T × H) | 1240 × 590 × 720 |
-| Tischplatte | 1330 × 680 × 27 (römisches Profil, geliefert) |
-| Gesamthöhe | 747 |
+| Tischplatte | 1330 × 680 × 28 (römisches Profil, geliefert, roh) |
+| Gesamthöhe | 748 |
 | Überstand Tischplatte | 45 vorn, 45 je Seite, hinten 37 über der Rückwand |
 | Öffnung je Block (Breite) | 270 |
 | Kniefreiraum | ca. 566 |
@@ -45,7 +45,7 @@ Rechts: Fach 4 = Schublade (wie links), 525–543 Fachboden, 39–525 Türfach (
 | Fachboden | 4 | 590 × ca. 269 (aus 300 breitem Brett besäumen, nach Messen anpassen) | 18 | Leimholz Kiefer |
 | Bodenbrett rechts | 1 | 566 × ca. 269 (24 mm hinter der Vorderkante) | 18 | Leimholz Kiefer |
 | Tür | 1 | 482 × 267 | 18 | Leimholz Kiefer |
-| Tischplatte | 1 | 1330 × 680 (geliefert, mit römischem Profil) | 27 | Leimholz Kiefer |
+| Tischplatte | 1 | 1330 × 680 (geliefert, roh, mit römischem Profil) | 28 | Leimholz Kiefer |
 | Rückwand | 1 | 1240 × 720 | 8 | Sperrholz |
 
 Linke Trennplatte: 310 mm von der linken Außenkante bis zu ihrer linken Fläche (Öffnung genau 270 mm), die Platte reicht bis 337 mm. Rechte Trennplatte spiegelbildlich.
@@ -76,7 +76,7 @@ Detail 6 in `skizze.png`. Tür: Bauhaus-Leiste **10 × 47 mm** (210 × 1 × 4,7 
 | Querstück oben (2 Leisten nebeneinander) | 2 | 444 × 60 × 10 |
 | Querstück unten (2 Leisten nebeneinander) | 2 | 444 × 60 × 10 |
 
-Fenster je 192 × 450 (10 mm tief, gleiches Seitenverhältnis wie das Türfenster). Querstücke oben und unten je 120 hoch aus zwei Leisten mit feiner Fuge. Gesamtfläche 564 × 690, Unterkante 1 mm über dem Boden. Rückwand flach hinlegen, Leisten aufleimen, mit Gewichten beschweren, zusätzlich Schrauben 3 × 15 von hinten (8 mm Rückwand + 7 mm in die Leiste). Gerade Leisten aussuchen, Holzart Kiefer prüfen.
+Fenster je 192 × 450 (10 mm tief, gleiches Seitenverhältnis wie das Türfenster). Querstücke oben und unten je 120 hoch aus zwei Leisten mit feiner Fuge. Gesamtfläche 564 × 690, Unterkante 1 mm über dem Boden. Rückwand flach hinlegen, Leisten aufleimen, mit Gewichten beschweren, zusätzlich Schrauben 3 × 15 von hinten (8 mm Rückwand + 7 mm in die Leiste). Gerade Leisten aussuchen (Kiefer, bestätigt).
 
 **Tür** (auf der Türfront): 4 Leisten, 1 Fenster in der Mitte bleibt frei.
 
@@ -85,7 +85,7 @@ Fenster je 192 × 450 (10 mm tief, gleiches Seitenverhältnis wie das Türfenste
 | Seitenleiste | 2 | 482 × 47 × 10 |
 | Querstück | 2 | 173 × 47 × 10 |
 
-Genau so groß wie die Tür (267 × 482), Fenster 173 × 388. Die Leisten sind **10 mm** dick: eine Bauhaus-Leiste 210 × 1 × 4,7 cm reicht (2 × 482 + 2 × 173 mm = 1,31 m). Holzart prüfen (Kiefer, damit die Lasur gleich wirkt). Die **Tür selbst sitzt 10 mm zurückgesetzt**, sodass die Leisten **bündig** mit Seitenplatten und Schubladenfronten enden; das Fenster liegt 10 mm tiefer. Tür + Leisten zusammen 28 mm dick. Scharniere für innenliegende Türen wählen und vor dem Festschrauben prüfen, dass die Tür frei aufschwenkt. Nur Leim + Zwingen oder Gewichte (keine Schrauben von hinten, die Leisten sind zu dünn); Griff auf der linken Leiste, Magnetschnäpper als Anschlag.
+Genau so groß wie die Tür (267 × 482), Fenster 173 × 388. Die Leisten sind **10 mm** dick: eine Bauhaus-Leiste 210 × 1 × 4,7 cm reicht (2 × 482 + 2 × 173 mm = 1,31 m). Kiefer (bestätigt). Die **Tür selbst sitzt 10 mm zurückgesetzt**, sodass die Leisten **bündig** mit Seitenplatten und Schubladenfronten enden; das Fenster liegt 10 mm tiefer. Tür + Leisten zusammen 28 mm dick. Scharniere für innenliegende Türen wählen und vor dem Festschrauben prüfen, dass die Tür frei aufschwenkt. Nur Leim + Zwingen oder Gewichte (keine Schrauben von hinten, die Leisten sind zu dünn); Griff auf der linken Leiste, Magnetschnäpper als Anschlag.
 
 Zuschnitt Beinraum: 2 Leisten 210 × 1 × 6 cm, Leiste 1: 690 + 690 + 444, Leiste 2: 3 × 444 + 450. Tür: 1 Leiste 210 × 1 × 4,7 cm, zuschneiden auf 2 × 482 und 2 × 173 mm.
 
@@ -137,7 +137,7 @@ Vor dem Zuschnitt der Trennplatten die echte Dicke der Verbindungsplatte messen 
 | Rückwand 8 mm | 1 × 1240 × 720 (Plattenbreite mind. 1250 mm) |
 | Schubladenböden 6 mm | 5 × 244 × 500 |
 
-### C) Leisten (Bauhaus, Holzart Kiefer prüfen, gerade aussuchen)
+### C) Leisten (Bauhaus, Kiefer, gerade aussuchen)
 
 | Leiste | Anz. | Zuschnitt |
 |---|---|---|
@@ -146,7 +146,7 @@ Vor dem Zuschnitt der Trennplatten die echte Dicke der Verbindungsplatte messen 
 
 ### D) Tischplatte (Lieferant)
 
-1 × 1330 × 680 × 27 mm, Kiefer, umlaufendes römisches Profil. Klären, ob roh oder schon behandelt (sonst lasieren + 2 × Klarlack).
+1 × 1330 × 680 × 28 mm, Kiefer, umlaufendes römisches Profil, kommt **roh**: schleifen (auch das Profil, 180 → 240), oben und unten lasieren (beide Seiten gleich, damit sie sich nicht verzieht), oben 2 × Klarlack. Z-Verbinder mit Schrauben höchstens 3,5 × 16 in die Tischplatte.
 
 ### E) Beschläge
 
@@ -212,7 +212,8 @@ Preise von dir: Dübelset 30 €, Messinggriffe 7 € das Stück, 4 Paar Kugelau
 ## 9. Offene Punkte
 
 - Preise: Tischplatte, 40-mm-Holz, Sperrholz, Leisten, Klarlack.
+- Tischplatte: 28 mm, roh, römisches Profil – geklärt (Gesamthöhe 748).
+- Leisten: Kiefer – geklärt.
 - Gibt es 27 und 40 mm in den angenommenen Formaten? Wie viele kostenlose Schnitte?
-- Tischplatte roh oder behandelt? Genaue Dicke (27 oder 28 mm; bei 28 mm Gesamthöhe 748).
 - Scharniermodell für die 10 mm zurückgesetzte Tür.
 - Zierleisten: kommen später.

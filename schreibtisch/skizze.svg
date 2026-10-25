@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1560" height="2060" viewBox="0 0 1560 2060" font-family="DejaVu Sans, Arial, sans-serif">
 <rect width="1560" height="2060" fill="#ffffff"/>
 <text x="40.0" y="44.0" font-size="28" text-anchor="start" fill="#2b2b2b" font-weight="bold">Schreibtisch – Skizze</text>
-<text x="40.0" y="68.0" font-size="14" text-anchor="start" fill="#555" font-weight="normal">Leimholz Kiefer · alle Maße in cm · Tischplatte 27 mm mit römischem Profil (Gesamthöhe 74,7 cm)</text>
+<text x="40.0" y="68.0" font-size="14" text-anchor="start" fill="#555" font-weight="normal">Leimholz Kiefer · alle Maße in cm · Tischplatte 28 mm mit römischem Profil (Gesamthöhe 74,8 cm)</text>
 <text x="40.0" y="88.0" font-size="13" text-anchor="start" fill="#555" font-weight="normal" font-style="italic">Links 4 Schubladen mit 3 Fachböden, rechts 1 Schublade und eine große Tür. Nicht in allen Ansichten maßstäblich.</text>
 <text x="40.0" y="128.0" font-size="18" text-anchor="start" fill="#2b2b2b" font-weight="bold">1  Vorderansicht</text>
 <rect x="146.0" y="202.8" width="464.0" height="277.2" fill="#eee7d8" stroke="#888" stroke-width="0.8"/>
@@ -49,7 +49,7 @@
 <rect x="608.4" y="289.8" width="3.0" height="10.0" fill="#8f7430" stroke="#6b551f" stroke-width="0.5"/>
 <text x="556.0" y="320.0" font-size="12" text-anchor="middle" fill="#777" font-weight="normal">Tür</text>
 <text x="556.0" y="334.0" font-size="10" text-anchor="middle" fill="#777" font-weight="normal" font-style="italic">(Scharniere rechts)</text>
-<rect x="112.0" y="181.2" width="532.0" height="10.8" fill="#d7ad74" stroke="#2b2b2b" stroke-width="1.2"/>
+<rect x="112.0" y="180.8" width="532.0" height="11.2" fill="#d7ad74" stroke="#2b2b2b" stroke-width="1.2"/>
 <line x1="82.0" y1="480.0" x2="690.0" y2="480.0" stroke="#2b2b2b" stroke-width="2"/>
 <line x1="130.0" y1="480.0" x2="130.0" y2="512.0" stroke="#b3261e" stroke-width="0.6"/>
 <line x1="146.0" y1="480.0" x2="146.0" y2="512.0" stroke="#b3261e" stroke-width="0.6"/>
@@ -117,24 +117,24 @@
 <line x1="667.0" y1="195.0" x2="673.0" y2="189.0" stroke="#b3261e" stroke-width="1"/>
 <line x1="667.0" y1="205.8" x2="673.0" y2="199.8" stroke="#b3261e" stroke-width="1"/>
 <text x="684.0" y="197.4" font-size="11" text-anchor="middle" fill="#b3261e" font-weight="normal" transform="rotate(-90 684.0 197.4)">2,7</text>
-<line x1="638.0" y1="181.2" x2="692.0" y2="181.2" stroke="#b3261e" stroke-width="0.6"/>
+<line x1="638.0" y1="180.8" x2="692.0" y2="180.8" stroke="#b3261e" stroke-width="0.6"/>
 <line x1="638.0" y1="192.0" x2="692.0" y2="192.0" stroke="#b3261e" stroke-width="0.6"/>
-<line x1="696.0" y1="181.2" x2="696.0" y2="192.0" stroke="#b3261e" stroke-width="1"/>
-<line x1="693.0" y1="184.2" x2="699.0" y2="178.2" stroke="#b3261e" stroke-width="1"/>
+<line x1="696.0" y1="180.8" x2="696.0" y2="192.0" stroke="#b3261e" stroke-width="1"/>
+<line x1="693.0" y1="183.8" x2="699.0" y2="177.8" stroke="#b3261e" stroke-width="1"/>
 <line x1="693.0" y1="195.0" x2="699.0" y2="189.0" stroke="#b3261e" stroke-width="1"/>
-<text x="710.0" y="186.6" font-size="11" text-anchor="middle" fill="#b3261e" font-weight="normal" transform="rotate(-90 710.0 186.6)">2,7</text>
+<text x="710.0" y="186.4" font-size="11" text-anchor="middle" fill="#b3261e" font-weight="normal" transform="rotate(-90 710.0 186.4)">2,8</text>
 <line x1="118.0" y1="192.0" x2="92.0" y2="192.0" stroke="#b3261e" stroke-width="0.6"/>
 <line x1="118.0" y1="480.0" x2="92.0" y2="480.0" stroke="#b3261e" stroke-width="0.6"/>
 <line x1="88.0" y1="192.0" x2="88.0" y2="480.0" stroke="#b3261e" stroke-width="1"/>
 <line x1="85.0" y1="195.0" x2="91.0" y2="189.0" stroke="#b3261e" stroke-width="1"/>
 <line x1="85.0" y1="483.0" x2="91.0" y2="477.0" stroke="#b3261e" stroke-width="1"/>
 <text x="84.0" y="336.0" font-size="11" text-anchor="middle" fill="#b3261e" font-weight="normal" transform="rotate(-90 84.0 336.0)">72 (Gestell)</text>
-<line x1="118.0" y1="181.2" x2="68.0" y2="181.2" stroke="#b3261e" stroke-width="0.6"/>
+<line x1="118.0" y1="180.8" x2="68.0" y2="180.8" stroke="#b3261e" stroke-width="0.6"/>
 <line x1="118.0" y1="480.0" x2="68.0" y2="480.0" stroke="#b3261e" stroke-width="0.6"/>
-<line x1="64.0" y1="181.2" x2="64.0" y2="480.0" stroke="#b3261e" stroke-width="1"/>
-<line x1="61.0" y1="184.2" x2="67.0" y2="178.2" stroke="#b3261e" stroke-width="1"/>
+<line x1="64.0" y1="180.8" x2="64.0" y2="480.0" stroke="#b3261e" stroke-width="1"/>
+<line x1="61.0" y1="183.8" x2="67.0" y2="177.8" stroke="#b3261e" stroke-width="1"/>
 <line x1="61.0" y1="483.0" x2="67.0" y2="477.0" stroke="#b3261e" stroke-width="1"/>
-<text x="60.0" y="330.6" font-size="11" text-anchor="middle" fill="#b3261e" font-weight="normal" transform="rotate(-90 60.0 330.6)">74,7 gesamt</text>
+<text x="60.0" y="330.4" font-size="11" text-anchor="middle" fill="#b3261e" font-weight="normal" transform="rotate(-90 60.0 330.4)">74,8 gesamt</text>
 <text x="900.0" y="128.0" font-size="18" text-anchor="start" fill="#2b2b2b" font-weight="bold">2  Seitenansicht (von links, Vorderseite rechts)</text>
 <rect x="1028.0" y="192.0" width="236.0" height="288.0" fill="#e6c590" stroke="#2b2b2b" stroke-width="1.2"/>
 <rect x="1024.8" y="192.0" width="3.2" height="288.0" fill="#bda27a" stroke="#2b2b2b" stroke-width="1.2"/>
@@ -154,7 +154,7 @@
 <rect x="1256.8" y="464.8" width="7.2" height="14.8" fill="none" stroke="#888" stroke-width="1" stroke-dasharray="4,3"/>
 <text x="1160.0" y="344.0" font-size="12" text-anchor="middle" fill="#777" font-weight="normal" font-style="italic">Fachböden und Schubladen (verdeckt)</text>
 <text x="1160.0" y="360.0" font-size="12" text-anchor="middle" fill="#777" font-weight="normal" font-style="italic">Auszug 500 mm</text>
-<rect x="1010.0" y="181.2" width="272.0" height="10.8" fill="#d7ad74" stroke="#2b2b2b" stroke-width="1.2"/>
+<rect x="1010.0" y="180.8" width="272.0" height="11.2" fill="#d7ad74" stroke="#2b2b2b" stroke-width="1.2"/>
 <line x1="1296.0" y1="480.0" x2="984.0" y2="480.0" stroke="#2b2b2b" stroke-width="2"/>
 <line x1="1264.0" y1="480.0" x2="1264.0" y2="512.0" stroke="#b3261e" stroke-width="0.6"/>
 <line x1="1282.0" y1="480.0" x2="1282.0" y2="512.0" stroke="#b3261e" stroke-width="0.6"/>
@@ -327,7 +327,7 @@
 <text x="40.0" y="1276.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">• Tür: ca. 267 × 482 × 18, Scharniere rechts, Messinggriff links, Magnetschnäpper als Anschlag. Fugen 1,5 mm seitlich, 2 mm oben/unten.</text>
 <text x="40.0" y="1300.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">• Trennplatte links: 31 cm von der linken Außenkante (Öffnung genau 27 cm); rechts spiegelbildlich.</text>
 <text x="40.0" y="1324.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">• Rückwand 1240 × 720 × 8 mm außen aufgeleimt/genagelt (Kabeldurchlass vorher aussägen).</text>
-<text x="40.0" y="1348.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">• Tischplatte 1330 × 680 × 27 mit römischem Profil (wird geliefert). Nicht verleimen: Z-Verbinder oder Langlöcher.</text>
+<text x="40.0" y="1348.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">• Tischplatte 1330 × 680 × 28 (roh) mit römischem Profil (wird geliefert). Nicht verleimen: Z-Verbinder oder Langlöcher.</text>
 <text x="40.0" y="1372.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">• Verzierung: Beinraum mit Leisten 10 × 60 (2 Fenster frei), Tür mit Leisten 10 × 47 (1 Fenster frei), siehe Detail 6.</text>
 <text x="40.0" y="1396.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">• Leim haftet nicht auf Lasur: Klebeflächen vor dem Lasieren abkleben.</text>
 <text x="40.0" y="1450.0" font-size="18" text-anchor="start" fill="#2b2b2b" font-weight="bold">6  Verzierung: aufgeklebte Bretter, die Fenster bleiben frei (Ansicht von vorne, mm)</text>
