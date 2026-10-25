@@ -66,7 +66,7 @@ Annahme: Kugelauszüge 500 mm mit ca. 12,7 mm Platz je Seite (Datenblatt prüfen
 
 ## 4a. Verzierung (aufgeklebte Bretter, Fenster bleiben frei)
 
-Detail 6 in `skizze.png`. Alles 18 mm Leimholz Kiefer, vorher lasieren, Klebeflächen abkleben.
+Detail 6 in `skizze.png`. Tür: Leisten aus **9 mm Kiefer**. Beinraum: **Sperrholz** (Dicke noch offen, z. B. 9 oder 12 mm). Vorher lasieren, Klebeflächen abkleben.
 
 **Beinraum** (auf der Innenseite der Rückwand, zwischen den inneren Platten, je 1 mm Luft): 5 Bretter, 2 Fenster bleiben frei.
 
@@ -77,7 +77,7 @@ Detail 6 in `skizze.png`. Alles 18 mm Leimholz Kiefer, vorher lasieren, Klebefl�
 | Querstück oben | 1 | 464 × 100 |
 | Querstück unten | 1 | 464 × 145 |
 
-Fenster je 202 × 445 (man sieht dort die Rückwand, 18 mm tiefer). Gesamtfläche 604 × 690, Unterkante 1 mm über dem Boden. Leim + Schrauben 3 × 20 von hinten durch die Rückwand (unsichtbar). Der Beinraum wird dadurch 18 mm weniger tief.
+Fenster je 202 × 445 (man sieht dort die Rückwand, um die Sperrholzdicke tiefer). Gesamtfläche 604 × 690, Unterkante 1 mm über dem Boden. Rückwand flach hinlegen, Sperrholz aufleimen und mit Gewichten beschweren. Schrauben von hinten nur, wenn ihre Länge höchstens Rückwand (8) + Sperrholzdicke − 3 mm ist (bei 12 mm: 3 × 16). Kanten in den Fenstern sauber schleifen.
 
 **Tür** (auf der Türfront): 4 Bretter, 1 Fenster in der Mitte bleibt frei.
 
@@ -86,9 +86,9 @@ Fenster je 202 × 445 (man sieht dort die Rückwand, 18 mm tiefer). Gesamtfläch
 | Seitenleiste | 2 | 482 × 45 |
 | Querstück | 2 | 157 × 45 |
 
-Genau so groß wie die Tür (247 × 482), Fenster 157 × 392. Die **Tür selbst sitzt 18 mm zurückgesetzt** in der Öffnung, sodass die aufgeklebten Bretter **bündig** mit Seitenplatten und Schubladenfronten enden; nur das Fenster liegt 18 mm tiefer. Tür + Verzierung zusammen 36 mm dick, das Türfach wird innen 18 mm weniger tief. Scharniere für innenliegende Türen wählen und vor dem Festschrauben prüfen, dass die Tür frei aufschwenkt. Leim + Schrauben 3,5 × 30 von der Türinnenseite (vorbohren, versenken); Griff auf der linken Leiste, Magnetschnäpper als Anschlag.
+Genau so groß wie die Tür (247 × 482), Fenster 157 × 392. Die Leisten sind **9 mm** dick (dünne Kiefer kaufen oder von einer Schreinerei auftrennen lassen; Auftrennen im Baumarkt ist nicht möglich). Die **Tür selbst sitzt 9 mm zurückgesetzt**, sodass die Leisten **bündig** mit Seitenplatten und Schubladenfronten enden; das Fenster liegt 9 mm tiefer. Tür + Leisten zusammen 27 mm dick. Scharniere für innenliegende Türen wählen und vor dem Festschrauben prüfen, dass die Tür frei aufschwenkt. Nur Leim + Zwingen oder Gewichte (keine Schrauben von hinten, die Leisten sind zu dünn); Griff auf der linken Leiste, Magnetschnäpper als Anschlag.
 
-Zuschnitt (Bauhaus): 1 × 2000×200 (Seitenleisten 690 × 70 und Mittelleiste 445 × 60), 1 × 800×250 (Querstücke 464 × 100 und 464 × 145), 1 × 800×200 (Tür: 2 × 482 × 45, 2 × 157 × 45).
+Zuschnitt: Beinraum-Teile aus einer Sperrholzplatte schneiden lassen (2 × 690 × 70, 1 × 445 × 60, 464 × 100, 464 × 145). Tür-Leisten aus 9-mm-Kiefer (2 × 482 × 45, 2 × 157 × 45).
 
 ## 5. Dübelplan
 
@@ -143,7 +143,8 @@ Preise von dir: Dübelset 30 €, Messinggriffe 7 € das Stück, 4 Paar Kugelau
 | 3 Scharniere + Magnetschnäpper | 10–25 € | Schätzung |
 | 27-mm-Holz: Verbindungsplatte + 2 Trennplatten (1,68 m² × 84 €/m²) | ca. 141 € | Beleg |
 | Tischplatte 1330 × 680 × 27 mit Profil (Lieferant) | Preis fehlt | |
-| 18-mm-Bretter (2,8 m²) + Bretter für die Verzierung (2000×200, 800×250, 800×200) | ca. 89 € | nur 2000×200 belegt, Rest nach Fläche (25 €/m²) |
+| 18-mm-Bretter (2,8 m²) | ca. 70 € |
+| Verzierung: Sperrholz Beinraum + 9-mm-Kiefer Tür | ca. 10–25 € | Schätzung | nur 2000×200 belegt, Rest nach Fläche (25 €/m²) |
 | Lasur Nussbaum (2,0–2,8 l) | 57–80 € | Beleg + Annahme Deckvermögen |
 | Sperrholz 8 mm (Rückwand) und 6 mm (Böden) | 28–55 € | Schätzung |
 | Klarlack | 10–25 € | Schätzung |
