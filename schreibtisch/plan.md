@@ -4,7 +4,7 @@ Bilder im selben Ordner: `skizze.png` (Ansichten), `duebelplan.png` (Dübel), `r
 
 ## 1. Aufbau
 
-- Gestell: zwei Seitenplatten (40 mm), dazwischen oben die Verbindungsplatte (27 mm), darauf die Tischplatte (18 mm, 1300 × 650).
+- Gestell: zwei Seitenplatten (40 mm), dazwischen oben die Verbindungsplatte (27 mm), darauf die Tischplatte (27 mm, 1330 × 680, mit umlaufendem römischem Profil, wird fertig geliefert).
 - Links ein Schubladenblock mit **4 Schubladen**, getrennt durch **3 Fachböden (18 mm)**. Unten kein Brett, nur eine **Zierleiste** vor dem Fuß.
 - Rechts oben **1 Schublade**, darunter ein **Fachboden** und eine **große Tür** (Scharniere rechts, Griff links, Magnetschnäpper). Unten ein **Bodenbrett** hinter der Zierleiste, symmetrisch zu links: Zierleiste auf beiden Seiten gleich, die Tür beginnt wie die linken Fronten bei 41 mm.
 - Zwischen den Blöcken zwei senkrechte Trennplatten (27 mm), dazwischen der Kniefreiraum.
@@ -13,9 +13,9 @@ Bilder im selben Ordner: `skizze.png` (Ansichten), `duebelplan.png` (Dübel), `r
 | | Wert |
 |---|---|
 | Gestell außen (B × T × H) | 1240 × 590 × 720 |
-| Tischplatte | 1300 × 650 × 18 |
-| Gesamthöhe | 738 |
-| Überstand Tischplatte | 30 vorn, 30 je Seite, hinten 22 über der Rückwand |
+| Tischplatte | 1330 × 680 × 27 (römisches Profil, geliefert) |
+| Gesamthöhe | 747 |
+| Überstand Tischplatte | 45 vorn, 45 je Seite, hinten 37 über der Rückwand |
 | Öffnung je Block (Breite) | 250 |
 | Kniefreiraum | ca. 606 |
 
@@ -46,7 +46,7 @@ Rechts: Fach 4 = Schublade (wie links), 525–543 Fachboden, 39–525 Türfach (
 | Bodenbrett rechts | 1 | 566 × ca. 249 (hinter der Zierleiste) | 18 | Leimholz Kiefer |
 | Tür | 1 | 482 × 247 | 18 | Leimholz Kiefer |
 | Zierleiste | 2 | 250 × 37 | 18 | Leimholz Kiefer (Reste) |
-| Tischplatte | 1 | 1300 × 650 | 18 | Leimholz Kiefer |
+| Tischplatte | 1 | 1330 × 680 (geliefert, mit römischem Profil) | 27 | Leimholz Kiefer |
 | Rückwand | 1 | 1240 × 720 | 8 | Sperrholz |
 
 Linke Trennplatte: 290 mm von der linken Außenkante bis zu ihrer linken Fläche (Öffnung genau 250 mm), die Platte reicht bis 317 mm. Rechte Trennplatte spiegelbildlich.
@@ -63,6 +63,23 @@ Annahme: Kugelauszüge 500 mm mit ca. 12,7 mm Platz je Seite (Datenblatt prüfen
 | Seiten | 2 | 500 × 130 | 18 | Leimholz Kiefer |
 | Rückstück | 1 | 188 × 130 | 18 | Leimholz Kiefer |
 | Boden | 1 | 224 × 500 | 6 | Sperrholz |
+
+## 4a. Verzierung auf der Rückwand (Innenseite im Beinraum)
+
+Zwei „Fenster“ im Kassetten-Stil, wie fünf aufgeklebte Platten (Detail 6 in `skizze.png`):
+
+| Teil | Anz. | Maß | Material |
+|---|---|---|---|
+| Grundplatte | 1 | 566 × 560 × 6 | Sperrholz (wie Schubladenböden) |
+| Rahmenleisten lang | 4 | 480 × 40 × 18 | Leimholz Kiefer |
+| Rahmenleisten kurz | 4 | 163 × 40 × 18 | Leimholz Kiefer |
+| Füllung | 2 | 153 × 390 × 6 | Sperrholz |
+
+- Grundplatte mittig im Beinraum, 20 mm Abstand zu den inneren Platten, Unterkante 90 mm über dem Boden.
+- Rahmen je 243 × 480 (Leisten stumpf verleimt), 30 mm vom Rand der Grundplatte, 20 mm Abstand zwischen den Rahmen, 40 mm Rand oben/unten.
+- Füllungen in den Rahmenöffnungen mit 5 mm Luft rundum, sie liegen 12 mm tiefer als der Rahmen.
+- Befestigung: Leim + Schrauben 3 × 25 von hinten durch die Rückwand (unsichtbar). Vorher lasieren, Klebeflächen abkleben, vor dem Anbringen der Rückwand montieren.
+- Leisten aus 1 Brett 2000 × 200 × 18: 4 Streifen à 40 mm längs schneiden lassen, dann auf 480 und 163 kürzen.
 
 ## 5. Dübelplan
 
@@ -98,7 +115,6 @@ Annahme: 27- und 40-mm-Bretter gibt es in denselben Formaten wie 18 mm (Längen 
 | 40 mm | 2 × 800×400, 2 × 800×200 | alle auf 720 kürzen; 200er-Teile auf 190 Breite besäumen | 2 Seitenplatten |
 | 27 mm | 1 × 2000×400, 1 × 2000×200 | je bei 1160 und 693 quer schneiden; 200er-Teile auf 190 besäumen | Verbindungsplatte, linke Trennplatte |
 | 27 mm | 1 × 800×400, 1 × 800×200 | auf 693 kürzen; 200er auf 190 besäumen | rechte Trennplatte |
-| 18 mm Tischplatte | 1 × 2000×400, 1 × 2000×250 | je auf 1300 kürzen | Tischplatte 1300 × 650 (400 + 250) |
 | 18 mm Bretter | 5 × 800×250 | 4 × auf 590, 1 × auf 566 kürzen | 4 Fachböden, Bodenbrett |
 | 18 mm Tür und Zierleisten | 1 × 800×250 | auf 482 kürzen, auf 247 besäumen; Rest 318 × 250: 2 Streifen 37 breit, je 250 lang | Tür, 2 Zierleisten |
 | 18 mm Schubladen | 2 × 2000×300, 1 × 2000×200 | 300er A: Streifen 130 + 146 (146: 5 Fronten à 247); 130er-Streifen je 3 Seiten + 2 Rückstücke; 300er B: 2 Streifen 130; 200er: 1 Streifen 130 | 10 Seiten, 5 Rückstücke, 5 Fronten |
@@ -117,12 +133,13 @@ Preise von dir: Dübelset 30 €, Messinggriffe 7 € das Stück, 4 Paar Kugelau
 | 1 weiteres Paar Auszüge | ca. 8 € | Schätzung (gleicher Preis) |
 | 3 Scharniere + Magnetschnäpper | 10–25 € | Schätzung |
 | 27-mm-Holz: Verbindungsplatte + 2 Trennplatten (1,68 m² × 84 €/m²) | ca. 141 € | Beleg |
-| 18-mm-Bretter inkl. Tischplatte (4,1 m²) | ca. 103 € | nur 2000×200 belegt, Rest nach Fläche (25 €/m²) |
+| Tischplatte 1330 × 680 × 27 mit Profil (Lieferant) | Preis fehlt | |
+| 18-mm-Bretter (2,8 m²) + 1 × 2000×200 für die Kassettenrahmen | ca. 80 € | nur 2000×200 belegt, Rest nach Fläche (25 €/m²) |
 | Lasur Nussbaum (2,0–2,8 l) | 57–80 € | Beleg + Annahme Deckvermögen |
 | Sperrholz 8 mm (Rückwand) und 6 mm (Böden) | 28–55 € | Schätzung |
 | Klarlack | 10–25 € | Schätzung |
 | Zubehör (Spanngurte, Leim, 6×30-Dübel, Schleifpapier, Z-Verbinder, Pinsel) | 45–73 € | Schätzung |
-| **Zwischensumme ohne 40-mm-Holz** | **ca. 505–615 €** | |
+| **Zwischensumme ohne Tischplatte und 40-mm-Holz** | **ca. 490–600 €** | |
 | 40-mm-Holz (0,96 m², Preis fehlt; bei 120 €/m² ca. 115 €) | offen | Annahme |
 
 Option innere Trennplatten 40 statt 27 mm: ca. 75 € mehr (bei 120 €/m² für 40 mm, Annahme), Kniefreiraum 580 statt 606 mm. Vergleichsbild: `vergleich_trennplatten_27_40.png`.
@@ -130,6 +147,9 @@ Option innere Trennplatten 40 statt 27 mm: ca. 75 € mehr (bei 120 €/m² für
 ## 9. Offene Punkte
 
 - Innere Platten (Verbindungsplatte, senkrechte Trennplatten): 27 mm – entschieden.
+- Tischplatte: Lieferant und Preis (27 oder 28 mm; bei 28 mm wird die Höhe 748).
+- Zierleiste: Form noch offen (sitzt zwischen den Platten, höchstens 39 mm hoch).
+- Verzierung: Lage und Maße bestätigen.
 - Preis 40-mm-Holz, Sperrholz, Klarlack.
 - Griff- und Scharniermodell (Aufschlag- oder Topfscharniere?).
 - Plattenformate und Anzahl kostenloser Schnitte beim Bauhaus.
