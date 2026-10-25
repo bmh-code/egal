@@ -66,18 +66,18 @@ Annahme: Kugelauszüge 500 mm mit ca. 12,7 mm Platz je Seite (Datenblatt prüfen
 
 ## 4a. Verzierung (aufgeklebte Bretter, Fenster bleiben frei)
 
-Detail 6 in `skizze.png`. Tür: Bauhaus-Leiste **10 × 47 mm** (210 × 1 × 4,7 cm). Beinraum: **Sperrholz** (Dicke noch offen, z. B. 9 oder 12 mm). Vorher lasieren, Klebeflächen abkleben.
+Detail 6 in `skizze.png`. Tür: Bauhaus-Leiste **10 × 47 mm** (210 × 1 × 4,7 cm). Beinraum: Bauhaus-Leisten **10 × 60 mm** (210 × 1 × 6 cm). Vorher lasieren, Klebeflächen abkleben.
 
-**Beinraum** (auf der Innenseite der Rückwand, zwischen den inneren Platten, je 1 mm Luft): 5 Bretter, 2 Fenster bleiben frei.
+**Beinraum** (auf der Innenseite der Rückwand, zwischen den inneren Platten, je 1 mm Luft): Leisten, 2 Fenster bleiben frei.
 
 | Teil | Anz. | Maß |
 |---|---|---|
-| Seitenleiste | 2 | 690 × 70 |
-| Mittelleiste | 1 | 445 × 60 |
-| Querstück oben | 1 | 424 × 100 |
-| Querstück unten | 1 | 424 × 145 |
+| Seitenleiste | 2 | 690 × 60 × 10 |
+| Mittelleiste | 1 | 450 × 60 × 10 |
+| Querstück oben (2 Leisten nebeneinander) | 2 | 444 × 60 × 10 |
+| Querstück unten (2 Leisten nebeneinander) | 2 | 444 × 60 × 10 |
 
-Fenster je 182 × 445 (man sieht dort die Rückwand, um die Sperrholzdicke tiefer). Gesamtfläche 564 × 690, Unterkante 1 mm über dem Boden. Rückwand flach hinlegen, Sperrholz aufleimen und mit Gewichten beschweren. Schrauben von hinten nur, wenn ihre Länge höchstens Rückwand (8) + Sperrholzdicke − 3 mm ist (bei 12 mm: 3 × 16). Kanten in den Fenstern sauber schleifen.
+Fenster je 192 × 450 (10 mm tief, gleiches Seitenverhältnis wie das Türfenster). Querstücke oben und unten je 120 hoch aus zwei Leisten mit feiner Fuge. Gesamtfläche 564 × 690, Unterkante 1 mm über dem Boden. Rückwand flach hinlegen, Leisten aufleimen, mit Gewichten beschweren, zusätzlich Schrauben 3 × 15 von hinten (8 mm Rückwand + 7 mm in die Leiste). Gerade Leisten aussuchen, Holzart Kiefer prüfen.
 
 **Tür** (auf der Türfront): 4 Bretter, 1 Fenster in der Mitte bleibt frei.
 
@@ -88,7 +88,7 @@ Fenster je 182 × 445 (man sieht dort die Rückwand, um die Sperrholzdicke tiefe
 
 Genau so groß wie die Tür (267 × 482), Fenster 173 × 388. Die Leisten sind **10 mm** dick: eine Bauhaus-Leiste 210 × 1 × 4,7 cm reicht (2 × 482 + 2 × 173 mm = 1,31 m). Holzart prüfen (Kiefer, damit die Lasur gleich wirkt). Die **Tür selbst sitzt 10 mm zurückgesetzt**, sodass die Leisten **bündig** mit Seitenplatten und Schubladenfronten enden; das Fenster liegt 10 mm tiefer. Tür + Leisten zusammen 28 mm dick. Scharniere für innenliegende Türen wählen und vor dem Festschrauben prüfen, dass die Tür frei aufschwenkt. Nur Leim + Zwingen oder Gewichte (keine Schrauben von hinten, die Leisten sind zu dünn); Griff auf der linken Leiste, Magnetschnäpper als Anschlag.
 
-Zuschnitt: Beinraum-Teile aus einer Sperrholzplatte schneiden lassen (2 × 690 × 70, 1 × 445 × 60, 424 × 100, 424 × 145). Tür: 1 Leiste 210 × 1 × 4,7 cm, zuschneiden auf 2 × 482 und 2 × 173 mm.
+Zuschnitt Beinraum: 2 Leisten 210 × 1 × 6 cm, Leiste 1: 690 + 690 + 444, Leiste 2: 3 × 444 + 450. Tür: 1 Leiste 210 × 1 × 4,7 cm, zuschneiden auf 2 × 482 und 2 × 173 mm.
 
 ## 5. Dübelplan
 
@@ -144,7 +144,7 @@ Preise von dir: Dübelset 30 €, Messinggriffe 7 € das Stück, 4 Paar Kugelau
 | 27-mm-Holz: Verbindungsplatte + 2 Trennplatten (1,68 m² × 84 €/m²) | ca. 141 € | Beleg |
 | Tischplatte 1330 × 680 × 27 mit Profil (Lieferant) | Preis fehlt | |
 | 18-mm-Bretter (3,1 m²) | ca. 77 € | nur 2000×200 belegt, Rest nach Fläche (25 €/m²) |
-| Verzierung: Sperrholz Beinraum + 1 Leiste 210 × 1 × 4,7 cm (Tür) | ca. 10–25 € | Schätzung |
+| Verzierung: 2 Leisten 210 × 1 × 6 cm (Beinraum) + 1 Leiste 210 × 1 × 4,7 cm (Tür) | ca. 10–25 € | Schätzung, Leistenpreis fehlt |
 | Lasur Nussbaum (2,0–2,8 l) | 57–80 € | Beleg + Annahme Deckvermögen |
 | Sperrholz 8 mm (Rückwand) und 6 mm (Böden) | 28–55 € | Schätzung |
 | Klarlack | 10–25 € | Schätzung |
