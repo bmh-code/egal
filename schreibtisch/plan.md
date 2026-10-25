@@ -100,7 +100,7 @@ Bild: `duebelplan.png`. Vorhandenes Set: Dübel 6 × 30 (26 Stk.), 8 × 40 (22 S
 | Fachboden/Bodenbrett ↔ Seitenplatte / Trennplatte | 6 × 30 | 5 Bretter × 6 = 30 | Seitenplatte 17 / Brett 15; Trennplatte 12 / Brett 19 |
 | Schubladenecken | 6 × 30 | 5 × 8 = 40 | 12 mm in der Fläche, 19 mm in der Stirnseite |
 
-Abstände der 5 Dübel von der Vorderkante: 50 / 172,5 / 295 / 417,5 / 540 mm. Fachböden: 3 Dübel je Kante bei 50 / 295 / 540 mm.
+Abstände der 5 Dübel von der Vorderkante: 50 / 172,5 / 295 / 417,5 / 540 mm. Fachböden: 3 Dübel je Kante bei 50 / 295 / 540 mm. Bei den Fachböden die hinteren zwei Löcher im Brett mit 8 mm bohren (Spiel, ohne Leim), siehe 5b.
 
 Bedarf 6 × 30 mm: 70 (später für die Zierleisten ggf. 4 mehr). Im Set sind 26, es fehlen **44** → eine 100er-Packung kaufen. 8 × 40 reichen (20 von 22). Dazu eine Flasche Holzleim D3 (500 g).
 Bohrtiefe in der Fläche von 18-mm-Brettern höchstens 12 mm, in der 27-mm-Verbindungsplatte von unten höchstens 15 mm. Probeaufbau ohne Leim, dann in Etappen leimen, Spanngurte. Diagonalen messen. Dübellehre vorher an Resten in 18, 27 und 40 mm testen.
@@ -116,7 +116,7 @@ Leimholz ist Massivholz: Es verzieht sich wenig, wird aber quer zur Faser je nac
 | Fachböden, Bodenbrett (590 lang aus 800er-Brett) | vorne–hinten | Breite (gering, 269 mm) |
 
 - Tischplatte nicht verleimen, sondern von unten mit 8 Schrauben 4 × 45 mm + Unterlegscheiben durch 8-mm-Löcher in der Verbindungsplatte befestigen.
-- Fachböden und Bodenbrett: nur im vorderen Drittel leimen (vorderer Dübel + ca. 15 cm Leimfläche je Kante); die beiden hinteren Dübel je Kante **ohne Leim** stecken. So kann die Seiten-/Trennplatte in der Tiefe arbeiten, ohne dass eine Fuge reißt.
+- Fachböden und Bodenbrett: Die Dübel sind die Verbindung und tragen das Brett. Vorderer Dübel (50 mm) normal mit Leim, dazu ca. 15 cm Leim auf der Kante vorne. Die beiden hinteren Dübel (295 und 540 mm) in der Seiten-/Trennplatte mit 6 mm bohren und einleimen, im Fachboden aber mit **8 mm** bohren und **ohne Leim** – so hat der Dübel ca. 1 mm Spiel nach vorne/hinten und die Platte kann arbeiten, ohne dass eine Fuge reißt.
 - Verbindungsplatte ↔ Seitenplatten: Faser passt (beide arbeiten in der Tiefe), normal verleimen.
 
 ## 6. Oberfläche: Lasur Nussbaum (alles Holz, 2–3 Anstriche)
