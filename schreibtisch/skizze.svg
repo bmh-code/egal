@@ -37,10 +37,10 @@
 <rect x="510.6" y="203.6" width="98.8" height="58.4" fill="#f3e2c1" stroke="#2b2b2b" stroke-width="1.2"/>
 <rect x="540.0" y="230.8" width="40.0" height="4.0" fill="#b08a3a" stroke="#6b551f" stroke-width="0.6"/>
 <rect x="510.6" y="270.8" width="98.8" height="192.8" fill="#f3e2c1" stroke="#2b2b2b" stroke-width="1.2"/>
-<rect x="511.8" y="272.0" width="18.0" height="190.4" fill="#d9b27c" stroke="#2b2b2b" stroke-width="0.8"/>
-<rect x="590.2" y="272.0" width="18.0" height="190.4" fill="#d9b27c" stroke="#2b2b2b" stroke-width="0.8"/>
-<rect x="529.8" y="272.0" width="60.4" height="18.0" fill="#d9b27c" stroke="#2b2b2b" stroke-width="0.8"/>
-<rect x="529.8" y="444.4" width="60.4" height="18.0" fill="#d9b27c" stroke="#2b2b2b" stroke-width="0.8"/>
+<rect x="510.6" y="270.8" width="18.0" height="192.8" fill="#d9b27c" stroke="#2b2b2b" stroke-width="0.8"/>
+<rect x="591.4" y="270.8" width="18.0" height="192.8" fill="#d9b27c" stroke="#2b2b2b" stroke-width="0.8"/>
+<rect x="528.6" y="270.8" width="62.8" height="18.0" fill="#d9b27c" stroke="#2b2b2b" stroke-width="0.8"/>
+<rect x="528.6" y="445.6" width="62.8" height="18.0" fill="#d9b27c" stroke="#2b2b2b" stroke-width="0.8"/>
 <rect x="518.0" y="336.0" width="4.0" height="48.0" fill="#b08a3a" stroke="#6b551f" stroke-width="0.6"/>
 <rect x="608.4" y="434.6" width="3.0" height="10.0" fill="#8f7430" stroke="#6b551f" stroke-width="0.5"/>
 <rect x="608.4" y="362.2" width="3.0" height="10.0" fill="#8f7430" stroke="#6b551f" stroke-width="0.5"/>
@@ -379,39 +379,39 @@
 <line x1="394.8" y1="1748.2" x2="400.8" y2="1742.2" stroke="#b3261e" stroke-width="1"/>
 <line x1="394.8" y1="1813.5" x2="400.8" y2="1807.5" stroke="#b3261e" stroke-width="1"/>
 <text x="411.8" y="1777.9" font-size="11" text-anchor="middle" fill="#b3261e" font-weight="normal" transform="rotate(-90 411.8 1777.9)">145</text>
-<rect x="518.6" y="1591.8" width="111.2" height="216.9" fill="#f3e2c1" stroke="#2b2b2b" stroke-width="1"/>
-<rect x="520.0" y="1593.2" width="20.2" height="214.2" fill="#d9b27c" stroke="#2b2b2b" stroke-width="1.2"/>
-<rect x="608.2" y="1593.2" width="20.2" height="214.2" fill="#d9b27c" stroke="#2b2b2b" stroke-width="1.2"/>
-<rect x="540.2" y="1593.2" width="68.0" height="20.2" fill="#d9b27c" stroke="#2b2b2b" stroke-width="1.2"/>
-<rect x="540.2" y="1787.1" width="68.0" height="20.2" fill="#d9b27c" stroke="#2b2b2b" stroke-width="1.2"/>
-<text x="574.0" y="1700.2" font-size="11" text-anchor="middle" fill="#777" font-weight="normal" font-style="italic">frei</text>
-<line x1="520.0" y1="1831.4" x2="628.5" y2="1831.4" stroke="#b3261e" stroke-width="1"/>
-<line x1="517.0" y1="1834.4" x2="523.0" y2="1828.4" stroke="#b3261e" stroke-width="1"/>
-<line x1="625.5" y1="1834.4" x2="631.5" y2="1828.4" stroke="#b3261e" stroke-width="1"/>
-<text x="574.2" y="1828.4" font-size="11" text-anchor="middle" fill="#b3261e" font-weight="normal">241</text>
-<line x1="540.2" y1="1853.4" x2="608.2" y2="1853.4" stroke="#b3261e" stroke-width="1"/>
-<line x1="537.2" y1="1856.4" x2="543.2" y2="1850.4" stroke="#b3261e" stroke-width="1"/>
-<line x1="605.2" y1="1856.4" x2="611.2" y2="1850.4" stroke="#b3261e" stroke-width="1"/>
-<text x="574.2" y="1850.4" font-size="11" text-anchor="middle" fill="#b3261e" font-weight="normal">151</text>
-<line x1="644.5" y1="1593.2" x2="644.5" y2="1807.4" stroke="#b3261e" stroke-width="1"/>
-<line x1="641.5" y1="1596.2" x2="647.5" y2="1590.2" stroke="#b3261e" stroke-width="1"/>
-<line x1="641.5" y1="1810.4" x2="647.5" y2="1804.4" stroke="#b3261e" stroke-width="1"/>
-<text x="658.5" y="1700.2" font-size="11" text-anchor="middle" fill="#b3261e" font-weight="normal" transform="rotate(-90 658.5 1700.2)">476</text>
-<line x1="668.5" y1="1613.4" x2="668.5" y2="1787.1" stroke="#b3261e" stroke-width="1"/>
-<line x1="665.5" y1="1616.4" x2="671.5" y2="1610.4" stroke="#b3261e" stroke-width="1"/>
-<line x1="665.5" y1="1790.1" x2="671.5" y2="1784.1" stroke="#b3261e" stroke-width="1"/>
-<text x="682.5" y="1700.2" font-size="11" text-anchor="middle" fill="#b3261e" font-weight="normal" transform="rotate(-90 682.5 1700.2)">386</text>
-<text x="574.0" y="1583.2" font-size="11" text-anchor="middle" fill="#555" font-weight="normal">Tür 247 × 482</text>
+<rect x="520.0" y="1591.8" width="111.2" height="216.9" fill="#f3e2c1" stroke="#2b2b2b" stroke-width="1"/>
+<rect x="520.0" y="1591.8" width="20.2" height="216.9" fill="#d9b27c" stroke="#2b2b2b" stroke-width="1.2"/>
+<rect x="610.9" y="1591.8" width="20.2" height="216.9" fill="#d9b27c" stroke="#2b2b2b" stroke-width="1.2"/>
+<rect x="540.2" y="1591.8" width="70.7" height="20.2" fill="#d9b27c" stroke="#2b2b2b" stroke-width="1.2"/>
+<rect x="540.2" y="1788.5" width="70.7" height="20.2" fill="#d9b27c" stroke="#2b2b2b" stroke-width="1.2"/>
+<text x="575.4" y="1700.2" font-size="11" text-anchor="middle" fill="#777" font-weight="normal" font-style="italic">frei</text>
+<line x1="520.0" y1="1832.7" x2="631.1" y2="1832.7" stroke="#b3261e" stroke-width="1"/>
+<line x1="517.0" y1="1835.7" x2="523.0" y2="1829.7" stroke="#b3261e" stroke-width="1"/>
+<line x1="628.1" y1="1835.7" x2="634.1" y2="1829.7" stroke="#b3261e" stroke-width="1"/>
+<text x="575.6" y="1829.7" font-size="11" text-anchor="middle" fill="#b3261e" font-weight="normal">247</text>
+<line x1="540.2" y1="1854.7" x2="610.9" y2="1854.7" stroke="#b3261e" stroke-width="1"/>
+<line x1="537.2" y1="1857.7" x2="543.2" y2="1851.7" stroke="#b3261e" stroke-width="1"/>
+<line x1="607.9" y1="1857.7" x2="613.9" y2="1851.7" stroke="#b3261e" stroke-width="1"/>
+<text x="575.6" y="1851.7" font-size="11" text-anchor="middle" fill="#b3261e" font-weight="normal">157</text>
+<line x1="647.1" y1="1591.8" x2="647.1" y2="1808.7" stroke="#b3261e" stroke-width="1"/>
+<line x1="644.1" y1="1594.8" x2="650.1" y2="1588.8" stroke="#b3261e" stroke-width="1"/>
+<line x1="644.1" y1="1811.7" x2="650.1" y2="1805.7" stroke="#b3261e" stroke-width="1"/>
+<text x="661.1" y="1700.2" font-size="11" text-anchor="middle" fill="#b3261e" font-weight="normal" transform="rotate(-90 661.1 1700.2)">482</text>
+<line x1="671.1" y1="1612.0" x2="671.1" y2="1788.5" stroke="#b3261e" stroke-width="1"/>
+<line x1="668.1" y1="1615.0" x2="674.1" y2="1609.0" stroke="#b3261e" stroke-width="1"/>
+<line x1="668.1" y1="1791.5" x2="674.1" y2="1785.5" stroke="#b3261e" stroke-width="1"/>
+<text x="685.1" y="1700.2" font-size="11" text-anchor="middle" fill="#b3261e" font-weight="normal" transform="rotate(-90 685.1 1700.2)">392</text>
+<text x="575.4" y="1581.8" font-size="11" text-anchor="middle" fill="#555" font-weight="normal">Tür 247 × 482, Verzierung bündig</text>
 <text x="40.0" y="1910.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="bold">Beinraum (auf der Rückwand-Innenseite, 1 mm Luft zu den Platten):</text>
 <text x="40.0" y="1932.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">• 2 Seitenleisten 690 × 70, 1 Mittelleiste 445 × 60,</text>
 <text x="40.0" y="1954.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">  Querstück oben 464 × 100, Querstück unten 464 × 145.</text>
 <text x="40.0" y="1976.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">• 2 Fenster je 202 × 445 bleiben frei (man sieht die Rückwand).</text>
 <text x="40.0" y="1998.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">• Leim + Schrauben 3 × 30 von hinten durch die Rückwand.</text>
 <text x="680.0" y="1910.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="bold">Tür (auf der Türfront):</text>
-<text x="680.0" y="1932.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">• 2 Seitenleisten 476 × 45, 2 Querstücke 151 × 45,</text>
-<text x="680.0" y="1954.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">  ringsum 3 mm kleiner als die Tür, damit nichts anstößt.</text>
-<text x="680.0" y="1976.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">• Fenster 151 × 386 bleibt frei. Leim + Schrauben von innen.</text>
-<text x="680.0" y="1998.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">• Türgriff auf die linke Leiste; Tür wird 36 mm dick und</text>
-<text x="680.0" y="2020.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">  steht 18 mm vor den Schubladen vor.</text>
+<text x="680.0" y="1932.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">• 2 Seitenleisten 482 × 45, 2 Querstücke 157 × 45,</text>
+<text x="680.0" y="1954.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">  genau so groß wie die Tür (247 × 482).</text>
+<text x="680.0" y="1976.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">• Fenster 157 × 392 bleibt frei. Leim + Schrauben von innen.</text>
+<text x="680.0" y="1998.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">• Tür 18 mm zurückgesetzt: Verzierung endet bündig mit</text>
+<text x="680.0" y="2020.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="normal">  Seitenplatten und Schubladenfronten. Griff auf linker Leiste.</text>
 <text x="680.0" y="2042.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="bold">Vor dem Aufkleben lasieren, Klebeflächen abkleben.</text>
 </svg>

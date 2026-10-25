@@ -83,12 +83,12 @@ Fenster je 202 × 445 (man sieht dort die Rückwand, 18 mm tiefer). Gesamtfläch
 
 | Teil | Anz. | Maß |
 |---|---|---|
-| Seitenleiste | 2 | 476 × 45 |
-| Querstück | 2 | 151 × 45 |
+| Seitenleiste | 2 | 482 × 45 |
+| Querstück | 2 | 157 × 45 |
 
-Ringsum 3 mm kleiner als die Tür (241 × 476), damit beim Öffnen nichts anstößt. Fenster 151 × 386. Leim + kurze Schrauben von der Türinnenseite. Die Tür wird dadurch 36 mm dick und steht 18 mm vor den Schubladenfronten vor; der Griff sitzt auf der linken Leiste.
+Genau so groß wie die Tür (247 × 482), Fenster 157 × 392. Die **Tür selbst sitzt 18 mm zurückgesetzt** in der Öffnung, sodass die aufgeklebten Bretter **bündig** mit Seitenplatten und Schubladenfronten enden; nur das Fenster liegt 18 mm tiefer. Tür + Verzierung zusammen 36 mm dick, das Türfach wird innen 18 mm weniger tief. Scharniere für innenliegende Türen wählen und vor dem Festschrauben prüfen, dass die Tür frei aufschwenkt. Leim + kurze Schrauben von der Türinnenseite; Griff auf der linken Leiste, Magnetschnäpper als Anschlag.
 
-Zuschnitt (Bauhaus): 1 × 2000×200 (Seitenleisten 690 × 70 und Mittelleiste 445 × 60), 1 × 800×250 (Querstücke 464 × 100 und 464 × 145), 1 × 800×200 (Tür: 2 × 476 × 45, 2 × 151 × 45).
+Zuschnitt (Bauhaus): 1 × 2000×200 (Seitenleisten 690 × 70 und Mittelleiste 445 × 60), 1 × 800×250 (Querstücke 464 × 100 und 464 × 145), 1 × 800×200 (Tür: 2 × 482 × 45, 2 × 157 × 45).
 
 ## 5. Dübelplan
 
