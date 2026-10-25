@@ -105,6 +105,20 @@ Abstände der 5 Dübel von der Vorderkante: 50 / 172,5 / 295 / 417,5 / 540 mm. F
 Bedarf 6 × 30 mm: 70 (später für die Zierleisten ggf. 4 mehr). Im Set sind 26, es fehlen **44** → eine 100er-Packung kaufen. 8 × 40 reichen (20 von 22). Dazu eine Flasche Holzleim D3 (500 g).
 Bohrtiefe in der Fläche von 18-mm-Brettern höchstens 12 mm, in der 27-mm-Verbindungsplatte von unten höchstens 15 mm. Probeaufbau ohne Leim, dann in Etappen leimen, Spanngurte. Diagonalen messen. Dübellehre vorher an Resten in 18, 27 und 40 mm testen.
 
+## 5b. Holz arbeitet: Faserrichtungen und Leim
+
+Leimholz ist Massivholz: Es verzieht sich wenig, wird aber quer zur Faser je nach Luftfeuchte etwas breiter oder schmaler (bei 590–680 mm Tiefe einige Millimeter im Jahr).
+
+| Teil | Faserrichtung | arbeitet in |
+|---|---|---|
+| Seitenplatten, Trennplatten | senkrecht | Tiefe (vorne/hinten) |
+| Verbindungsplatte, Tischplatte | links–rechts | Tiefe (vorne/hinten) |
+| Fachböden, Bodenbrett (590 lang aus 800er-Brett) | vorne–hinten | Breite (gering, 269 mm) |
+
+- Tischplatte nicht verleimen, sondern von unten mit 8 Schrauben 4 × 45 mm + Unterlegscheiben durch 8-mm-Löcher in der Verbindungsplatte befestigen.
+- Fachböden und Bodenbrett: nur im vorderen Drittel leimen (vorderer Dübel + ca. 15 cm Leimfläche je Kante); die beiden hinteren Dübel je Kante **ohne Leim** stecken. So kann die Seiten-/Trennplatte in der Tiefe arbeiten, ohne dass eine Fuge reißt.
+- Verbindungsplatte ↔ Seitenplatten: Faser passt (beide arbeiten in der Tiefe), normal verleimen.
+
 ## 6. Oberfläche: Lasur Nussbaum (alles Holz, 2–3 Anstriche)
 
 Nicht Öl und Lasur kombinieren (Öl verschließt die Poren). Reihenfolge: 1. Lasur (2–3 Anstriche), 2. auf der Tischplatte 2 Schichten Klarlack (zur Lasur passend). Alternative: farbiges Hartwachsöl in einem Schritt. Immer erst am Reststück testen (Kiefer nimmt Lasur oft fleckig auf).
