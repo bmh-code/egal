@@ -146,7 +146,7 @@ Vor dem Zuschnitt der Trennplatten die echte Dicke der Verbindungsplatte messen 
 
 ### D) Tischplatte (Lieferant)
 
-1 × 1330 × 680 × 28 mm, Kiefer, umlaufendes römisches Profil, kommt **roh**: schleifen (auch das Profil, 180 → 240), oben und unten lasieren (beide Seiten gleich, damit sie sich nicht verzieht), oben 2 × Klarlack. Z-Verbinder mit Schrauben höchstens 3,5 × 16 in die Tischplatte.
+1 × 1330 × 680 × 28 mm, Kiefer, umlaufendes römisches Profil, kommt **roh**: schleifen (auch das Profil, 180 → 240), oben und unten lasieren (beide Seiten gleich, damit sie sich nicht verzieht), oben 2 × Klarlack. Befestigung von unten durch die Verbindungsplatte, siehe Beschläge.
 
 ### E) Beschläge
 
@@ -156,7 +156,7 @@ Vor dem Zuschnitt der Trennplatten die echte Dicke der Verbindungsplatte messen 
 | Scharniere für innenliegende Tür (Tür 10 mm zurückgesetzt) | 2–3 | fehlt |
 | Magnetschnäpper | 1 | fehlt |
 | Messinggriffe | 6 (5 Schubladen + 1 Tür) | 7 € pro Stück |
-| Tischplattenverbinder (Z-Verbinder) | ca. 8 | fehlt |
+| Tischplatten-Befestigung: 8 Schrauben 4 × 45 mm + 8 Unterlegscheiben (von unten durch die Verbindungsplatte, Löcher 8 mm aufgebohrt bzw. als Langloch quer zur Tischplatten-Länge, damit das Holz arbeiten kann) | 8 | prüfen, ob vorhanden |
 
 ### F) Verbinden, Kleben, Schrauben
 
@@ -204,7 +204,7 @@ Preise von dir: Dübelset 30 €, Messinggriffe 7 € das Stück, 4 Paar Kugelau
 | Lasur Nussbaum (2,0–2,8 l) | 57–80 € | Beleg + Annahme Deckvermögen |
 | Sperrholz 8 mm und 6 mm | 28–55 € | Schätzung |
 | Klarlack | 10–25 € | Schätzung |
-| Zubehör (Dübel, Leim, Spanngurte, Zwingen, Z-Verbinder, Schleifpapier, Pinsel) | 45–75 € | Schätzung |
+| Zubehör (Dübel, Leim, Spanngurte, Zwingen, Schrauben/Scheiben Tischplatte, Schleifpapier, Pinsel) | 45–75 € | Schätzung |
 | **Zwischensumme ohne Tischplatte und 40-mm-Holz** | **ca. 490–610 €** | |
 | Tischplatte (Lieferant) | Preis fehlt | |
 | 40-mm-Holz (0,96 m²) | Preis fehlt (bei 120 €/m² ca. 115 €) | Annahme |
