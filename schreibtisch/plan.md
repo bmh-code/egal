@@ -129,15 +129,14 @@ Fläche grob 13–14 m² (alle Seiten), Sichtflächen 3 ×, verdeckte Flächen 1
 
 ## 7. Einkaufsliste – alles auf einen Blick
 
-Annahme: 27- und 40-mm-Leimholz gibt es in denselben Formaten wie 18 mm (Längen 800/1200/2000, Breiten 200/250/300/400) – **beim Bauhaus prüfen**. Zuschnitt kostenlos, Schnittfuge 3–4 mm. Breite Teile entstehen aus 400 + 190 mm mit **einer** Leimfuge (Fuge 190 mm von der Vorderkante). Insgesamt ca. 50–60 Schnitte: vorher fragen, ob das geht.
+Annahme: 27- und 40-mm-Leimholz gibt es in denselben Formaten wie 18 mm (Längen 800/1200/2000, Breiten 200/250/300/400) – **beim Bauhaus prüfen**. Zuschnitt kostenlos, Schnittfuge 3–4 mm. 40 und 27 mm werden als Zuschnitt aus großen Platten gekauft (590 breit in einem Stück, keine Leimfuge). Falls doch nur schmale Bretter: 400 + 190 mm verleimen, Fuge 190 mm von der Vorderkante. Insgesamt ca. 50–60 Schnitte: vorher fragen, ob das geht.
 
 ### A) Leimholz Kiefer (Bauhaus, mit Zuschnitt)
 
 | Dicke | Kaufen | Zuschnitt | Ergibt |
 |---|---|---|---|
-| 40 mm | 2 × 800×400, 2 × 800×200 | alle auf 720 kürzen; 200er auf 190 besäumen | 2 Seitenplatten 720 × 590 |
-| 27 mm | 1 × 2000×400, 1 × 2000×200 | je bei 1160 und 693 quer schneiden; 200er-Teile auf 190 besäumen | Verbindungsplatte 1160 × 590, linke Trennplatte 693 × 590 |
-| 27 mm | 1 × 800×400, 1 × 800×200 | auf 693 kürzen; 200er auf 190 besäumen | rechte Trennplatte 693 × 590 |
+| 40 mm | Zuschnitt aus großer Platte: 2 × 720 × 590 (je 62,02 €) | in einem Stück | 2 Seitenplatten 720 × 590 |
+| 27 mm | Zuschnitt aus großer Platte (84 €/m²): 1 × 1160 × 590, 2 × 693 × 590 | in einem Stück; Trennplatten erst nach Messen der echten Dicke der Verbindungsplatte | Verbindungsplatte, 2 Trennplatten |
 | 18 mm | 5 × 800×300 | 4 × auf 590, 1 × auf 566 kürzen; alle auf 269 besäumen | 4 Fachböden, 1 Bodenbrett |
 | 18 mm | 1 × 800×300 | auf 482 kürzen, auf 267 besäumen | Tür |
 | 18 mm | 2 × 2000×300, 1 × 2000×200 | 300er A: Streifen 146 + 130; 146er → 5 Fronten à 267; 130er → 3 Seiten à 500 + 2 Rückstücke à 208. 300er B: 2 Streifen 130 → 3 Seiten + 2 Rückstücke bzw. 3 Seiten + 1 Rückstück. 200er: Streifen 130 → 1 Seite | 5 Fronten 267 × 146, 10 Seiten 500 × 130, 5 Rückstücke 208 × 130 |
@@ -212,22 +211,22 @@ Preise von dir: Dübelset 30 €, Messinggriffe 7 € das Stück, 4 Paar Kugelau
 | Messinggriffe (6 × 7 €) | 42 € | Beleg |
 | 1 weiteres Paar Auszüge | ca. 8 € | Schätzung (gleicher Preis) |
 | Scharniere + Magnetschnäpper | 10–25 € | Schätzung |
-| 27-mm-Holz (1,68 m² × 84 €/m²) | ca. 141 € | Beleg |
+| 27-mm-Holz, Zuschnitt (1,093 m² × 84 €/m²) | ca. 92 € | Beleg (Annahme: nur Zuschnittfläche berechnet) |
+| 40-mm-Holz, 2 Seitenplatten (2 × 62,02 €) | ca. 124 € | Beleg |
 | 18-mm-Holz (3,0 m²) | ca. 76 € | nur 2000×200 belegt, Rest nach Fläche (25 €/m²) |
 | Leisten (3 Stück) | ca. 10–20 € | Schätzung, Preis fehlt |
 | Lasur Nussbaum (2,0–2,8 l) | 57–80 € | Beleg + Annahme Deckvermögen |
 | Sperrholz 8 mm und 6 mm | 28–55 € | Schätzung |
 | Klarlack | 10–25 € | Schätzung |
 | Zubehör (Dübel, Leim, Spanngurte, Zwingen, Schrauben/Scheiben Tischplatte, Schleifpapier, Pinsel) | 45–75 € | Schätzung |
-| **Zwischensumme ohne Tischplatte und 40-mm-Holz** | **ca. 490–610 €** | |
+| **Zwischensumme ohne Tischplatte** | **ca. 565–685 €** | |
 | Tischplatte (Lieferant) | Preis fehlt | |
-| 40-mm-Holz (0,96 m²) | Preis fehlt (bei 120 €/m² ca. 115 €) | Annahme |
 
 ## 9. Offene Punkte
 
-- Preise: Tischplatte, 40-mm-Holz, Sperrholz, Leisten, Klarlack.
+- Preise: Tischplatte, Sperrholz, Leisten, Klarlack.
 - Tischplatte: 28 mm, roh, römisches Profil – geklärt (Gesamthöhe 748).
 - Leisten: Kiefer – geklärt.
-- Gibt es 27 und 40 mm in den angenommenen Formaten? Wie viele kostenlose Schnitte?
+- Zuschnitt 27/40 mm: wird nur die Zuschnittfläche berechnet? Wie viele kostenlose Schnitte?
 - Scharniermodell für die 10 mm zurückgesetzte Tür.
 - Zierleisten: kommen später.
