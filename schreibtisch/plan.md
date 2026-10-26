@@ -125,7 +125,7 @@ Nicht Öl und Lasur kombinieren (Öl verschließt die Poren). Reihenfolge: 1. La
 
 Ablauf: schleifen (120, 180), Kanten brechen, Dübellöcher bohren, Probeaufbau, **Klebeflächen abkleben** (Leim haftet nicht auf Lasur), Teile einzeln lasieren (Zwischenschliff 240), zusammenleimen, letzten Anstrich nach dem Zusammenbau, Tischplatte 2 × Klarlack. Auszüge, Scharniere und Griffe erst nach dem Trocknen montieren.
 
-Fläche grob 13–14 m² (alle Seiten), Sichtflächen 3 ×, verdeckte Flächen 1 × ergibt etwa 28 m². Bei 10–14 m²/l sind das 2,0–2,8 l (Deckvermögen auf der Dose prüfen).
+Fläche grob 13–14 m² (alle Seiten), Sichtflächen 3 ×, verdeckte Flächen 1 × ergibt etwa 28 m². Gekauft wird 1 Gebinde 2,5 l (40 €) – reicht nach Erfahrung.
 
 ## 7. Einkaufsliste – alles auf einen Blick
 
@@ -187,7 +187,7 @@ Vor dem Zuschnitt der Trennplatten die echte Dicke der Verbindungsplatte messen 
 
 | Teil | Menge |
 |---|---|
-| Lasur Nussbaum | ca. 2,0–2,8 l (Deckvermögen auf der Dose prüfen) |
+| Lasur Nussbaum | 2,5 l (1 Gebinde, 40 €) |
 | Klarlack seidenmatt (Tischplatte) | ca. 0,375–0,75 l |
 | Schleifpapier 120 / 180 / 240 | je einige Bögen |
 | Pinsel, Malerkrepp, Lappen | – |
@@ -202,7 +202,7 @@ Vorhanden: Bohrer/Akkuschrauber, Dübelset. Zusätzlich sinnvoll: Zollstock, Ans
 
 ## 8. Kostenstand (Entwurf)
 
-Preise von dir: Dübelset 30 €, Messinggriffe 7 € das Stück, 4 Paar Kugelauszüge 32 €, 18 mm Kiefer 2000×200 = 10 €, 27 mm Kiefer 84 €/m², Lasur 28,40 €/l.
+Preise von dir: Dübelset 30 €, Messinggriffe 7 € das Stück, 4 Paar Kugelauszüge 32 €, 18 mm Kiefer 2000×200 = 10 €, 27 mm Kiefer 84 €/m², Lasur Nussbaum 2,5 l = 40 €.
 
 | Posten | Kosten | Quelle |
 |---|---|---|
@@ -215,12 +215,12 @@ Preise von dir: Dübelset 30 €, Messinggriffe 7 € das Stück, 4 Paar Kugelau
 | 40-mm-Holz, 2 Seitenplatten (2 × 62,02 €) | ca. 124 € | Beleg |
 | 18-mm-Holz (3,0 m²) | ca. 76 € | nur 2000×200 belegt, Rest nach Fläche (25 €/m²) |
 | Leisten (3 Stück) | ca. 10–20 € | Schätzung, Preis fehlt |
-| Lasur Nussbaum (2,0–2,8 l) | 57–80 € | Beleg + Annahme Deckvermögen |
+| Lasur Nussbaum (2,5 l) | 40 € | Beleg |
 | Sperrholz 8 mm und 6 mm | 28–55 € | Schätzung |
 | Klarlack | 10–25 € | Schätzung |
 | Zubehör (Dübel, Leim, Spanngurte, Zwingen, Schrauben/Scheiben Tischplatte, Schleifpapier, Pinsel) | 45–75 € | Schätzung |
 | Tischplatte 1330 × 680 × 28, römisches Profil (Lieferant) | 186,97 € | Beleg |
-| **Gesamt** | **ca. 750–870 €** | davon ca. 507 € belegt |
+| **Gesamt** | **ca. 735–830 €** | davon ca. 547 € belegt |
 
 ## 9. Offene Punkte
 
