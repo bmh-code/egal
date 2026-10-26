@@ -219,12 +219,12 @@ Preise von dir: Dübelset 30 €, Messinggriffe 7 € das Stück, 4 Paar Kugelau
 | Sperrholz 8 mm und 6 mm | 28–55 € | Schätzung |
 | Klarlack | 10–25 € | Schätzung |
 | Zubehör (Dübel, Leim, Spanngurte, Zwingen, Schrauben/Scheiben Tischplatte, Schleifpapier, Pinsel) | 45–75 € | Schätzung |
-| **Zwischensumme ohne Tischplatte** | **ca. 565–685 €** | |
-| Tischplatte (Lieferant) | Preis fehlt | |
+| Tischplatte 1330 × 680 × 28, römisches Profil (Lieferant) | 186,97 € | Beleg |
+| **Gesamt** | **ca. 750–870 €** | davon ca. 507 € belegt |
 
 ## 9. Offene Punkte
 
-- Preise: Tischplatte, Sperrholz, Leisten, Klarlack.
+- Preise: Sperrholz, Leisten, Klarlack, Scharniere.
 - Tischplatte: 28 mm, roh, römisches Profil – geklärt (Gesamthöhe 748).
 - Leisten: Kiefer – geklärt.
 - Zuschnitt 27/40 mm: wird nur die Zuschnittfläche berechnet? Wie viele kostenlose Schnitte?
