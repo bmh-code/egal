@@ -137,8 +137,7 @@ Annahme: 27- und 40-mm-Leimholz gibt es in denselben Formaten wie 18 mm (Längen
 |---|---|---|---|
 | 40 mm | Zuschnitt aus großer Platte: 2 × 720 × 590 (je 62,02 €) | in einem Stück | 2 Seitenplatten 720 × 590 |
 | 27 mm | Zuschnitt aus großer Platte (84 €/m²): 1 × 1160 × 590, 2 × 693 × 590 | in einem Stück; Trennplatten erst nach Messen der echten Dicke der Verbindungsplatte | Verbindungsplatte, 2 Trennplatten |
-| 18 mm | 5 × 800×300 | 4 × auf 590, 1 × auf 566 kürzen; alle auf 269 besäumen | 4 Fachböden, 1 Bodenbrett |
-| 18 mm | 1 × 800×300 | auf 482 kürzen, auf 267 besäumen | Tür |
+| 18 mm | 3 × 1200×300 (je 9,20 €) | Brett 1 und 2: je 590 + 590; Brett 3: 566 + 482; alle auf 269 besäumen, das 482er auf 267 | 4 Fachböden, 1 Bodenbrett, Tür |
 | 18 mm | 2 × 2000×300, 1 × 2000×200 | 300er A: Streifen 146 + 130; 146er → 5 Fronten à 267; 130er → 3 Seiten à 500 + 2 Rückstücke à 208. 300er B: 2 Streifen 130 → 3 Seiten + 2 Rückstücke bzw. 3 Seiten + 1 Rückstück. 200er: Streifen 130 → 1 Seite | 5 Fronten 267 × 146, 10 Seiten 500 × 130, 5 Rückstücke 208 × 130 |
 
 Vor dem Zuschnitt der Trennplatten die echte Dicke der Verbindungsplatte messen (Höhe = 720 − Dicke). Fachbretter = echte Öffnung − 1 mm.
@@ -202,7 +201,7 @@ Vorhanden: Bohrer/Akkuschrauber, Dübelset. Zusätzlich sinnvoll: Zollstock, Ans
 
 ## 8. Kostenstand (Entwurf)
 
-Preise von dir: Dübelset 30 €, Messinggriffe 7 € das Stück, 4 Paar Kugelauszüge 32 €, 18 mm Kiefer 2000×200 = 10 €, 27 mm Kiefer 84 €/m², Lasur Nussbaum 2,5 l = 40 €.
+Preise von dir: Dübelset 30 €, Messinggriffe 7 € das Stück, 4 Paar Kugelauszüge 32 €, 18 mm Kiefer 1200×300 = 9,20 €, 2000×300 = 15 €, 2000×200 = 10 €, 27 mm Kiefer 84 €/m², Lasur Nussbaum 2,5 l = 40 €.
 
 | Posten | Kosten | Quelle |
 |---|---|---|
@@ -213,14 +212,14 @@ Preise von dir: Dübelset 30 €, Messinggriffe 7 € das Stück, 4 Paar Kugelau
 | Scharniere + Magnetschnäpper | 10–25 € | Schätzung |
 | 27-mm-Holz, Zuschnitt (1,093 m² × 84 €/m²) | ca. 92 € | Beleg (Annahme: nur Zuschnittfläche berechnet) |
 | 40-mm-Holz, 2 Seitenplatten (2 × 62,02 €) | ca. 124 € | Beleg |
-| 18-mm-Holz (3,0 m²) | ca. 76 € | nur 2000×200 belegt, Rest nach Fläche (25 €/m²) |
+| 18-mm-Holz (3 × 1200×300, 2 × 2000×300, 1 × 2000×200) | 67,60 € | Beleg |
 | Leisten (3 Stück) | ca. 10–20 € | Schätzung, Preis fehlt |
 | Lasur Nussbaum (2,5 l) | 40 € | Beleg |
 | Sperrholz 8 mm und 6 mm | 28–55 € | Schätzung |
 | Klarlack | 10–25 € | Schätzung |
 | Zubehör (Dübel, Leim, Spanngurte, Zwingen, Schrauben/Scheiben Tischplatte, Schleifpapier, Pinsel) | 45–75 € | Schätzung |
 | Tischplatte 1330 × 680 × 28, römisches Profil (Lieferant) | 186,97 € | Beleg |
-| **Gesamt** | **ca. 735–830 €** | davon ca. 547 € belegt |
+| **Gesamt** | **ca. 725–825 €** | davon ca. 615 € belegt |
 
 ## 9. Offene Punkte
 
