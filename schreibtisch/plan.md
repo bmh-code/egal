@@ -223,6 +223,7 @@ Preise von dir: Dübelset 30 €, Messinggriffe 7 € das Stück, 4 Paar Kugelau
 
 ## 9. Offene Punkte
 
+- Bestellt (29.10.2026): 2 Seitenplatten 40 mm (720 × 590, Faser längs 720) und Tischplatte 1330 × 680 × 28. Noch zu kaufen: 27 mm, 18 mm, Sperrholz, Leisten, Beschläge, Kleinteile.
 - Preise: Sperrholz, Leisten, Klarlack, Scharniere.
 - Tischplatte: 28 mm, roh, römisches Profil – geklärt (Gesamthöhe 748).
 - Leisten: Kiefer – geklärt.
