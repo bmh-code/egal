@@ -115,7 +115,7 @@ Leimholz ist Massivholz: Es verzieht sich wenig, wird aber quer zur Faser je nac
 | Verbindungsplatte, Tischplatte | links–rechts | Tiefe (vorne/hinten) |
 | Fachböden, Bodenbrett (590 lang aus 800er-Brett) | vorne–hinten | Breite (gering, 269 mm) |
 
-- Tischplatte nicht verleimen, sondern von unten mit 8 Schrauben 4 × 45 mm + Unterlegscheiben durch 8-mm-Löcher in der Verbindungsplatte befestigen.
+- Tischplatte nicht verleimen, sondern von unten mit 8 Schrauben M6 × 40 + großen Unterlegscheiben durch 8-mm-Löcher in der Verbindungsplatte in Einschraubmuffen M6 (13–15 mm lang) in der Tischplatte befestigen. Muffenlöcher höchstens 16 mm tief. Abnehmbar für den Transport, Metallgewinde leiert nicht aus.
 - Fachböden und Bodenbrett: Die Dübel sind die Verbindung und tragen das Brett. Vorderer Dübel (50 mm) normal mit Leim, dazu ca. 15 cm Leim auf der Kante vorne. Die beiden hinteren Dübel (295 und 540 mm) in der Seiten-/Trennplatte mit 6 mm bohren und einleimen, im Fachboden aber mit **8 mm** bohren und **ohne Leim** – so hat der Dübel ca. 1 mm Spiel nach vorne/hinten und die Platte kann arbeiten, ohne dass eine Fuge reißt.
 - Verbindungsplatte ↔ Seitenplatten: Faser passt (beide arbeiten in der Tiefe), normal verleimen.
 
@@ -169,7 +169,7 @@ Vor dem Zuschnitt der Trennplatten die echte Dicke der Verbindungsplatte messen 
 | Magnetschnäpper | 1 | fehlt |
 | Messinggriffe | 6 (5 Schubladen + 1 Tür) | 7 € pro Stück |
 | Schrauben 5 × 80 Teilgewinde (Trennplatten von oben) | 10 | prüfen, ob vorhanden |
-| Tischplatten-Befestigung: 8 Schrauben 4 × 45 mm + 8 Unterlegscheiben (von unten durch die Verbindungsplatte, Löcher 8 mm aufgebohrt bzw. als Langloch quer zur Tischplatten-Länge, damit das Holz arbeiten kann) | 8 | prüfen, ob vorhanden |
+| Tischplatten-Befestigung: 8 Einschraubmuffen M6 (13–15 mm), 8 Schrauben M6 × 40, 8 große Unterlegscheiben (von unten durch 8-mm-Löcher in der Verbindungsplatte, damit das Holz arbeiten kann) | je 8 | kaufen |
 
 ### F) Verbinden, Kleben, Schrauben
 
