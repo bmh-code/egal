@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1560" height="1700" viewBox="0 0 1560 1700" font-family="DejaVu Sans, Arial, sans-serif">
 <rect width="1560" height="1700" fill="#ffffff"/>
 <text x="40.0" y="44.0" font-size="28" text-anchor="start" fill="#2b2b2b" font-weight="bold">Dübelplan – welche Dübel wohin</text>
-<text x="40.0" y="68.0" font-size="14" text-anchor="start" fill="#555" font-weight="normal">Dübel, Schrauben und Bohrer in mm (Packungsangabe) · Bauweise: erst Seitenblöcke · Stand 01.11.2026</text>
+<text x="40.0" y="68.0" font-size="14" text-anchor="start" fill="#555" font-weight="normal">Dübel, Schrauben und Bohrer in mm (Packungsangabe) · Bauweise: erst Seitenblöcke · Stand 05.11.2026</text>
 <circle cx="48.0" cy="100.0" r="6" fill="#c0392b" stroke="#fff" stroke-width="1.2"/>
 <text x="64.0" y="105.0" font-size="13" text-anchor="start" fill="#2b2b2b" font-weight="normal">Dübel Ø 8 × 40 mm  Seitenplatten ↔ Verbindungsplatte</text>
 <circle cx="48.0" cy="126.0" r="6" fill="#fff" stroke="#2471a3" stroke-width="2"/>
@@ -15,13 +15,13 @@
 <text x="40.0" y="235.0" font-size="18" text-anchor="start" fill="#2b2b2b" font-weight="bold">1  Seitenplatte (linke), Innenfläche</text>
 <text x="40.0" y="253.0" font-size="12" text-anchor="start" fill="#555" font-weight="normal" font-style="italic">Rechte Seitenplatte spiegelverkehrt, zusätzlich 3 Dübel für das Bodenbrett (Höhe 2,1–3,9 cm, Mitte 3 cm).</text>
 <rect x="90.0" y="360.0" width="324.5" height="396.0" fill="#ecd2a7" stroke="#2b2b2b" stroke-width="1.4"/>
-<rect x="90.0" y="360.0" width="324.5" height="14.9" fill="#e0bb84" fill-opacity="0.7" stroke="#8a8a8a" stroke-width="1" stroke-dasharray="5,3"/>
-<text x="252.2" y="388.9" font-size="11" text-anchor="middle" fill="#777" font-weight="normal" font-style="italic">Verbindungsplatte (2,7 cm dick)</text>
-<circle cx="117.5" cy="367.4" r="6" fill="#c0392b" stroke="#fff" stroke-width="1.2"/>
-<circle cx="184.9" cy="367.4" r="6" fill="#c0392b" stroke="#fff" stroke-width="1.2"/>
-<circle cx="252.2" cy="367.4" r="6" fill="#c0392b" stroke="#fff" stroke-width="1.2"/>
-<circle cx="319.6" cy="367.4" r="6" fill="#c0392b" stroke="#fff" stroke-width="1.2"/>
-<circle cx="387.0" cy="367.4" r="6" fill="#c0392b" stroke="#fff" stroke-width="1.2"/>
+<rect x="90.0" y="360.0" width="324.5" height="15.4" fill="#e0bb84" fill-opacity="0.7" stroke="#8a8a8a" stroke-width="1" stroke-dasharray="5,3"/>
+<text x="252.2" y="389.4" font-size="11" text-anchor="middle" fill="#777" font-weight="normal" font-style="italic">Verbindungsplatte (2,8 cm dick)</text>
+<circle cx="117.5" cy="367.7" r="6" fill="#c0392b" stroke="#fff" stroke-width="1.2"/>
+<circle cx="184.9" cy="367.7" r="6" fill="#c0392b" stroke="#fff" stroke-width="1.2"/>
+<circle cx="252.2" cy="367.7" r="6" fill="#c0392b" stroke="#fff" stroke-width="1.2"/>
+<circle cx="319.6" cy="367.7" r="6" fill="#c0392b" stroke="#fff" stroke-width="1.2"/>
+<circle cx="387.0" cy="367.7" r="6" fill="#c0392b" stroke="#fff" stroke-width="1.2"/>
 <rect x="90.0" y="642.2" width="324.5" height="9.9" fill="#d9b27c" fill-opacity="0.6" stroke="#8a8a8a" stroke-width="1" stroke-dasharray="5,3"/>
 <circle cx="117.5" cy="647.1" r="5" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
 <circle cx="252.2" cy="647.1" r="5" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
@@ -44,11 +44,11 @@
 <line x1="90.0" y1="300.0" x2="90.0" y2="308.0" stroke="#555555" stroke-width="1"/>
 <line x1="414.5" y1="300.0" x2="414.5" y2="308.0" stroke="#555555" stroke-width="1"/>
 <text x="252.2" y="300.0" font-size="11" text-anchor="middle" fill="#555555" font-weight="normal">59 cm (Tiefe)</text>
-<line x1="117.5" y1="355.4" x2="117.5" y2="338.0" stroke="#8a8a8a" stroke-width="0.6" stroke-dasharray="2,2"/>
-<line x1="184.9" y1="355.4" x2="184.9" y2="338.0" stroke="#8a8a8a" stroke-width="0.6" stroke-dasharray="2,2"/>
-<line x1="252.2" y1="355.4" x2="252.2" y2="338.0" stroke="#8a8a8a" stroke-width="0.6" stroke-dasharray="2,2"/>
-<line x1="319.6" y1="355.4" x2="319.6" y2="338.0" stroke="#8a8a8a" stroke-width="0.6" stroke-dasharray="2,2"/>
-<line x1="387.0" y1="355.4" x2="387.0" y2="338.0" stroke="#8a8a8a" stroke-width="0.6" stroke-dasharray="2,2"/>
+<line x1="117.5" y1="355.7" x2="117.5" y2="338.0" stroke="#8a8a8a" stroke-width="0.6" stroke-dasharray="2,2"/>
+<line x1="184.9" y1="355.7" x2="184.9" y2="338.0" stroke="#8a8a8a" stroke-width="0.6" stroke-dasharray="2,2"/>
+<line x1="252.2" y1="355.7" x2="252.2" y2="338.0" stroke="#8a8a8a" stroke-width="0.6" stroke-dasharray="2,2"/>
+<line x1="319.6" y1="355.7" x2="319.6" y2="338.0" stroke="#8a8a8a" stroke-width="0.6" stroke-dasharray="2,2"/>
+<line x1="387.0" y1="355.7" x2="387.0" y2="338.0" stroke="#8a8a8a" stroke-width="0.6" stroke-dasharray="2,2"/>
 <line x1="90.0" y1="330.0" x2="117.5" y2="330.0" stroke="#555555" stroke-width="1"/>
 <line x1="90.0" y1="326.0" x2="90.0" y2="334.0" stroke="#555555" stroke-width="1"/>
 <line x1="117.5" y1="326.0" x2="117.5" y2="334.0" stroke="#555555" stroke-width="1"/>
@@ -77,15 +77,15 @@
 <line x1="64.0" y1="360.0" x2="72.0" y2="360.0" stroke="#555555" stroke-width="1"/>
 <line x1="64.0" y1="756.0" x2="72.0" y2="756.0" stroke="#555555" stroke-width="1"/>
 <text x="62.0" y="558.0" font-size="11" text-anchor="middle" fill="#555555" font-weight="normal" transform="rotate(-90 62.0 558.0)">72 cm</text>
-<text x="422.5" y="371.4" font-size="11" text-anchor="start" fill="#c0392b" font-weight="bold">Rot: 5 Dübel Ø 8 × 40, 2,1 cm tief,</text>
-<text x="422.5" y="385.4" font-size="11" text-anchor="start" fill="#c0392b" font-weight="normal">1,35 cm unter der Oberkante</text>
+<text x="422.5" y="371.7" font-size="11" text-anchor="start" fill="#c0392b" font-weight="bold">Rot: 5 Dübel Ø 8 × 40, 2,1 cm tief,</text>
+<text x="422.5" y="385.7" font-size="11" text-anchor="start" fill="#c0392b" font-weight="normal">1,4 cm unter der Oberkante</text>
 <text x="422.5" y="507.0" font-size="11" text-anchor="start" fill="#1e8449" font-weight="bold">Grün: je Fachboden 3 Dübel Ø 6 × 30</text>
 <text x="422.5" y="521.0" font-size="11" text-anchor="start" fill="#1e8449" font-weight="normal">bei 5 / 29,5 / 54 cm, 1,7 cm tief in der</text>
 <text x="422.5" y="535.0" font-size="11" text-anchor="start" fill="#1e8449" font-weight="normal">Seitenplatte (Höhe = Mitte des Bretts)</text>
-<text x="40.0" y="790.0" font-size="18" text-anchor="start" fill="#2b2b2b" font-weight="bold">1b  Innere Trennplatten 69,3 × 59 × 2,7 cm, Schrankseite</text>
+<text x="40.0" y="790.0" font-size="18" text-anchor="start" fill="#2b2b2b" font-weight="bold">1b  Innere Trennplatten 69,2 × 59 × 2,8 cm, Schrankseite</text>
 <text x="40.0" y="808.0" font-size="12" text-anchor="start" fill="#555" font-weight="normal" font-style="italic">Ansicht aus dem jeweiligen Schrank. Löcher nur auf der Schrankseite – die Beinraumseite bleibt glatt.</text>
 <text x="90.0" y="831.0" font-size="12" text-anchor="start" fill="#2b2b2b" font-weight="bold">Linke Trennplatte, linke Seite</text>
-<rect x="90.0" y="845.0" width="153.4" height="180.2" fill="#ecd2a7" stroke="#2b2b2b" stroke-width="1.3"/>
+<rect x="90.0" y="845.0" width="153.4" height="179.9" fill="#ecd2a7" stroke="#2b2b2b" stroke-width="1.3"/>
 <rect x="101.5" y="845.0" width="3" height="14.3" fill="#2471a3" stroke="#fff" stroke-width="0.8"/>
 <circle cx="103.0" cy="854.1" r="4" fill="none" stroke="#8e5b2a" stroke-width="1.6" stroke-dasharray="2,1.5"/>
 <rect x="133.3" y="845.0" width="3" height="14.3" fill="#2471a3" stroke="#fff" stroke-width="0.8"/>
@@ -96,28 +96,28 @@
 <circle cx="198.6" cy="854.1" r="4" fill="none" stroke="#8e5b2a" stroke-width="1.6" stroke-dasharray="2,1.5"/>
 <rect x="228.9" y="845.0" width="3" height="14.3" fill="#2471a3" stroke="#fff" stroke-width="0.8"/>
 <circle cx="230.4" cy="854.1" r="4" fill="none" stroke="#8e5b2a" stroke-width="1.6" stroke-dasharray="2,1.5"/>
-<rect x="90.0" y="971.4" width="153.4" height="4.7" fill="#d9b27c" fill-opacity="0.6" stroke="#8a8a8a" stroke-width="0.8" stroke-dasharray="4,2"/>
-<circle cx="103.0" cy="973.7" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
-<circle cx="166.7" cy="973.7" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
-<circle cx="230.4" cy="973.7" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
-<text x="249.4" y="977.7" font-size="10" text-anchor="start" fill="#1e8449" font-weight="normal">FB 1  18,9–20,7 cm</text>
-<rect x="90.0" y="927.7" width="153.4" height="4.7" fill="#d9b27c" fill-opacity="0.6" stroke="#8a8a8a" stroke-width="0.8" stroke-dasharray="4,2"/>
-<circle cx="103.0" cy="930.0" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
-<circle cx="166.7" cy="930.0" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
-<circle cx="230.4" cy="930.0" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
-<text x="249.4" y="934.0" font-size="10" text-anchor="start" fill="#1e8449" font-weight="normal">FB 2  35,7–37,5 cm</text>
-<rect x="90.0" y="884.0" width="153.4" height="4.7" fill="#d9b27c" fill-opacity="0.6" stroke="#8a8a8a" stroke-width="0.8" stroke-dasharray="4,2"/>
-<circle cx="103.0" cy="886.3" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
-<circle cx="166.7" cy="886.3" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
-<circle cx="230.4" cy="886.3" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
-<text x="249.4" y="890.3" font-size="10" text-anchor="start" fill="#1e8449" font-weight="normal">FB 3  52,5–54,3 cm</text>
-<line x1="78.0" y1="845.0" x2="78.0" y2="1025.2" stroke="#555555" stroke-width="1"/>
+<rect x="90.0" y="971.1" width="153.4" height="4.7" fill="#d9b27c" fill-opacity="0.6" stroke="#8a8a8a" stroke-width="0.8" stroke-dasharray="4,2"/>
+<circle cx="103.0" cy="973.4" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
+<circle cx="166.7" cy="973.4" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
+<circle cx="230.4" cy="973.4" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
+<text x="249.4" y="977.4" font-size="10" text-anchor="start" fill="#1e8449" font-weight="normal">FB 1  18,9–20,7 cm</text>
+<rect x="90.0" y="927.4" width="153.4" height="4.7" fill="#d9b27c" fill-opacity="0.6" stroke="#8a8a8a" stroke-width="0.8" stroke-dasharray="4,2"/>
+<circle cx="103.0" cy="929.8" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
+<circle cx="166.7" cy="929.8" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
+<circle cx="230.4" cy="929.8" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
+<text x="249.4" y="933.8" font-size="10" text-anchor="start" fill="#1e8449" font-weight="normal">FB 2  35,7–37,5 cm</text>
+<rect x="90.0" y="883.7" width="153.4" height="4.7" fill="#d9b27c" fill-opacity="0.6" stroke="#8a8a8a" stroke-width="0.8" stroke-dasharray="4,2"/>
+<circle cx="103.0" cy="886.1" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
+<circle cx="166.7" cy="886.1" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
+<circle cx="230.4" cy="886.1" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
+<text x="249.4" y="890.1" font-size="10" text-anchor="start" fill="#1e8449" font-weight="normal">FB 3  52,5–54,3 cm</text>
+<line x1="78.0" y1="845.0" x2="78.0" y2="1024.9" stroke="#555555" stroke-width="1"/>
 <line x1="74.0" y1="845.0" x2="82.0" y2="845.0" stroke="#555555" stroke-width="1"/>
-<line x1="74.0" y1="1025.2" x2="82.0" y2="1025.2" stroke="#555555" stroke-width="1"/>
-<text x="72.0" y="935.1" font-size="10" text-anchor="middle" fill="#555555" font-weight="normal" transform="rotate(-90 72.0 935.1)">69,3 cm</text>
-<text x="243.4" y="1039.2" font-size="9.5" text-anchor="end" fill="#777" font-weight="normal">Vorderkante →</text>
+<line x1="74.0" y1="1024.9" x2="82.0" y2="1024.9" stroke="#555555" stroke-width="1"/>
+<text x="72.0" y="935.0" font-size="10" text-anchor="middle" fill="#555555" font-weight="normal" transform="rotate(-90 72.0 935.0)">69,2 cm</text>
+<text x="243.4" y="1038.9" font-size="9.5" text-anchor="end" fill="#777" font-weight="normal">Vorderkante →</text>
 <text x="372.0" y="831.0" font-size="12" text-anchor="start" fill="#2b2b2b" font-weight="bold">Rechte Trennplatte, rechte Seite</text>
-<rect x="372.0" y="845.0" width="153.4" height="180.2" fill="#ecd2a7" stroke="#2b2b2b" stroke-width="1.3"/>
+<rect x="372.0" y="845.0" width="153.4" height="179.9" fill="#ecd2a7" stroke="#2b2b2b" stroke-width="1.3"/>
 <rect x="383.5" y="845.0" width="3" height="14.3" fill="#2471a3" stroke="#fff" stroke-width="0.8"/>
 <circle cx="385.0" cy="854.1" r="4" fill="none" stroke="#8e5b2a" stroke-width="1.6" stroke-dasharray="2,1.5"/>
 <rect x="415.4" y="845.0" width="3" height="14.3" fill="#2471a3" stroke="#fff" stroke-width="0.8"/>
@@ -128,21 +128,21 @@
 <circle cx="480.6" cy="854.1" r="4" fill="none" stroke="#8e5b2a" stroke-width="1.6" stroke-dasharray="2,1.5"/>
 <rect x="510.9" y="845.0" width="3" height="14.3" fill="#2471a3" stroke="#fff" stroke-width="0.8"/>
 <circle cx="512.4" cy="854.1" r="4" fill="none" stroke="#8e5b2a" stroke-width="1.6" stroke-dasharray="2,1.5"/>
-<rect x="372.0" y="1015.0" width="153.4" height="4.7" fill="#d9b27c" fill-opacity="0.6" stroke="#8a8a8a" stroke-width="0.8" stroke-dasharray="4,2"/>
-<circle cx="391.2" cy="1017.4" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
-<circle cx="454.9" cy="1017.4" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
-<circle cx="518.6" cy="1017.4" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
-<text x="531.4" y="1021.4" font-size="10" text-anchor="start" fill="#1e8449" font-weight="normal">2,1–3,9 cm</text>
-<rect x="372.0" y="884.0" width="153.4" height="4.7" fill="#d9b27c" fill-opacity="0.6" stroke="#8a8a8a" stroke-width="0.8" stroke-dasharray="4,2"/>
-<circle cx="385.0" cy="886.3" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
-<circle cx="448.7" cy="886.3" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
-<circle cx="512.4" cy="886.3" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
-<text x="531.4" y="890.3" font-size="10" text-anchor="start" fill="#1e8449" font-weight="normal">52,5–54,3 cm</text>
-<line x1="360.0" y1="845.0" x2="360.0" y2="1025.2" stroke="#555555" stroke-width="1"/>
+<rect x="372.0" y="1014.8" width="153.4" height="4.7" fill="#d9b27c" fill-opacity="0.6" stroke="#8a8a8a" stroke-width="0.8" stroke-dasharray="4,2"/>
+<circle cx="391.2" cy="1017.1" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
+<circle cx="454.9" cy="1017.1" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
+<circle cx="518.6" cy="1017.1" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
+<text x="531.4" y="1021.1" font-size="10" text-anchor="start" fill="#1e8449" font-weight="normal">2,1–3,9 cm</text>
+<rect x="372.0" y="883.7" width="153.4" height="4.7" fill="#d9b27c" fill-opacity="0.6" stroke="#8a8a8a" stroke-width="0.8" stroke-dasharray="4,2"/>
+<circle cx="385.0" cy="886.1" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
+<circle cx="448.7" cy="886.1" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
+<circle cx="512.4" cy="886.1" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
+<text x="531.4" y="890.1" font-size="10" text-anchor="start" fill="#1e8449" font-weight="normal">52,5–54,3 cm</text>
+<line x1="360.0" y1="845.0" x2="360.0" y2="1024.9" stroke="#555555" stroke-width="1"/>
 <line x1="356.0" y1="845.0" x2="364.0" y2="845.0" stroke="#555555" stroke-width="1"/>
-<line x1="356.0" y1="1025.2" x2="364.0" y2="1025.2" stroke="#555555" stroke-width="1"/>
-<text x="354.0" y="935.1" font-size="10" text-anchor="middle" fill="#555555" font-weight="normal" transform="rotate(-90 354.0 935.1)">69,3 cm</text>
-<text x="372.0" y="1039.2" font-size="9.5" text-anchor="start" fill="#777" font-weight="normal">← Vorderkante</text>
+<line x1="356.0" y1="1024.9" x2="364.0" y2="1024.9" stroke="#555555" stroke-width="1"/>
+<text x="354.0" y="935.0" font-size="10" text-anchor="middle" fill="#555555" font-weight="normal" transform="rotate(-90 354.0 935.0)">69,2 cm</text>
+<text x="372.0" y="1038.9" font-size="9.5" text-anchor="start" fill="#777" font-weight="normal">← Vorderkante</text>
 <text x="618.0" y="858.0" font-size="10" text-anchor="start" fill="#2471a3" font-weight="bold">Blau: Vorbohrung 3 mm</text>
 <text x="618.0" y="871.0" font-size="10" text-anchor="start" fill="#2471a3" font-weight="normal">von oben, ca. 5,5 cm tief,</text>
 <text x="618.0" y="884.0" font-size="10" text-anchor="start" fill="#2471a3" font-weight="normal">für Schraube 5 × 80</text>
@@ -157,7 +157,7 @@
 <text x="618.0" y="1017.0" font-size="10" text-anchor="start" fill="#1e8449" font-weight="normal">7,4 / 31,9 / 56,4 cm</text>
 <text x="618.0" y="1038.0" font-size="10" text-anchor="start" fill="#555555" font-weight="normal">Länge = 72 cm minus echte</text>
 <text x="618.0" y="1051.0" font-size="10" text-anchor="start" fill="#555555" font-weight="normal">Dicke der Verbindungsplatte</text>
-<text x="790.0" y="235.0" font-size="18" text-anchor="start" fill="#2b2b2b" font-weight="bold">2  Verbindungsplatte 116 × 59 × 2,7 cm  (Draufsicht, durchsichtig)</text>
+<text x="790.0" y="235.0" font-size="18" text-anchor="start" fill="#2b2b2b" font-weight="bold">2  Verbindungsplatte 116 × 59 × 2,8 cm  (Draufsicht, durchsichtig)</text>
 <text x="790.0" y="253.0" font-size="12" text-anchor="start" fill="#555" font-weight="normal" font-style="italic">Wie am fertigen Tisch von oben gesehen, Vorderkante unten. Alle Löcher hier gehen ganz durch.</text>
 <rect x="800.0" y="290.0" width="487.2" height="247.8" fill="#e0bb84" fill-opacity="0.9" stroke="#2b2b2b" stroke-width="1.4"/>
 <text x="1043.6" y="282.0" font-size="11" text-anchor="middle" fill="#777" font-weight="normal">Rückseite</text>
@@ -172,38 +172,38 @@
 <rect x="1269.6" y="359.4" width="17.6" height="6" fill="#c0392b" stroke="#fff" stroke-width="0.8"/>
 <rect x="800.0" y="308.0" width="17.6" height="6" fill="#c0392b" stroke="#fff" stroke-width="0.8"/>
 <rect x="1269.6" y="308.0" width="17.6" height="6" fill="#c0392b" stroke="#fff" stroke-width="0.8"/>
-<rect x="913.4" y="290.0" width="11.3" height="247.8" fill="none" stroke="#2471a3" stroke-width="1" stroke-dasharray="4,3"/>
-<rect x="1162.5" y="290.0" width="11.3" height="247.8" fill="none" stroke="#2471a3" stroke-width="1" stroke-dasharray="4,3"/>
-<circle cx="919.1" cy="516.8" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
-<line x1="916.0" y1="513.7" x2="922.2" y2="519.9" stroke="#2471a3" stroke-width="1.8"/>
-<line x1="916.0" y1="519.9" x2="922.2" y2="513.7" stroke="#2471a3" stroke-width="1.8"/>
-<circle cx="1168.1" cy="516.8" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
-<line x1="1165.0" y1="513.7" x2="1171.2" y2="519.9" stroke="#2471a3" stroke-width="1.8"/>
-<line x1="1165.0" y1="519.9" x2="1171.2" y2="513.7" stroke="#2471a3" stroke-width="1.8"/>
-<circle cx="919.1" cy="465.4" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
-<line x1="916.0" y1="462.2" x2="922.2" y2="468.5" stroke="#2471a3" stroke-width="1.8"/>
-<line x1="916.0" y1="468.5" x2="922.2" y2="462.2" stroke="#2471a3" stroke-width="1.8"/>
-<circle cx="1168.1" cy="465.4" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
-<line x1="1165.0" y1="462.2" x2="1171.2" y2="468.5" stroke="#2471a3" stroke-width="1.8"/>
-<line x1="1165.0" y1="468.5" x2="1171.2" y2="462.2" stroke="#2471a3" stroke-width="1.8"/>
-<circle cx="919.1" cy="413.9" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
-<line x1="916.0" y1="410.8" x2="922.2" y2="417.0" stroke="#2471a3" stroke-width="1.8"/>
-<line x1="916.0" y1="417.0" x2="922.2" y2="410.8" stroke="#2471a3" stroke-width="1.8"/>
-<circle cx="1168.1" cy="413.9" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
-<line x1="1165.0" y1="410.8" x2="1171.2" y2="417.0" stroke="#2471a3" stroke-width="1.8"/>
-<line x1="1165.0" y1="417.0" x2="1171.2" y2="410.8" stroke="#2471a3" stroke-width="1.8"/>
-<circle cx="919.1" cy="362.4" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
-<line x1="916.0" y1="359.3" x2="922.2" y2="365.6" stroke="#2471a3" stroke-width="1.8"/>
-<line x1="916.0" y1="365.6" x2="922.2" y2="359.3" stroke="#2471a3" stroke-width="1.8"/>
-<circle cx="1168.1" cy="362.4" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
-<line x1="1165.0" y1="359.3" x2="1171.2" y2="365.6" stroke="#2471a3" stroke-width="1.8"/>
-<line x1="1165.0" y1="365.6" x2="1171.2" y2="359.3" stroke="#2471a3" stroke-width="1.8"/>
-<circle cx="919.1" cy="311.0" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
-<line x1="916.0" y1="307.9" x2="922.2" y2="314.1" stroke="#2471a3" stroke-width="1.8"/>
-<line x1="916.0" y1="314.1" x2="922.2" y2="307.9" stroke="#2471a3" stroke-width="1.8"/>
-<circle cx="1168.1" cy="311.0" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
-<line x1="1165.0" y1="307.9" x2="1171.2" y2="314.1" stroke="#2471a3" stroke-width="1.8"/>
-<line x1="1165.0" y1="314.1" x2="1171.2" y2="307.9" stroke="#2471a3" stroke-width="1.8"/>
+<rect x="913.4" y="290.0" width="11.8" height="247.8" fill="none" stroke="#2471a3" stroke-width="1" stroke-dasharray="4,3"/>
+<rect x="1162.0" y="290.0" width="11.8" height="247.8" fill="none" stroke="#2471a3" stroke-width="1" stroke-dasharray="4,3"/>
+<circle cx="919.3" cy="516.8" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
+<line x1="916.2" y1="513.7" x2="922.4" y2="519.9" stroke="#2471a3" stroke-width="1.8"/>
+<line x1="916.2" y1="519.9" x2="922.4" y2="513.7" stroke="#2471a3" stroke-width="1.8"/>
+<circle cx="1167.9" cy="516.8" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
+<line x1="1164.8" y1="513.7" x2="1171.0" y2="519.9" stroke="#2471a3" stroke-width="1.8"/>
+<line x1="1164.8" y1="519.9" x2="1171.0" y2="513.7" stroke="#2471a3" stroke-width="1.8"/>
+<circle cx="919.3" cy="465.4" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
+<line x1="916.2" y1="462.2" x2="922.4" y2="468.5" stroke="#2471a3" stroke-width="1.8"/>
+<line x1="916.2" y1="468.5" x2="922.4" y2="462.2" stroke="#2471a3" stroke-width="1.8"/>
+<circle cx="1167.9" cy="465.4" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
+<line x1="1164.8" y1="462.2" x2="1171.0" y2="468.5" stroke="#2471a3" stroke-width="1.8"/>
+<line x1="1164.8" y1="468.5" x2="1171.0" y2="462.2" stroke="#2471a3" stroke-width="1.8"/>
+<circle cx="919.3" cy="413.9" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
+<line x1="916.2" y1="410.8" x2="922.4" y2="417.0" stroke="#2471a3" stroke-width="1.8"/>
+<line x1="916.2" y1="417.0" x2="922.4" y2="410.8" stroke="#2471a3" stroke-width="1.8"/>
+<circle cx="1167.9" cy="413.9" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
+<line x1="1164.8" y1="410.8" x2="1171.0" y2="417.0" stroke="#2471a3" stroke-width="1.8"/>
+<line x1="1164.8" y1="417.0" x2="1171.0" y2="410.8" stroke="#2471a3" stroke-width="1.8"/>
+<circle cx="919.3" cy="362.4" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
+<line x1="916.2" y1="359.3" x2="922.4" y2="365.6" stroke="#2471a3" stroke-width="1.8"/>
+<line x1="916.2" y1="365.6" x2="922.4" y2="359.3" stroke="#2471a3" stroke-width="1.8"/>
+<circle cx="1167.9" cy="362.4" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
+<line x1="1164.8" y1="359.3" x2="1171.0" y2="365.6" stroke="#2471a3" stroke-width="1.8"/>
+<line x1="1164.8" y1="365.6" x2="1171.0" y2="359.3" stroke="#2471a3" stroke-width="1.8"/>
+<circle cx="919.3" cy="311.0" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
+<line x1="916.2" y1="307.9" x2="922.4" y2="314.1" stroke="#2471a3" stroke-width="1.8"/>
+<line x1="916.2" y1="314.1" x2="922.4" y2="307.9" stroke="#2471a3" stroke-width="1.8"/>
+<circle cx="1167.9" cy="311.0" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
+<line x1="1164.8" y1="307.9" x2="1171.0" y2="314.1" stroke="#2471a3" stroke-width="1.8"/>
+<line x1="1164.8" y1="314.1" x2="1171.0" y2="307.9" stroke="#2471a3" stroke-width="1.8"/>
 <circle cx="842.0" cy="512.6" r="4.5" fill="#fff" stroke="#ca6f1e" stroke-width="2" stroke-dasharray="3,2"/>
 <circle cx="842.0" cy="315.2" r="4.5" fill="#fff" stroke="#ca6f1e" stroke-width="2" stroke-dasharray="3,2"/>
 <circle cx="968.0" cy="512.6" r="4.5" fill="#fff" stroke="#ca6f1e" stroke-width="2" stroke-dasharray="3,2"/>
@@ -216,14 +216,14 @@
 <line x1="800.0" y1="573.8" x2="800.0" y2="581.8" stroke="#555555" stroke-width="1"/>
 <line x1="1287.2" y1="573.8" x2="1287.2" y2="581.8" stroke="#555555" stroke-width="1"/>
 <text x="1043.6" y="573.8" font-size="11" text-anchor="middle" fill="#555555" font-weight="normal">116 cm</text>
-<line x1="800.0" y1="599.8" x2="919.1" y2="599.8" stroke="#555555" stroke-width="1"/>
+<line x1="800.0" y1="599.8" x2="919.3" y2="599.8" stroke="#555555" stroke-width="1"/>
 <line x1="800.0" y1="595.8" x2="800.0" y2="603.8" stroke="#555555" stroke-width="1"/>
-<line x1="919.1" y1="595.8" x2="919.1" y2="603.8" stroke="#555555" stroke-width="1"/>
-<text x="859.5" y="595.8" font-size="10" text-anchor="middle" fill="#555555" font-weight="normal">28,35 cm bis Mitte Trennplatte links</text>
-<line x1="1168.1" y1="599.8" x2="1287.2" y2="599.8" stroke="#555555" stroke-width="1"/>
-<line x1="1168.1" y1="595.8" x2="1168.1" y2="603.8" stroke="#555555" stroke-width="1"/>
+<line x1="919.3" y1="595.8" x2="919.3" y2="603.8" stroke="#555555" stroke-width="1"/>
+<text x="859.6" y="595.8" font-size="10" text-anchor="middle" fill="#555555" font-weight="normal">28,4 cm bis Mitte Trennplatte links</text>
+<line x1="1167.9" y1="599.8" x2="1287.2" y2="599.8" stroke="#555555" stroke-width="1"/>
+<line x1="1167.9" y1="595.8" x2="1167.9" y2="603.8" stroke="#555555" stroke-width="1"/>
 <line x1="1287.2" y1="595.8" x2="1287.2" y2="603.8" stroke="#555555" stroke-width="1"/>
-<text x="1227.7" y="595.8" font-size="10" text-anchor="middle" fill="#555555" font-weight="normal">28,35 cm bis Mitte Trennplatte rechts</text>
+<text x="1227.6" y="595.8" font-size="10" text-anchor="middle" fill="#555555" font-weight="normal">28,4 cm bis Mitte Trennplatte rechts</text>
 <line x1="784.0" y1="290.0" x2="784.0" y2="537.8" stroke="#555555" stroke-width="1"/>
 <line x1="780.0" y1="290.0" x2="788.0" y2="290.0" stroke="#555555" stroke-width="1"/>
 <line x1="780.0" y1="537.8" x2="788.0" y2="537.8" stroke="#555555" stroke-width="1"/>
@@ -240,26 +240,26 @@
 <text x="1301.2" y="490.0" font-size="12" text-anchor="start" fill="#ca6f1e" font-weight="normal">linken Ende, 6 cm von vorn</text>
 <text x="1301.2" y="505.0" font-size="12" text-anchor="start" fill="#ca6f1e" font-weight="normal">und 6 cm von hinten</text>
 <text x="790.0" y="650.0" font-size="18" text-anchor="start" fill="#2b2b2b" font-weight="bold">3  Trennplatte, Oberkante (Hirnholz)</text>
-<rect x="800.0" y="700.0" width="472.0" height="38.9" fill="#ecd2a7" stroke="#2b2b2b" stroke-width="1.4"/>
-<circle cx="840.0" cy="719.4" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
-<line x1="836.9" y1="716.3" x2="843.1" y2="722.5" stroke="#2471a3" stroke-width="1.8"/>
-<line x1="836.9" y1="722.5" x2="843.1" y2="716.3" stroke="#2471a3" stroke-width="1.8"/>
-<circle cx="938.0" cy="719.4" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
-<line x1="934.9" y1="716.3" x2="941.1" y2="722.5" stroke="#2471a3" stroke-width="1.8"/>
-<line x1="934.9" y1="722.5" x2="941.1" y2="716.3" stroke="#2471a3" stroke-width="1.8"/>
-<circle cx="1036.0" cy="719.4" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
-<line x1="1032.9" y1="716.3" x2="1039.1" y2="722.5" stroke="#2471a3" stroke-width="1.8"/>
-<line x1="1032.9" y1="722.5" x2="1039.1" y2="716.3" stroke="#2471a3" stroke-width="1.8"/>
-<circle cx="1134.0" cy="719.4" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
-<line x1="1130.9" y1="716.3" x2="1137.1" y2="722.5" stroke="#2471a3" stroke-width="1.8"/>
-<line x1="1130.9" y1="722.5" x2="1137.1" y2="716.3" stroke="#2471a3" stroke-width="1.8"/>
-<circle cx="1232.0" cy="719.4" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
-<line x1="1228.9" y1="716.3" x2="1235.1" y2="722.5" stroke="#2471a3" stroke-width="1.8"/>
-<line x1="1228.9" y1="722.5" x2="1235.1" y2="716.3" stroke="#2471a3" stroke-width="1.8"/>
-<line x1="800.0" y1="762.9" x2="1272.0" y2="762.9" stroke="#555555" stroke-width="1"/>
-<line x1="800.0" y1="758.9" x2="800.0" y2="766.9" stroke="#555555" stroke-width="1"/>
-<line x1="1272.0" y1="758.9" x2="1272.0" y2="766.9" stroke="#555555" stroke-width="1"/>
-<text x="1036.0" y="758.9" font-size="11" text-anchor="middle" fill="#555555" font-weight="normal">59 cm (Tiefe)</text>
+<rect x="800.0" y="700.0" width="472.0" height="40.3" fill="#ecd2a7" stroke="#2b2b2b" stroke-width="1.4"/>
+<circle cx="840.0" cy="720.2" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
+<line x1="836.9" y1="717.1" x2="843.1" y2="723.3" stroke="#2471a3" stroke-width="1.8"/>
+<line x1="836.9" y1="723.3" x2="843.1" y2="717.1" stroke="#2471a3" stroke-width="1.8"/>
+<circle cx="938.0" cy="720.2" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
+<line x1="934.9" y1="717.1" x2="941.1" y2="723.3" stroke="#2471a3" stroke-width="1.8"/>
+<line x1="934.9" y1="723.3" x2="941.1" y2="717.1" stroke="#2471a3" stroke-width="1.8"/>
+<circle cx="1036.0" cy="720.2" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
+<line x1="1032.9" y1="717.1" x2="1039.1" y2="723.3" stroke="#2471a3" stroke-width="1.8"/>
+<line x1="1032.9" y1="723.3" x2="1039.1" y2="717.1" stroke="#2471a3" stroke-width="1.8"/>
+<circle cx="1134.0" cy="720.2" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
+<line x1="1130.9" y1="717.1" x2="1137.1" y2="723.3" stroke="#2471a3" stroke-width="1.8"/>
+<line x1="1130.9" y1="723.3" x2="1137.1" y2="717.1" stroke="#2471a3" stroke-width="1.8"/>
+<circle cx="1232.0" cy="720.2" r="5" fill="#fff" stroke="#2471a3" stroke-width="2"/>
+<line x1="1228.9" y1="717.1" x2="1235.1" y2="723.3" stroke="#2471a3" stroke-width="1.8"/>
+<line x1="1228.9" y1="723.3" x2="1235.1" y2="717.1" stroke="#2471a3" stroke-width="1.8"/>
+<line x1="800.0" y1="764.3" x2="1272.0" y2="764.3" stroke="#555555" stroke-width="1"/>
+<line x1="800.0" y1="760.3" x2="800.0" y2="768.3" stroke="#555555" stroke-width="1"/>
+<line x1="1272.0" y1="760.3" x2="1272.0" y2="768.3" stroke="#555555" stroke-width="1"/>
+<text x="1036.0" y="760.3" font-size="11" text-anchor="middle" fill="#555555" font-weight="normal">59 cm (Tiefe)</text>
 <line x1="800.0" y1="688.0" x2="840.0" y2="688.0" stroke="#555555" stroke-width="1"/>
 <line x1="800.0" y1="684.0" x2="800.0" y2="692.0" stroke="#555555" stroke-width="1"/>
 <line x1="840.0" y1="684.0" x2="840.0" y2="692.0" stroke="#555555" stroke-width="1"/>
@@ -284,16 +284,16 @@
 <line x1="1232.0" y1="684.0" x2="1232.0" y2="692.0" stroke="#555555" stroke-width="1"/>
 <line x1="1272.0" y1="684.0" x2="1272.0" y2="692.0" stroke="#555555" stroke-width="1"/>
 <text x="1252.0" y="684.0" font-size="10" text-anchor="middle" fill="#555555" font-weight="normal">5 cm</text>
-<text x="800.0" y="790.9" font-size="11.5" text-anchor="start" fill="#2471a3" font-weight="normal">Oberkante (Hirnholz) von oben: 5 Vorbohrungen 3 mm, ca. 5,5 cm tief, mittig (1,35 cm).</text>
-<text x="800.0" y="805.9" font-size="11.5" text-anchor="start" fill="#555555" font-weight="normal" font-style="italic">Erst beim Probeaufbau durch die Löcher der Verbindungsplatte bohren – dann treffen sie genau.</text>
+<text x="800.0" y="792.3" font-size="11.5" text-anchor="start" fill="#2471a3" font-weight="normal">Oberkante (Hirnholz) von oben: 5 Vorbohrungen 3 mm, ca. 5,5 cm tief, mittig (1,4 cm).</text>
+<text x="800.0" y="807.3" font-size="11.5" text-anchor="start" fill="#555555" font-weight="normal" font-style="italic">Erst beim Probeaufbau durch die Löcher der Verbindungsplatte bohren – dann treffen sie genau.</text>
 <text x="1330.0" y="650.0" font-size="12" text-anchor="start" fill="#2b2b2b" font-weight="bold">Schnitt mit Querdübel (optional)</text>
-<rect x="1330.0" y="660.0" width="102.0" height="45.9" fill="#e0bb84" stroke="#2b2b2b" stroke-width="1.2"/>
-<rect x="1381.0" y="705.9" width="45.9" height="95.2" fill="#ecd2a7" stroke="#2b2b2b" stroke-width="1.2"/>
-<rect x="1381.0" y="756.9" width="34.0" height="17.0" fill="#c8a06a" stroke="#2b2b2b" stroke-width="0.8"/>
-<rect x="1401.5" y="656.6" width="5" height="136.0" fill="#2471a3" stroke="#fff" stroke-width="0.8"/>
-<line x1="1398.0" y1="656.6" x2="1410.0" y2="656.6" stroke="#2471a3" stroke-width="3"/>
-<text x="1435.4" y="687.2" font-size="10" text-anchor="start" fill="#555555" font-weight="normal">Verb.-platte 2,7 cm</text>
-<text x="1435.4" y="745.0" font-size="10" text-anchor="start" fill="#555555" font-weight="normal">Trennplatte 2,7 cm</text>
+<rect x="1330.0" y="660.0" width="102.0" height="47.6" fill="#e0bb84" stroke="#2b2b2b" stroke-width="1.2"/>
+<rect x="1381.0" y="707.6" width="47.6" height="95.2" fill="#ecd2a7" stroke="#2b2b2b" stroke-width="1.2"/>
+<rect x="1381.0" y="758.6" width="34.0" height="17.0" fill="#c8a06a" stroke="#2b2b2b" stroke-width="0.8"/>
+<rect x="1402.3" y="656.6" width="5" height="136.0" fill="#2471a3" stroke="#fff" stroke-width="0.8"/>
+<line x1="1398.8" y1="656.6" x2="1410.8" y2="656.6" stroke="#2471a3" stroke-width="3"/>
+<text x="1435.4" y="687.2" font-size="10" text-anchor="start" fill="#555555" font-weight="normal">Verb.-platte 2,8 cm</text>
+<text x="1435.4" y="745.0" font-size="10" text-anchor="start" fill="#555555" font-weight="normal">Trennplatte 2,8 cm</text>
 <text x="1435.4" y="768.8" font-size="10" text-anchor="start" fill="#2b2b2b" font-weight="bold">Querdübel Ø 10 mm:</text>
 <text x="1435.4" y="782.4" font-size="10" text-anchor="start" fill="#2b2b2b" font-weight="normal">2 cm tief, 3,5 cm unter</text>
 <text x="1435.4" y="796.0" font-size="10" text-anchor="start" fill="#2b2b2b" font-weight="normal">der Oberkante,</text>
@@ -307,7 +307,7 @@
 <rect x="1229.0" y="880.0" width="6" height="16.3" fill="#1e8449" stroke="#fff" stroke-width="0.8"/>
 <rect x="1229.0" y="1021.8" width="6" height="18.2" fill="#1e8449" stroke="#fff" stroke-width="0.8"/>
 <text x="1036.0" y="872.0" font-size="11" text-anchor="middle" fill="#1e8449" font-weight="normal">Kante zur Seitenplatte (4 cm dick)</text>
-<text x="1036.0" y="1056.0" font-size="11" text-anchor="middle" fill="#1e8449" font-weight="normal">Kante zur senkrechten Trennplatte (2,7 cm dick)</text>
+<text x="1036.0" y="1056.0" font-size="11" text-anchor="middle" fill="#1e8449" font-weight="normal">Kante zur senkrechten Trennplatte (2,8 cm dick)</text>
 <line x1="800.0" y1="1080.0" x2="1272.0" y2="1080.0" stroke="#555555" stroke-width="1"/>
 <line x1="800.0" y1="1076.0" x2="800.0" y2="1084.0" stroke="#555555" stroke-width="1"/>
 <line x1="1272.0" y1="1076.0" x2="1272.0" y2="1084.0" stroke="#555555" stroke-width="1"/>
@@ -319,7 +319,7 @@
 <text x="1286.0" y="900.0" font-size="12" text-anchor="start" fill="#1e8449" font-weight="bold">je Kante 3 Dübel Ø 6 × 30, 6 je Brett.</text>
 <text x="1286.0" y="916.0" font-size="12" text-anchor="start" fill="#1e8449" font-weight="normal">Zur Seitenplatte (4 cm): Brett 1,5 cm tief,</text>
 <text x="1286.0" y="930.0" font-size="12" text-anchor="start" fill="#1e8449" font-weight="normal">Seitenplatte 1,7 cm tief.</text>
-<text x="1286.0" y="950.0" font-size="12" text-anchor="start" fill="#1e8449" font-weight="normal">Zur Trennplatte (2,7 cm): Brett 1,9 cm tief,</text>
+<text x="1286.0" y="950.0" font-size="12" text-anchor="start" fill="#1e8449" font-weight="normal">Zur Trennplatte (2,8 cm): Brett 1,9 cm tief,</text>
 <text x="1286.0" y="964.0" font-size="12" text-anchor="start" fill="#1e8449" font-weight="normal">Trennplatte nur 1,2 cm tief.</text>
 <text x="1286.0" y="990.0" font-size="12" text-anchor="start" fill="#2b2b2b" font-weight="bold">Vorne (5 cm): Leim + Dübel, fest.</text>
 <text x="1286.0" y="1006.0" font-size="12" text-anchor="start" fill="#2b2b2b" font-weight="bold">Hinten (29,5 / 54 cm): 8-mm-Loch</text>
@@ -411,5 +411,5 @@
 <text x="800.0" y="1478.0" font-size="12" text-anchor="start" fill="#2b2b2b" font-weight="normal">• Probeaufbau ohne Leim, dann mit Leim zusammenstecken.</text>
 <text x="800.0" y="1498.0" font-size="12" text-anchor="start" fill="#2b2b2b" font-weight="normal">• Dübellehre immer an der Vorderkante / Oberkante anlegen.</text>
 <text x="800.0" y="1518.0" font-size="12" text-anchor="start" fill="#2b2b2b" font-weight="normal">• Dübelfixe (Markierspitzen) zum Übertragen der Lochmitte nutzen.</text>
-<text x="800.0" y="1538.0" font-size="12" text-anchor="start" fill="#2b2b2b" font-weight="normal">• Lehre an Resten in 1,8 / 2,7 / 4 cm testen.</text>
+<text x="800.0" y="1538.0" font-size="12" text-anchor="start" fill="#2b2b2b" font-weight="normal">• Lehre an Resten in 1,8 / 2,8 / 4 cm testen.</text>
 </svg>

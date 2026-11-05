@@ -1,5 +1,15 @@
 # Schreibtisch – Bauplan (geprüfter Stand)
 
+> **Stand 05.11.2026 – Änderungen gegenüber den Maßen unten (gültig sind diese):**
+> - Verbindungsplatte und Trennplatten **2,8 cm** statt 2,7 cm (online bestellt, Faser längs). Trennplatten 69,2 × 59 cm, Innenhöhe 69,2 cm, oberstes Fach 14,9 cm.
+> - Öffnungen bleiben 27 cm, Beinraum 56,4 cm; Trennplatten bei 31–33,8 cm und 90,2–93 cm von der linken Außenkante.
+> - Bauweise: erst die Seitenblöcke, dann Verbindungsplatte einschieben; Trennplatten von oben mit 5 × 80 mm verschraubt (statt Dübel).
+> - Tischplatte mit Einschraubmuffen M6 + Schrauben M6 × 40 mm (abnehmbar).
+> - 1,8 cm: 4 Bretter 200 × 30 cm (siehe `zuschnitt_boeden_*.png`); Tür wird 26,9 cm breit zugeschnitten und zu Hause angepasst.
+> - Türleisten 1 × 4,6 cm (Querstücke 17,5 cm, Fenster 17,5 × 39 cm); Beinraum-Querstücke 44,2 cm, Fenster 19,1 × 45 cm.
+> - Alle aktuellen Maße in cm: Bauanleitung (Claude-Dokument), `skizze.png`, `duebelplan.png`, `materialliste.pdf`.
+
+
 Bilder im selben Ordner: `skizze.png` (Ansichten), `duebelplan.png` (Dübel), `render_vorn_rechts.png`, `render_vorn_links.png`, `render_vorn_frontal.png` (3D-Entwurf), `vergleich_trennplatten_27_40.png`. Alle Maße in mm, wenn nicht anders angegeben.
 
 ## 1. Aufbau
