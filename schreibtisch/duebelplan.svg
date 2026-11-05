@@ -26,17 +26,29 @@
 <circle cx="117.5" cy="647.1" r="5" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
 <circle cx="252.2" cy="647.1" r="5" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
 <circle cx="387.0" cy="647.1" r="5" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
-<text x="422.5" y="651.1" font-size="11" text-anchor="start" fill="#1e8449" font-weight="normal">Fachboden 1  (Höhe 18,9–20,7 cm)</text>
+<text x="422.5" y="651.1" font-size="11" text-anchor="start" fill="#1e8449" font-weight="normal">Fachboden 1: Dübelmitte 19,8 cm (Brett 18,9–20,7 cm)</text>
+<line x1="293.5" y1="756.0" x2="293.5" y2="647.1" stroke="#1e8449" stroke-width="1"/>
+<line x1="289.5" y1="756.0" x2="297.5" y2="756.0" stroke="#1e8449" stroke-width="1"/>
+<line x1="289.5" y1="647.1" x2="297.5" y2="647.1" stroke="#1e8449" stroke-width="1"/>
+<text x="289.5" y="701.5" font-size="10.5" text-anchor="middle" fill="#1e8449" font-weight="bold" transform="rotate(-90 289.5 701.5)">19,8 cm</text>
 <rect x="90.0" y="549.8" width="324.5" height="9.9" fill="#d9b27c" fill-opacity="0.6" stroke="#8a8a8a" stroke-width="1" stroke-dasharray="5,3"/>
 <circle cx="117.5" cy="554.7" r="5" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
 <circle cx="252.2" cy="554.7" r="5" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
 <circle cx="387.0" cy="554.7" r="5" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
-<text x="422.5" y="558.7" font-size="11" text-anchor="start" fill="#1e8449" font-weight="normal">Fachboden 2  (Höhe 35,7–37,5 cm)</text>
+<text x="422.5" y="558.7" font-size="11" text-anchor="start" fill="#1e8449" font-weight="normal">Fachboden 2: Dübelmitte 36,6 cm (Brett 35,7–37,5 cm)</text>
+<line x1="323.8" y1="756.0" x2="323.8" y2="554.7" stroke="#1e8449" stroke-width="1"/>
+<line x1="319.8" y1="756.0" x2="327.8" y2="756.0" stroke="#1e8449" stroke-width="1"/>
+<line x1="319.8" y1="554.7" x2="327.8" y2="554.7" stroke="#1e8449" stroke-width="1"/>
+<text x="319.8" y="655.4" font-size="10.5" text-anchor="middle" fill="#1e8449" font-weight="bold" transform="rotate(-90 319.8 655.4)">36,6 cm</text>
 <rect x="90.0" y="457.4" width="324.5" height="9.9" fill="#d9b27c" fill-opacity="0.6" stroke="#8a8a8a" stroke-width="1" stroke-dasharray="5,3"/>
 <circle cx="117.5" cy="462.3" r="5" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
 <circle cx="252.2" cy="462.3" r="5" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
 <circle cx="387.0" cy="462.3" r="5" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
-<text x="422.5" y="466.3" font-size="11" text-anchor="start" fill="#1e8449" font-weight="normal">Fachboden 3  (Höhe 52,5–54,3 cm)</text>
+<text x="422.5" y="466.3" font-size="11" text-anchor="start" fill="#1e8449" font-weight="normal">Fachboden 3: Dübelmitte 53,4 cm (Brett 52,5–54,3 cm)</text>
+<line x1="354.0" y1="756.0" x2="354.0" y2="462.3" stroke="#1e8449" stroke-width="1"/>
+<line x1="350.0" y1="756.0" x2="358.0" y2="756.0" stroke="#1e8449" stroke-width="1"/>
+<line x1="350.0" y1="462.3" x2="358.0" y2="462.3" stroke="#1e8449" stroke-width="1"/>
+<text x="350.0" y="609.2" font-size="10.5" text-anchor="middle" fill="#1e8449" font-weight="bold" transform="rotate(-90 350.0 609.2)">53,4 cm</text>
 <circle cx="98.2" cy="745.0" r="4" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
 <text x="422.5" y="749.0" font-size="11" text-anchor="start" fill="#1e8449" font-weight="normal">Zierleiste (später): 1 Dübel, 1,5 cm von vorn, 2 cm hoch</text>
 <text x="252.2" y="580.0" font-size="13" text-anchor="middle" fill="#555" font-weight="normal" font-style="italic">Seitenplatte 59 × 72 × 4 cm</text>
@@ -80,8 +92,8 @@
 <text x="422.5" y="371.7" font-size="11" text-anchor="start" fill="#c0392b" font-weight="bold">Rot: 5 Dübel Ø 8 × 40, 2,1 cm tief,</text>
 <text x="422.5" y="385.7" font-size="11" text-anchor="start" fill="#c0392b" font-weight="normal">1,4 cm unter der Oberkante</text>
 <text x="422.5" y="507.0" font-size="11" text-anchor="start" fill="#1e8449" font-weight="bold">Grün: je Fachboden 3 Dübel Ø 6 × 30</text>
-<text x="422.5" y="521.0" font-size="11" text-anchor="start" fill="#1e8449" font-weight="normal">bei 5 / 29,5 / 54 cm, 1,7 cm tief in der</text>
-<text x="422.5" y="535.0" font-size="11" text-anchor="start" fill="#1e8449" font-weight="normal">Seitenplatte (Höhe = Mitte des Bretts)</text>
+<text x="422.5" y="521.0" font-size="11" text-anchor="start" fill="#1e8449" font-weight="normal">bei 5 / 29,5 / 54 cm (unter dem 1., 3. und 5. roten Punkt),</text>
+<text x="422.5" y="535.0" font-size="11" text-anchor="start" fill="#1e8449" font-weight="normal">1,7 cm tief; Höhen ab Unterkante der Platte, siehe grüne Maße</text>
 <text x="40.0" y="790.0" font-size="18" text-anchor="start" fill="#2b2b2b" font-weight="bold">1b  Innere Trennplatten 69,2 × 59 × 2,8 cm, Schrankseite</text>
 <text x="40.0" y="808.0" font-size="12" text-anchor="start" fill="#555" font-weight="normal" font-style="italic">Ansicht aus dem jeweiligen Schrank. Löcher nur auf der Schrankseite – die Beinraumseite bleibt glatt.</text>
 <text x="90.0" y="831.0" font-size="12" text-anchor="start" fill="#2b2b2b" font-weight="bold">Linke Trennplatte, linke Seite</text>
@@ -100,17 +112,17 @@
 <circle cx="103.0" cy="973.4" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
 <circle cx="166.7" cy="973.4" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
 <circle cx="230.4" cy="973.4" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
-<text x="249.4" y="977.4" font-size="10" text-anchor="start" fill="#1e8449" font-weight="normal">FB 1  18,9–20,7 cm</text>
+<text x="249.4" y="977.4" font-size="10" text-anchor="start" fill="#1e8449" font-weight="normal">FB 1: 19,8 cm</text>
 <rect x="90.0" y="927.4" width="153.4" height="4.7" fill="#d9b27c" fill-opacity="0.6" stroke="#8a8a8a" stroke-width="0.8" stroke-dasharray="4,2"/>
 <circle cx="103.0" cy="929.8" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
 <circle cx="166.7" cy="929.8" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
 <circle cx="230.4" cy="929.8" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
-<text x="249.4" y="933.8" font-size="10" text-anchor="start" fill="#1e8449" font-weight="normal">FB 2  35,7–37,5 cm</text>
+<text x="249.4" y="933.8" font-size="10" text-anchor="start" fill="#1e8449" font-weight="normal">FB 2: 36,6 cm</text>
 <rect x="90.0" y="883.7" width="153.4" height="4.7" fill="#d9b27c" fill-opacity="0.6" stroke="#8a8a8a" stroke-width="0.8" stroke-dasharray="4,2"/>
 <circle cx="103.0" cy="886.1" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
 <circle cx="166.7" cy="886.1" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
 <circle cx="230.4" cy="886.1" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
-<text x="249.4" y="890.1" font-size="10" text-anchor="start" fill="#1e8449" font-weight="normal">FB 3  52,5–54,3 cm</text>
+<text x="249.4" y="890.1" font-size="10" text-anchor="start" fill="#1e8449" font-weight="normal">FB 3: 53,4 cm</text>
 <line x1="78.0" y1="845.0" x2="78.0" y2="1024.9" stroke="#555555" stroke-width="1"/>
 <line x1="74.0" y1="845.0" x2="82.0" y2="845.0" stroke="#555555" stroke-width="1"/>
 <line x1="74.0" y1="1024.9" x2="82.0" y2="1024.9" stroke="#555555" stroke-width="1"/>
@@ -132,12 +144,12 @@
 <circle cx="391.2" cy="1017.1" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
 <circle cx="454.9" cy="1017.1" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
 <circle cx="518.6" cy="1017.1" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
-<text x="531.4" y="1021.1" font-size="10" text-anchor="start" fill="#1e8449" font-weight="normal">2,1–3,9 cm</text>
+<text x="531.4" y="1021.1" font-size="10" text-anchor="start" fill="#1e8449" font-weight="normal">Boden: 3 cm</text>
 <rect x="372.0" y="883.7" width="153.4" height="4.7" fill="#d9b27c" fill-opacity="0.6" stroke="#8a8a8a" stroke-width="0.8" stroke-dasharray="4,2"/>
 <circle cx="385.0" cy="886.1" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
 <circle cx="448.7" cy="886.1" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
 <circle cx="512.4" cy="886.1" r="3.6" fill="#1e8449" stroke="#fff" stroke-width="1.2"/>
-<text x="531.4" y="890.1" font-size="10" text-anchor="start" fill="#1e8449" font-weight="normal">52,5–54,3 cm</text>
+<text x="531.4" y="890.1" font-size="10" text-anchor="start" fill="#1e8449" font-weight="normal">FB: 53,4 cm</text>
 <line x1="360.0" y1="845.0" x2="360.0" y2="1024.9" stroke="#555555" stroke-width="1"/>
 <line x1="356.0" y1="845.0" x2="364.0" y2="845.0" stroke="#555555" stroke-width="1"/>
 <line x1="356.0" y1="1024.9" x2="364.0" y2="1024.9" stroke="#555555" stroke-width="1"/>
